@@ -19,7 +19,7 @@ Data set is an array of coffee roaster objects, which at a minimum should contai
 {
   "name": "Roaster Name",
   "url": "https://roaster.url",
-  "location": :"business address"
+  "location": "business address"
 }
 ```
 

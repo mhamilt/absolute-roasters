@@ -23,3 +23,14 @@ Data set is an array of coffee roaster objects, which at a minimum should contai
 }
 ```
 
+### Optional keys
+
+entries may include extra keys
+
+```json
+{
+  "facebook_handle":  "facebook_handle",
+  "instagram_handle": "instagram_handle",
+  "twitter_handle":   "@twitterHandle",
+}
+```

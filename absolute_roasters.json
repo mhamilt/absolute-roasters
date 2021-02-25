@@ -6,7 +6,6 @@
   "url": "https://cliftoncoffee.co.uk"
 }, {
   "name": "Routes Coffee Roasters",
-  "role": "roaster",
   "updated_at": "2021-02-09 05:45:16 UTC",
   "url": "https://routescoffee.co.uk",
   "profile_image_url": "https://pbs.twimg.com/profile_images/615873817819414528/qyAfguR3_400x400.jpg",
@@ -18,15 +17,13 @@
   "name": "Colombia Coffee Roasters",
   "updated_at": "2021-02-09 05:26:40 UTC",
   "url": "https://www.colombiacoffeeroasters.co.uk",
-  "role": "roaster",
   "location": "106-107 The Covered Market, Oxford, OX1 3DY",
   "instagram_handle": "colombiacoffeeroasters"
 }, {
   "name": "Highfields Coffee",
   "twitter_handle": "@HifieldsCoffee",
   "updated_at": "2021-02-09 05:19:13 UTC",
-  "url": "http://www.highfieldscoffee.co.uk",
-  "role": "roaster"
+  "url": "http://www.highfieldscoffee.co.uk"
 }, {
   "name": "Carnival Coffee Roasters",
   "updated_at": "2021-02-09 05:17:16 UTC",
@@ -34,11 +31,9 @@
   "instagram_handle": "@carnivalcoffeeroasters",
   "location": "Penge, London, SE20",
   "twitter_handle": "Carnivalcoffee1",
-  "facebook_handle": "carnivalcoffeeroasters",
-  "role": "roaster"
+  "facebook_handle": "carnivalcoffeeroasters"
 }, {
   "name": "Loch Lomond Coffee",
-  "role": "roaster",
   "updated_at": "2021-02-09 05:10:39 UTC",
   "url": "https://www.lochlomondcoffee.co.uk",
   "profile_image_url": "https://static1.squarespace.com/static/59e8531051a584cb3be13569/t/5a3ab52d41920209787fc27c/1611571428048/?format=1500w",
@@ -50,8 +45,7 @@
   "name": "The Belfast Coffee Co",
   "twitter_handle": "@belfastcoffeeco",
   "updated_at": "2020-11-18 01:12:37 UTC",
-  "url": "https://belfastcoffee.com",
-  "role": "roaster"
+  "url": "https://belfastcoffee.com"
 }, {
   "location": "4 Borough High Street, London, SE1 9QQ",
   "name": "Roasting Plant UK",
@@ -63,8 +57,7 @@
   "location": "Antrim, Northern Ireland",
   "name": "Slumberjack Coffee",
   "updated_at": "2020-11-11 03:16:58 UTC",
-  "url": "https://www.slumberjackcoffee.com",
-  "role": "roaster"
+  "url": "https://www.slumberjackcoffee.com"
 }, {
   "location": "Flurry Bridge Business Park, Lower Foughill Rd, Jonesborough, Newry, Northern Ireland, BT35 8SQ",
   "name": "Koffy",
@@ -122,29 +115,25 @@
   "location": "LIMEKILN FARM, SHERBORNE, DORSET, DT9 6PS",
   "name": "Reads Coffee",
   "updated_at": "2020-06-28 03:47:47 UTC",
-  "url": "www.readscoffee.co.uk/",
-  "role": "roaster"
+  "url": "www.readscoffee.co.uk/"
 }, {
   "location": "49 St Joseph's Road, Handsworth , Sheffield, South Yorkshire, S13 9AU",
   "name": "Smith Street Coffee",
   "twitter_handle": "@SmithStCoffee",
   "updated_at": "2020-06-28 05:07:18 UTC",
-  "url": "smithstreetcoffeeroasters.co.uk",
-  "role": "roaster"
+  "url": "smithstreetcoffeeroasters.co.uk"
 }, {
   "location": "St Martin's Sq, Leicester",
   "name": "St Martins Coffee",
   "twitter_handle": "@StMartinsCoffee",
   "updated_at": "2020-06-28 05:05:22 UTC",
-  "url": "www.stmartinscoffee.co.uk",
-  "role": "roaster"
+  "url": "www.stmartinscoffee.co.uk"
 }, {
   "location": "12 Station Yard, Edington, Wiltshire, BA13 4NT",
   "name": "Square root Coffee",
   "twitter_handle": "@sqrootcoffee",
   "updated_at": "2020-06-28 05:02:22 UTC",
-  "url": "www.squarerootcoffee.com",
-  "role": "roaster"
+  "url": "www.squarerootcoffee.com"
 }, {
   "location": "Unit C, Duck Farm Workshop, Puddletown, Dorchester, Dorset, DT2 8QL",
   "name": "The Dorset Coffee Company",
@@ -156,15 +145,13 @@
   "name": "The Missing Bean",
   "twitter_handle": "@TheMissingBean",
   "updated_at": "2020-06-28 04:50:57 UTC",
-  "url": "www.themissingbean.co.uk",
-  "role": "roaster"
+  "url": "www.themissingbean.co.uk"
 }, {
   "location": "71 Carron Place, Kelvin Industrial Estate, East Kilbride, Glasgow, Scotland, G75 0YL",
   "name": "The Roast Den",
   "twitter_handle": "@RoastdenUK",
   "updated_at": "2020-06-28 04:49:46 UTC",
-  "url": "www.roast-den.com",
-  "role": "roaster"
+  "url": "www.roast-den.com"
 }, {
   "location": "Unit 7-10 Piper Road, Hardwick Narrows Est, Kings Lynn,  Norfolk, PE30 4BH",
   "name": "Tropic Coffee Ltd",
@@ -176,8 +163,7 @@
   "name": "Tynemouth Coffee Co.",
   "twitter_handle": "@TynemouthCoffee",
   "updated_at": "2020-06-28 04:08:54 UTC",
-  "url": "tynemouthcoffee.com",
-  "role": "roaster"
+  "url": "tynemouthcoffee.com"
 }, {
   "location": "Unit 10, Mill Road Industrial Estate, Radstock, Near Bath, BA3 5TX",
   "name": "Round Hill Roastery",
@@ -208,8 +194,7 @@
   "location": "Annacotty Business Park, Annacotty, Limerick, Ireland",
   "name": "P\u00f3naire Irish Handcrafted Coffee",
   "updated_at": "2020-06-28 04:43:48 UTC",
-  "url": "www.ponaire.ie",
-  "role": "roaster"
+  "url": "www.ponaire.ie"
 }, {
   "location": "Unit 3 Kilcohan Industrial Complex, Kilcohan, Waterford, Ireland",
   "name": "Ponticelli Espresso",
@@ -221,15 +206,13 @@
   "name": "Ozone Coffee Uk",
   "twitter_handle": "@OZONECOFFEEUK",
   "updated_at": "2020-06-28 04:39:32 UTC",
-  "url": "ozonecoffee.co.uk",
-  "role": "roaster"
+  "url": "ozonecoffee.co.uk"
 }, {
   "location": "Unit 5, Meantime Workshops, North Greenwich Road, Spittal, Berwick-Upon-Tweed, Fife, TD15 1RG",
   "name": "Northern Edge Coffee",
   "twitter_handle": "@NorthernEdge_",
   "updated_at": "2020-06-28 04:09:02 UTC",
-  "url": "www.northernedgecoffee.co.uk",
-  "role": "roaster"
+  "url": "www.northernedgecoffee.co.uk"
 }, {
   "location": "Brown Candover, Alresford, Hampshire, SO24 9TN",
   "name": "Moonroast Coffee",
@@ -241,21 +224,18 @@
   "name": "Jasper's Coffee",
   "twitter_handle": "@JaspersCoffee",
   "updated_at": "2020-06-28 04:34:19 UTC",
-  "url": "jasperscoffee.co.uk",
-  "role": "roaster"
+  "url": "jasperscoffee.co.uk"
 }, {
   "location": "The Roastery, 6F Bess Park Road, Wadebridge, Cornwall, PL27 6HB",
   "name": "Hands-On Coffee",
   "twitter_handle": "@hands_on_coffee",
   "updated_at": "2020-06-28 04:32:53 UTC",
-  "url": "www.hands-on-coffee.co.uk",
-  "role": "roaster"
+  "url": "www.hands-on-coffee.co.uk"
 }, {
   "location": "9-11 Market Square, Sandbach, Cheshire , CW11 1AP",
   "name": "Godfrey C. Williams & Son Ltd",
   "updated_at": "2020-06-28 04:31:17 UTC",
-  "url": "www.godfreycwilliams.co.uk",
-  "role": "roaster"
+  "url": "www.godfreycwilliams.co.uk"
 }, {
   "location": "90 Hanbury Street, London, E1 5JL",
   "name": "doppiocoffee",
@@ -267,78 +247,67 @@
   "name": "Dark Woods Coffee",
   "twitter_handle": "@DarkWoodsCoffee",
   "updated_at": "2020-06-28 04:25:23 UTC",
-  "url": "darkwoodscoffee.co.uk",
-  "role": "roaster"
+  "url": "darkwoodscoffee.co.uk"
 }, {
   "location": "Unit 6A,  Blacklands Farm,  Wheatsheaf Rd, Henfiled,  West Sussex, BN5 9AT",
   "name": "Craft House Coffee",
   "twitter_handle": "@craftingcoffee",
   "updated_at": "2020-06-28 04:00:18 UTC",
-  "url": "crafthousecoffee.co.uk",
-  "role": "roaster"
+  "url": "crafthousecoffee.co.uk"
 }, {
   "location": "Devonbanks Cottage, Pitgober, Dollar, Clackmannanshire, Scotland, FK14 7PQ",
   "name": "CounterRoast",
   "twitter_handle": "@CounterRoast",
   "updated_at": "2020-06-28 04:09:36 UTC",
-  "url": "www.counterroast.co.uk",
-  "role": "roaster"
+  "url": "www.counterroast.co.uk"
 }, {
   "location": "Unit 20, Connect 10 Business Park, Foster Road, , Ashford, Kent, TN24 0FE",
   "name": "CoffeeBeanShop",
   "twitter_handle": "@CoffeeBeanShop",
   "updated_at": "2020-06-28 04:20:30 UTC",
-  "url": "www.coffeebeanshop.co.uk",
-  "role": "roaster"
+  "url": "www.coffeebeanshop.co.uk"
 }, {
   "location": "Mallens Brae, Torphichen, Bathgate, West Lothian, EH48 4NY",
   "name": "Coffee Direct",
   "twitter_handle": "@coffeedirect88",
   "updated_at": "2020-06-28 04:15:15 UTC",
-  "url": "www.coffeedirect.co.uk",
-  "role": "roaster"
+  "url": "www.coffeedirect.co.uk"
 }, {
   "location": "512 Fulham road, London, SW6 5NJ",
   "name": "Chairs and Coffee",
   "twitter_handle": "@chairsandcoffee",
   "updated_at": "2020-06-28 04:08:00 UTC",
-  "url": "chairsandcoffee.co.uk",
-  "role": "roaster"
+  "url": "chairsandcoffee.co.uk"
 }, {
   "location": "Roughmoor Farm, Silkmills Road, Taunton, Somerset, TA1 5AA",
   "name": "Brazier Roasters",
   "twitter_handle": "@brazierroasters",
   "updated_at": "2020-06-28 04:17:09 UTC",
-  "url": "braziercoffeeroasters.co.uk",
-  "role": "roaster"
+  "url": "braziercoffeeroasters.co.uk"
 }, {
   "location": "92 English Row, Celbridge, Co Kildare, Ireland",
   "name": "Baobab Coffee Roasters",
   "twitter_handle": "@BaobabRoasters",
   "updated_at": "2020-06-28 04:12:32 UTC",
-  "url": "www.baobab.ie",
-  "role": "roaster"
+  "url": "www.baobab.ie"
 }, {
   "location": "40 Haven Green, London, W5 2NX",
   "name": "ELECTRIC COFFEE CO.",
   "twitter_handle": "@eleccoffee",
   "updated_at": "2020-06-28 04:10:49 UTC",
-  "url": "http://electriccoffee.co.uk",
-  "role": "roaster"
+  "url": "http://electriccoffee.co.uk"
 }, {
   "location": "Unit 39, Clayhill Light Industrial Park, Coalbrookdale Rd, Neston, Cheshire, CH64 3UG",
   "name": "Flaming Bean Coffee",
   "twitter_handle": "@flamingbean",
   "updated_at": "2020-06-28 03:36:39 UTC",
-  "url": "www.flamingbean.co.uk",
-  "role": "roaster"
+  "url": "www.flamingbean.co.uk"
 }, {
   "location": "67 George St, Perth, Perthshire, Scotland, PH1 5LB",
   "name": "The Bean Shop",
   "twitter_handle": "@TheBeanShopUK",
   "updated_at": "2020-06-28 03:32:11 UTC",
-  "url": "www.thebeanshop.com",
-  "role": "roaster"
+  "url": "www.thebeanshop.com"
 }, {
   "location": "Unit 17, Millmead industrial estate, Tottenham Hale, London, N17 9BU",
   "name": "TERRONE Coffee UK",
@@ -406,42 +375,36 @@
   "name": "Two Spots Coffee",
   "twitter_handle": "@twospots_ie",
   "updated_at": "2020-06-28 01:50:58 UTC",
-  "url": "twospotscoffee.ie",
-  "role": "roaster"
+  "url": "twospotscoffee.ie"
 }, {
   "location": "55 Main Road, Ogmore By Sea, The Vale of Glamorgan, South Wales, CF32 0PL",
   "name": "The Welsh Coffee Co",
   "twitter_handle": "@welshcoffeeco",
   "updated_at": "2020-06-28 02:34:44 UTC",
-  "url": "www.welshcoffee.com",
-  "role": "roaster"
+  "url": "www.welshcoffee.com"
 }, {
   "location": "Brighton",
   "name": "The Roasted Bean Co.",
   "updated_at": "2020-06-28 01:30:38 UTC",
-  "url": "www.roastedbean.co.uk",
-  "role": "roaster"
+  "url": "www.roastedbean.co.uk"
 }, {
   "location": "3 Peacock Parade, Lake Street, Leighton Buzzard, Bedfordshire, LU7 1JH",
   "name": "The House of Coffee",
   "twitter_handle": "@HouseofCoffee1",
   "updated_at": "2020-06-28 02:31:44 UTC",
-  "url": "thehouseofcoffee.co.uk",
-  "role": "roaster"
+  "url": "thehouseofcoffee.co.uk"
 }, {
   "location": "Reigate, Surrey",
   "name": "The Fresh Coffee Co",
   "twitter_handle": "@FreshCoffeeCo",
   "updated_at": "2020-06-28 01:48:46 UTC",
-  "url": "www.thefreshcoffeecompany.com",
-  "role": "roaster"
+  "url": "www.thefreshcoffeecompany.com"
 }, {
   "location": "Humber St Market, Hull and 22 Unit Factory Estate, Boulevard, Hull, Kingston upon Hull, HU3 4AY",
   "name": "The Blending Room",
   "twitter_handle": "@TheBlendingRoom",
   "updated_at": "2020-06-28 03:16:41 UTC",
-  "url": "www.theblendingroom.co.uk",
-  "role": "roaster"
+  "url": "www.theblendingroom.co.uk"
 }, {
   "location": "London",
   "name": "Specialty Coffee Co",
@@ -453,35 +416,30 @@
   "name": "Smokey Barn Coffee",
   "twitter_handle": "@SmokeyBarn",
   "updated_at": "2020-06-28 03:13:41 UTC",
-  "url": "www.smokeybarn.co.uk",
-  "role": "roaster"
+  "url": "www.smokeybarn.co.uk"
 }, {
   "location": "68 Goldstone Villas, Hove, Brighton and Hove, BN3 3RU",
   "name": "Small Batch Coffee",
   "twitter_handle": "@SmallBatchCR",
   "updated_at": "2020-06-28 03:10:42 UTC",
-  "url": "www.smallbatchcoffee.co.uk",
-  "role": "roaster"
+  "url": "www.smallbatchcoffee.co.uk"
 }, {
   "location": "Foundry Lane Studios, Foundry Lane, Newcastle-Upon-Tyne, NE6 1LH",
   "name": "Ouseburn Coffee Co.",
   "twitter_handle": "@OuseburnCoffee",
   "updated_at": "2020-06-28 02:33:50 UTC",
-  "url": "www.ouseburncoffee.co.uk",
-  "role": "roaster"
+  "url": "www.ouseburncoffee.co.uk"
 }, {
   "location": "26 Hanbury St, London, E1 6QR",
   "name": "Nude Coffee Roasters",
   "twitter_handle": "@NudeEspresso",
   "updated_at": "2020-06-28 03:08:17 UTC",
-  "url": "www.nudeespresso.com",
-  "role": "roaster"
+  "url": "www.nudeespresso.com"
 }, {
   "name": "Newbeans Coffee",
   "twitter_handle": "@newbeanscoffee",
   "updated_at": "2020-06-28 03:06:46 UTC",
-  "url": "www.newbeans.co.uk",
-  "role": "roaster"
+  "url": "www.newbeans.co.uk"
 }, {
   "location": "2 Park St, London, SE1 9AB",
   "name": "Monmouth Coffee",
@@ -493,64 +451,55 @@
   "name": "Matthew Algie",
   "twitter_handle": "@Matthew_Algie",
   "updated_at": "2020-06-28 02:35:18 UTC",
-  "url": "www.matthewalgie.com",
-  "role": "roaster"
+  "url": "www.matthewalgie.com"
 }, {
   "location": "North Hykeham, Lincoln",
   "name": "Lincoln Tea & Coffee",
   "twitter_handle": "@LincolnTeaCoffe",
   "updated_at": "2020-06-28 01:48:32 UTC",
-  "url": "thelincolnteaandcoffeecompany.co.uk",
-  "role": "roaster"
+  "url": "thelincolnteaandcoffeecompany.co.uk"
 }, {
   "location": "Chiswick, London",
   "name": "Kimbo UK",
   "twitter_handle": "@KimbointheUK",
   "updated_at": "2020-06-28 02:36:56 UTC",
-  "url": "www.kimbo.co.uk",
-  "role": "roaster"
+  "url": "www.kimbo.co.uk"
 }, {
   "location": "Duke Street, Mayfair, London, W1",
   "name": "HR Higgins Ltd",
   "twitter_handle": "@Higginscoffee",
   "updated_at": "2020-06-28 02:35:12 UTC",
-  "url": "www.hrhiggins.co.uk",
-  "role": "roaster"
+  "url": "www.hrhiggins.co.uk"
 }, {
   "location": "Lyleston West Lodge, Cardross, Argyll and Bute, Scotland, G82 5HF",
   "name": "Home Ground Coffee",
   "twitter_handle": "@The_coffee_guy",
   "updated_at": "2020-06-28 02:59:22 UTC",
-  "url": "www.homegroundcoffee.co.uk",
-  "role": "roaster"
+  "url": "www.homegroundcoffee.co.uk"
 }, {
   "location": "2 Cornwall Place, High Street, Buckingham, Buckinghamshire, MK18 1SB",
   "name": "Gyre & Gimble",
   "twitter_handle": "@mrgyre_mrgimble",
   "updated_at": "2020-06-28 01:51:04 UTC",
-  "url": "gyre.coffeevagabond.co.uk",
-  "role": "roaster"
+  "url": "gyre.coffeevagabond.co.uk"
 }, {
   "location": "Unit 42 Bradley Court, Bradley Fold Trading Estate, Radcliffe Moor Road, Bolton, Lancashire, BL2 6RT",
   "name": "Garraways Coffee",
   "twitter_handle": "@GarrawaysCoffee",
   "updated_at": "2020-06-28 02:44:25 UTC",
-  "url": "www.garraways.co.uk",
-  "role": "roaster"
+  "url": "www.garraways.co.uk"
 }, {
   "location": "Unit 77-78, Brixton Village Market, London, SW9 8PS",
   "name": "Federation Coffee",
   "twitter_handle": "@FederationCoffe",
   "updated_at": "2020-06-28 02:42:19 UTC",
-  "url": "https://federation.coffee",
-  "role": "roaster"
+  "url": "https://federation.coffee"
 }, {
   "location": "27 Stockman\u2019s Way, Belfast, Northern Ireland, BT9 7ET",
   "name": "Bailies Coffee",
   "twitter_handle": "@bailiescoffeeco",
   "updated_at": "2020-06-28 02:42:28 UTC",
-  "url": "www.bailiescoffee.com",
-  "role": "roaster"
+  "url": "www.bailiescoffee.com"
 }, {
   "location": "Newcastle upon Tyne",
   "name": "GoldBoxRoastery",
@@ -562,29 +511,25 @@
   "name": "Exchange Coffee Co.",
   "twitter_handle": "@Exchange_Coffee",
   "updated_at": "2020-06-28 02:35:40 UTC",
-  "url": "www.exchangecoffee.co.uk",
-  "role": "roaster"
+  "url": "www.exchangecoffee.co.uk"
 }, {
   "location": "16 Front Street,  Prudhoe, Northumberland, NE42 5HN",
   "name": "Caffe Ginevra UK",
   "twitter_handle": "@CaffeGinevraUK",
   "updated_at": "2020-06-28 02:35:47 UTC",
-  "url": "www.caffeginevra.co.uk",
-  "role": "roaster"
+  "url": "www.caffeginevra.co.uk"
 }, {
   "location": "13a Boundary Business Centre, Boundary Way, Woking, Surrey, GU21 5DH",
   "name": "Beanberry Coffee Company",
   "twitter_handle": "@beanberrycoffee",
   "updated_at": "2020-06-28 02:31:07 UTC",
-  "url": "www.beanberrycoffee.com",
-  "role": "roaster"
+  "url": "www.beanberrycoffee.com"
 }, {
   "location": "28 Sydney street, Brighton, BN1 4EP",
   "name": "Pelicano House",
   "twitter_handle": "@Pelicanocoffee",
   "updated_at": "2020-06-28 01:03:49 UTC",
-  "url": "pelicanohouse.com",
-  "role": "roaster"
+  "url": "pelicanohouse.com"
 }, {
   "location": "24 Kenilworth Road, Ainsdale, Southport, PR8 3PE",
   "name": "Django Coffee Co.",
@@ -596,15 +541,13 @@
   "name": "Crankhouse Coffee",
   "twitter_handle": "@crankhouseroast",
   "updated_at": "2020-06-28 01:46:26 UTC",
-  "url": "https://www.crankhousecoffee.co.uk",
-  "role": "roaster"
+  "url": "https://www.crankhousecoffee.co.uk"
 }, {
   "location": "Fairfield Mills, Queen Street South, Huddersfield, West Yorkshire, HD1 3DX",
   "name": "Bean Brothers",
   "twitter_handle": "@beanbrothersLtd",
   "updated_at": "2020-06-28 02:03:00 UTC",
-  "url": "www.beanbrothers.co.uk",
-  "role": "roaster"
+  "url": "www.beanbrothers.co.uk"
 }, {
   "location": "Unit 50, Station Road Workshops, Station Road, Bristol, BS15 4PJ",
   "name": "Little and Long",
@@ -640,8 +583,7 @@
   "name": "Upside Coffee",
   "twitter_handle": "@upside_coffee",
   "updated_at": "2020-06-28 01:03:12 UTC",
-  "url": "www.upsidecoffee.com",
-  "role": "roaster"
+  "url": "www.upsidecoffee.com"
 }, {
   "location": "19a Anne Street South, Dublin, Ireland, 2",
   "name": "DublinBaristaSchool",
@@ -658,49 +600,42 @@
   "location": "Southampton",
   "name": "SOroast",
   "updated_at": "2020-06-28 01:03:41 UTC",
-  "url": "www.soroastcoffee.co.uk",
-  "role": "roaster"
+  "url": "www.soroastcoffee.co.uk"
 }, {
   "location": "Unit 13 Blackwater Road, Dublin Industrial Estate, Dublin, Ireland , 11",
   "name": "Silverskin Coffee",
   "twitter_handle": "@Silverskin_",
   "updated_at": "2020-06-28 01:09:59 UTC",
-  "url": "www.silverskincoffee.ie",
-  "role": "roaster"
+  "url": "www.silverskincoffee.ie"
 }, {
   "location": "Unit 1 Green Farm, Wendover Road, Rackheath Ind. Est., Norwich, Norfolk, NR13 6LQ",
   "name": "Green Farm Coffee",
   "twitter_handle": "@greenfarmcoffee",
   "updated_at": "2020-06-28 01:03:32 UTC",
-  "url": "www.greenfarmcoffee.co.uk",
-  "role": "roaster"
+  "url": "www.greenfarmcoffee.co.uk"
 }, {
   "location": "Southview, Maypole Lane, Hoath, Canterbury, Kent,  CT3 4LL",
   "name": "Garage Coffee",
   "twitter_handle": "@GarageRoasted",
-  "updated_at": "2020-06-28 01:02:48 UTC",
-  "role": "roaster"
+  "updated_at": "2020-06-28 01:02:48 UTC"
 }, {
   "location": "Unit 1 Pentrich Road, Giltbrook Ind. Estate, Nottingham, NG16 2UZ",
   "name": "Coffee Central",
   "twitter_handle": "@CoffeeCentralUK",
   "updated_at": "2020-06-28 00:47:08 UTC",
-  "url": "coffeecentral.co.uk",
-  "role": "roaster"
+  "url": "coffeecentral.co.uk"
 }, {
   "location": "Ampthill, Bedfordshire",
   "name": "Wooden Hill Coffee",
   "twitter_handle": "@WoodenHcoffee",
   "updated_at": "2020-06-28 01:12:38 UTC",
-  "url": "www.woodenhillcoffee.com",
-  "role": "roaster"
+  "url": "www.woodenhillcoffee.com"
 }, {
   "location": "11 Bank St, Carlisle, Cumbria, CA3 8HG",
   "name": "John Watt And Sons",
   "twitter_handle": "@johnwatt_son",
   "updated_at": "2020-06-28 01:00:12 UTC",
-  "url": "www.johnwattandson.co.uk",
-  "role": "roaster"
+  "url": "www.johnwattandson.co.uk"
 }, {
   "location": "Unit 9 Castle business Park, Shrewsbury, Shropshire, SY1 2EG",
   "name": "Iron & Fire Speciality Coffee Roasters",
@@ -712,8 +647,7 @@
   "name": "Well Roasted Coffee",
   "twitter_handle": "@well_roasted",
   "updated_at": "2020-06-28 00:07:19 UTC",
-  "url": "www.wellroastedcoffee.com",
-  "role": "roaster"
+  "url": "www.wellroastedcoffee.com"
 }, {
   "name": "Eat Your Hat",
   "twitter_handle": "@eatyourhat",
@@ -745,15 +679,13 @@
   "name": "cricklewood coffee",
   "twitter_handle": "@nw2coffee",
   "updated_at": "2020-06-27 07:18:06 UTC",
-  "url": "cricklewoodcoffee.co",
-  "role": "roaster"
+  "url": "cricklewoodcoffee.co"
 }, {
   "location": "Fort Road, Wick, Littlehampton, BN17 7QZ",
   "name": "Decadent Decaf Coffee Company",
   "twitter_handle": "@DecadentDecaf",
   "updated_at": "2020-06-27 06:53:20 UTC",
-  "url": "www.decadentdecaf.com",
-  "role": "roaster"
+  "url": "www.decadentdecaf.com"
 }, {
   "location": "123 Stokes Croft, Bristol, BS1 3RZ",
   "name": "TripleCoRoast",
@@ -771,42 +703,36 @@
   "location": "Suite 3, Maybank Business Centre, 208 Maybank Road, London, E18 1ET",
   "name": "Regal Coffee Ltd.",
   "updated_at": "2020-06-27 06:46:30 UTC",
-  "url": "http://regalcoffeeroasters.co.uk",
-  "role": "roaster"
+  "url": "http://regalcoffeeroasters.co.uk"
 }, {
   "location": "66 The Park, Findhorn, IV36 3TZ",
   "name": "Green Bridge Organics",
   "updated_at": "2020-06-27 06:36:34 UTC",
-  "url": "greenbridgeorganics.co.uk",
-  "role": "roaster"
+  "url": "greenbridgeorganics.co.uk"
 }, {
   "location": "10 Acacia Business Centre, Howard Rd, Leytonstone, London, E11 3PJ",
   "name": "Perky Blenders Coffee Roasters",
   "twitter_handle": "@perkyblenders",
   "updated_at": "2020-06-27 06:25:35 UTC",
-  "url": "http://www.perkyblenders.com",
-  "role": "roaster"
+  "url": "http://www.perkyblenders.com"
 }, {
   "location": "Norwich, NR2 1DE",
   "name": "Strangers Coffee",
   "twitter_handle": "@StrangersCoffee",
   "updated_at": "2020-06-27 06:22:59 UTC",
-  "url": "http://www.strangerscoffee.com",
-  "role": "roaster"
+  "url": "http://www.strangerscoffee.com"
 }, {
   "location": "12 Blackwood Gardens, Leeds, LS16 7RQ",
   "name": "Pebble & Pine Coffee",
   "twitter_handle": "@PebblePine",
   "updated_at": "2020-06-27 06:20:36 UTC",
-  "url": "https://pebbleandpine.co.uk",
-  "role": "roaster"
+  "url": "https://pebbleandpine.co.uk"
 }, {
   "location": "31 Knightsdale Road, Ipswich, Suffolk, IP1 4JJ",
   "name": "Coffeelink",
   "twitter_handle": "@Coffeelink",
   "updated_at": "2020-06-27 04:40:39 UTC",
-  "url": "https://www.coffeelink.com",
-  "role": "roaster"
+  "url": "https://www.coffeelink.com"
 }, {
   "location": "Howard's Nursery, Handcross Road, Plummers Plain, Horsham, West Sussex, RH13 6NX",
   "name": "Horsham Coffee Roaster",
@@ -818,36 +744,31 @@
   "name": "Hampshire Coffee Co.",
   "twitter_handle": "@hantscoffeeco",
   "updated_at": "2020-06-16 22:39:51 UTC",
-  "url": "www.hampshirecoffee.co",
-  "role": "roaster"
+  "url": "www.hampshirecoffee.co"
 }, {
   "location": "Heston House, Meadow Lane, Nottingham, NG2 3HE",
   "name": "200 Degrees Coffee",
   "twitter_handle": "@200Degs",
   "updated_at": "2020-06-15 09:32:27 UTC",
-  "url": "www.200degs.com",
-  "role": "roaster"
+  "url": "www.200degs.com"
 }, {
   "location": "138 Valley Drive, Harrogate, HG2 0JS",
   "name": "Source Climate Coffee",
   "twitter_handle": "@SClimateCoffee",
   "updated_at": "2020-06-16 04:41:07 UTC",
-  "url": "www.sourceclimatechange.com",
-  "role": "roaster"
+  "url": "www.sourceclimatechange.com"
 }, {
   "location": "8b, Oakham Enterprise Park, Ashwell Road, Oakham, East Midlands, LE15 7TU",
   "name": "Two Chimps Coffee",
   "twitter_handle": "@twochimpscoffee",
   "updated_at": "2020-06-16 04:38:43 UTC",
-  "url": "twochimpscoffee.com",
-  "role": "roaster"
+  "url": "twochimpscoffee.com"
 }, {
   "location": "11 Victoria Avenue, Heanor, Derbyshire, DE75 7SA",
   "name": "47 degrees coffee",
   "twitter_handle": "@47degreescoffee",
   "updated_at": "2020-06-16 04:35:25 UTC",
-  "url": "47degreescoffee.com",
-  "role": "roaster"
+  "url": "47degreescoffee.com"
 }, {
   "location": "Unit 54-55, Milstrood Road, Whitstable, Kent, CT5 3PS",
   "name": "Lost Sheep Coffee",
@@ -859,29 +780,25 @@
   "name": "Honeybee Coffee",
   "twitter_handle": "@HoneybeeCoffee1",
   "updated_at": "2020-06-16 04:29:18 UTC",
-  "url": "thehoneybeecoffeeroastery.co.uk",
-  "role": "roaster"
+  "url": "thehoneybeecoffeeroastery.co.uk"
 }, {
   "location": "London, W2 4UA",
   "name": "Chapter Coffee",
   "twitter_handle": "@ChapterCoffee",
   "updated_at": "2020-06-16 04:27:46 UTC",
-  "url": "chaptercoffee.com",
-  "role": "roaster"
+  "url": "chaptercoffee.com"
 }, {
   "location": "Marygate, Holy Island, Northumberland, TD15 2SJ",
   "name": "Pilgrims Coffee",
   "twitter_handle": "@PilgrimsCoffee",
   "updated_at": "2020-06-16 04:25:50 UTC",
-  "url": "www.pilgrimscoffee.com",
-  "role": "roaster"
+  "url": "www.pilgrimscoffee.com"
 }, {
   "location": "49 Main Street, Staveley, Cumbria, LA8 9LN",
   "name": "Mr Duffins Coffee",
   "twitter_handle": "@MrDuffins",
   "updated_at": "2020-06-16 04:21:09 UTC",
-  "url": "www.mrduffinscoffee.com",
-  "role": "roaster"
+  "url": "www.mrduffinscoffee.com"
 }, {
   "location": "Co Meath, Ireland",
   "name": "The Studio Coffee Roasters",
@@ -939,14 +856,12 @@
   "name": "Wellington Coffee",
   "twitter_handle": "@WellingtonCoffe",
   "updated_at": "2020-06-11 04:41:32 UTC",
-  "url": "wellingtoncoffee.co.uk",
-  "role": "roaster"
+  "url": "wellingtoncoffee.co.uk"
 }, {
   "location": "472 Long Lane, East Finchley, London, N2 8JL",
   "name": "Angelucci Coffee",
   "updated_at": "2020-06-11 04:19:44 UTC",
-  "url": "angeluccicoffee.co.uk",
-  "role": "roaster"
+  "url": "angeluccicoffee.co.uk"
 }, {
   "location": "30 Duncan St, The Angel, London, N1 8BW",
   "name": "Scarlett Coffee Roastery",
@@ -958,22 +873,19 @@
   "name": "Coleman Coffee Roasters",
   "twitter_handle": "@ColemanCoffee",
   "updated_at": "2020-06-11 04:05:18 UTC",
-  "url": "colemancoffee.com",
-  "role": "roaster"
+  "url": "colemancoffee.com"
 }, {
   "location": "Unit 4a, The Foundry London Road, Kingsworthy, SO23 7QN",
   "name": "Brown Bottle Coffee",
   "twitter_handle": "@BrownBottleCo",
   "updated_at": "2020-06-11 04:02:34 UTC",
-  "url": "brownbottlecoffee.com",
-  "role": "roaster"
+  "url": "brownbottlecoffee.com"
 }, {
   "location": "London",
   "name": "ThreeSixty\u02da Coffee",
   "twitter_handle": "@360_Coffee",
   "updated_at": "2020-06-11 03:59:51 UTC",
-  "url": "http://www.ThreeSixtyCoffee.co.uk",
-  "role": "roaster"
+  "url": "http://www.ThreeSixtyCoffee.co.uk"
 }, {
   "name": "BelfastCoffeeRoasters",
   "twitter_handle": "@BelfastRoasters",
@@ -984,8 +896,7 @@
   "name": "OLD SPIKE ROASTERY",
   "twitter_handle": "@OldSpikeRoast",
   "updated_at": "2020-06-11 03:51:12 UTC",
-  "url": "http://www.oldspikeroastery.com",
-  "role": "roaster"
+  "url": "http://www.oldspikeroastery.com"
 }, {
   "location": "The Roastery, 60 Basepoint Business & Innovation Centre, Caxton Close, Andover, Hampshire, SP10 3QN",
   "name": "Peaberry Coffee",
@@ -997,8 +908,7 @@
   "name": "Winchester Coffee",
   "twitter_handle": "@wincoffeeschool",
   "updated_at": "2020-06-11 02:59:33 UTC",
-  "url": "www.winchestercoffeeschool.co.uk",
-  "role": "roaster"
+  "url": "www.winchestercoffeeschool.co.uk"
 }, {
   "location": "Old Windsor, Windsor, Berkshire, SL4 2PB",
   "name": "Brewup Coffee",
@@ -1022,8 +932,7 @@
   "name": "Silver Oak Coffee",
   "twitter_handle": "@SilverOakCoffee",
   "updated_at": "2020-06-10 10:47:45 UTC",
-  "url": "silveroakcoffee.co.uk",
-  "role": "roaster"
+  "url": "silveroakcoffee.co.uk"
 }, {
   "location": "Stables, Blackwood Estate, Lesmahagow, South Lanarkshire, Scotland, ML11 0JG",
   "name": "Ovenbird Coffee Roasters",
@@ -1073,8 +982,7 @@
   "name": "918 Coffee",
   "twitter_handle": "@918_Coffee_Co",
   "updated_at": "2020-06-10 10:04:17 UTC",
-  "url": "www.918coffee.com",
-  "role": "tcr-roaster"
+  "url": "www.918coffee.com"
 }, {
   "location": "Basingstoke, Hampshire",
   "name": "Anvil Coffee",
@@ -1117,8 +1025,7 @@
   "name": "Three Hills Coffee",
   "twitter_handle": "@3HillsCoffee",
   "updated_at": "2020-05-27 05:00:10 UTC",
-  "url": "https://www.threehillscoffee.com",
-  "role": "roaster"
+  "url": "https://www.threehillscoffee.com"
 }, {
   "name": "PLOT Roasting",
   "twitter_handle": "@PlotRoasting",
@@ -1228,14 +1135,12 @@
   "name": "Merchant and Miller Cheshire Coffee",
   "twitter_handle": "@MerchantMiller_",
   "updated_at": "2020-05-21 07:27:46 UTC",
-  "url": "https://www.merchantandmiller.co.uk/?utm_source=thecoffeeroasters&utm_medium=profilelink",
-  "role": "roaster"
+  "url": "https://www.merchantandmiller.co.uk/?utm_source=thecoffeeroasters&utm_medium=profilelink"
 }, {
   "location": "Unit 14, Worcester Road Ind Estate, CHIPPING NORTON, OX7 5XW",
   "name": "Adam & Oliver Coffee Roasters",
   "updated_at": "2020-05-21 07:18:07 UTC",
-  "url": "www.adamandoliver.co.uk",
-  "role": "roaster"
+  "url": "www.adamandoliver.co.uk"
 }, {
   "location": "Hayling Island, Hampshire",
   "name": "Hayling Island Coffee Society",
@@ -1347,8 +1252,7 @@
   "name": "Maude Coffee",
   "twitter_handle": "@maudecoffee",
   "updated_at": "2020-04-27 00:44:49 UTC",
-  "url": "www.maudecoffee.co.uk",
-  "role": "roaster"
+  "url": "www.maudecoffee.co.uk"
 }, {
   "name": "Two Dogs Coffee Roasting Company",
   "updated_at": "2020-04-26 06:18:38 UTC",
@@ -1367,8 +1271,7 @@
   "name": "Clumsy Goat Coffee",
   "twitter_handle": "@clumsy_goat",
   "updated_at": "2020-04-25 03:40:37 UTC",
-  "url": "clumsygoat.co.uk",
-  "role": "roaster"
+  "url": "clumsygoat.co.uk"
 }, {
   "location": "Crown House, 193 Chatsworth Road, Chesterfield, Derbyshire, S40 2BA",
   "name": "Northern Tea",
@@ -1385,8 +1288,7 @@
   "name": "Ue Coffee Roasters",
   "twitter_handle": "@uecoffee",
   "updated_at": "2019-12-22 11:02:56 UTC",
-  "url": "www.uecoffeeroasters.com",
-  "role": "roaster"
+  "url": "www.uecoffeeroasters.com"
 }, {
   "location": "Wicks House, Ford Lane, Arundel, West Sussex, BN18 0DF",
   "name": "Edgcumbes",
@@ -1410,22 +1312,19 @@
   "name": "Butterworth & Son",
   "twitter_handle": "@ButterworthsUK",
   "updated_at": "2019-12-22 11:02:56 UTC",
-  "url": "www.butterworthandson.co.uk",
-  "role": "roaster"
+  "url": "www.butterworthandson.co.uk"
 }, {
   "location": "The Granary, East Rounton, Northallerton, North Yorkshire, DL6 2LG",
   "name": "Rounton Coffee Roasters",
   "twitter_handle": "@RountonCoffee",
   "updated_at": "2019-12-22 11:02:47 UTC",
-  "url": "www.rountoncoffee.co.uk",
-  "role": "tcr-roaster"
+  "url": "www.rountoncoffee.co.uk"
 }, {
   "location": "Unit 8, London Ebor Business Park, Millfield Lane, Nether Poppleton, York, YO26 6QY",
   "name": "York Coffee Emporium",
   "twitter_handle": "@york_coffee",
   "updated_at": "2019-12-23 16:18:54 UTC",
-  "url": "www.yorkcoffeeemporium.co.uk",
-  "role": "roaster"
+  "url": "www.yorkcoffeeemporium.co.uk"
 }, {
   "name": "BaristocracyCoffee",
   "twitter_handle": "@BaristocracyCo",
@@ -1436,8 +1335,7 @@
   "name": "Lindfield Coffee Works",
   "twitter_handle": "@lindcoffeeworks",
   "updated_at": "2019-12-22 11:02:59 UTC",
-  "url": "http://www.lindfieldcoffeeworks.co.uk",
-  "role": "roaster"
+  "url": "http://www.lindfieldcoffeeworks.co.uk"
 }, {
   "name": "Blue Goose Coffee",
   "twitter_handle": "@BlueGooseCoffee",
@@ -1460,6 +1358,29 @@
   "updated_at": "2019-12-19 17:54:57 UTC",
   "url": "https://www.liminicoffee.co.uk"
 }, {
+  "location": "The Roastery, 510 Mitchelstown Road, Northwest Business Park, Ballycoolin, Dublin, Ireland",
+  "name": "Java Republic Roasting Company",
+  "profile_image_url": "https://www.javarepublic.com/wp-content/uploads/2017/11/Unknown.png",
+  "updated_at": "2019-11-17 14:34:13 UTC",
+  "url": "www.javarepublic.com"
+}, {
+  "name": "Pink Lane Coffee",
+  "profile_image_url": "https://cdn.shopify.com/s/files/1/0181/3537/files/pink-lane-coffee-logo.jpg?1099",
+  "twitter_handle": "@PinkLaneCoffee",
+  "updated_at": "2019-11-03 19:17:22 UTC",
+  "url": "https://www.pinklanecoffee.co.uk",
+  "facebook_handle": "PinkLaneCoffee",
+  "instagram_handle": "pinklanecoffee",
+  "location": "1 Pink Lane, Newcastle, NE1 5DW"
+}, {
+  "location": "48 Appin Road, Argyle Industrial Estate, Birkenhead, Merseyside, CH41 9HH",
+  "name": "Adams & Russell",
+  "profile_image_url": "https://cdn.shopify.com/s/files/1/0181/3537/files/adams-and-russell-logo.png?1028",
+  "twitter_handle": "@adamsandrussell",
+  "updated_at": "2019-07-30 08:56:30 UTC",
+  "url": "www.adamsandrussell.co.uk",
+  "facebook_handle": "adamsandrussell"
+}, {
   "name": "Untold Coffee",
   "twitter_handle": "@UntoldRoasters",
   "updated_at": "2019-12-19 21:07:46 UTC",
@@ -1473,30 +1394,66 @@
   "url": "https://www.heartandgraft.co.uk",
   "instagram_handle": "heartandgraft"
 }, {
+  "location": "ARGAL HOME FARM KERGILLIACK, Falmouth, Cornwall, TR11 5PD",
+  "name": "YallahCoffee",
+  "profile_image_url": "pbs.twimg.com/profile_images/2931178569/6a5bdd5e84ed2e6e415550c6d8f9140b_400x400.jpeg",
+  "twitter_handle": "@YallahCoffee",
+  "updated_at": "2019-07-04 08:10:50 UTC",
+  "url": "www.yallahcoffee.co.uk"
+}, {
+  "location": "Old Brewery Yard \u00b7 Lower Treluswell, Penryn, Cornwall, TR10 9AT",
+  "name": "Olfactory Coffee",
+  "profile_image_url": "https://cdn.shopify.com/s/files/1/0831/6631/t/16/assets/logo.png",
+  "twitter_handle": "@olfactorycoffee",
+  "updated_at": "2019-07-04 08:20:24 UTC",
+  "url": "https://www.olfactorycoffee.co.uk"
+}, {
   "location": "Aylesbury, Hertsfordshire, HP20 1EH",
   "name": "Redemption roasters",
   "updated_at": "2019-12-23 13:39:32 UTC",
   "url": "https://www.redemptionroasters.com"
 }, {
+  "name": "Assembly Coffee",
+  "profile_image_url": "https://pbs.twimg.com/profile_images/1110844713979076609/597cvEvW_400x400.jpg",
+  "twitter_handle": "@AssemblyRoast",
+  "updated_at": "2019-07-04 08:04:19 UTC",
+  "url": "https://assemblycoffee.co.uk",
+  "location": "244 Ferndale Road, London, SW9 8FR",
+  "facebook_handle": "AssemblyRoast",
+  "instagram_handle": "AssemblyRoast"
+}, {
+  "location": "49a Kirk Ports North, Berwick, East Lothian, Scotland, EH39 4HL",
+  "name": "Steampunk Coffee Roasters",
+  "profile_image_url": "https://cdn.shopify.com/s/files/1/1488/1242/files/croppedtotextlogo-01_copy_400x200.png?v=1489677269",
+  "twitter_handle": "@SteampunkCoffee",
+  "updated_at": "2019-06-20 17:08:57 UTC",
+  "url": "http://www.steampunkcoffee.co.uk",
+  "facebook_handle": "steampunkcoffee",
+  "instagram_handle": "steampunkcoffee"
+}, {
+  "name": "Paddy & Scott's",
+  "url": "www.paddyandscotts.co.uk",
+  "location": "Suffolk, IP13 7SR",
+  "profile_image_url": "https://scontent.fmxp3-1.fna.fbcdn.net/v/t1.0-9/18056715_10154267845081058_8310379729988233478_n.jpg?_nc_cat=107&_nc_ht=scontent.fmxp3-1.fna&oh=6becb92b1755be754e0a53b8503c85ad&oe=5D968493",
+  "twitter_handle": "@PaddyandScotts",
+  "updated_at": "18-Jun-2019 14:46"
+}, {
   "location": "8 Brunel Business Court, Eastern Way, Bury St Edmunds, Suffolk, IP32 7AJ",
   "name": "F & E Coffee",
   "twitter_handle": "@FandEcoffee",
   "updated_at": "2019-12-21 17:45:39 UTC",
-  "url": "https://www.fandecoffee.co.uk",
-  "role": "tcr-roaster"
+  "url": "https://www.fandecoffee.co.uk"
 }, {
   "location": "Richmond, North Yorkshire, DL10 4QE",
   "name": "Scayl Coffee Packing Machines",
   "updated_at": "2019-12-23 14:01:05 UTC",
-  "url": "https://www.scayl.co.uk",
-  "role": "roaster"
+  "url": "https://www.scayl.co.uk"
 }, {
   "location": "Salford, England",
   "name": "Salford Roasters \u2615\ufe0f",
   "twitter_handle": "@SalfordRoasters",
   "updated_at": "2019-12-21 17:58:05 UTC",
-  "url": "http://www.salfordroasters.co.uk",
-  "role": "roaster"
+  "url": "http://www.salfordroasters.co.uk"
 }, {
   "location": "UPTON SCUDAMORE, Wiltshire",
   "name": "GirlsWhoGrindCoffee",
@@ -1504,11 +1461,177 @@
   "updated_at": "2019-12-19 21:05:16 UTC",
   "url": "http://www.girlswhogrindcoffee.com"
 }, {
+  "name": "Kent Tea and Coffee",
+  "url": "https://www.tea-and-coffee.com",
+  "location": "Pivington Mill, Egerton Road, Pluckley, Ashford, Kent, TN27 0PG",
+  "profile_image_url": "pbs.twimg.com/profile_images/768797845768077313/Uu1XpOAP_400x400.jpg",
+  "twitter_handle": "@kentteacoffee",
+  "updated_at": "14-Jul-2018 12:02"
+}, {
+  "name": "Littlestone Coffee",
+  "url": "www.littlestonecoffee.co.uk",
+  "location": "17 Norman Court, Budlake Road, Exeter, EX2 8PY",
+  "profile_image_url": "littlestonecoffee.co.uk/wp-content/themes/littlestone/assets/img/logo.png",
+  "twitter_handle": "@Lstonecoffee",
+  "updated_at": "17-Sep-2017 16:46"
+}, {
   "location": "The Arch Roastery, Arch 374, Helmsley Place, London, E8 3SB",
   "name": "Climpson & Sons",
   "twitter_handle": "@climpsonandsons",
   "updated_at": "2019-12-21 16:34:46 UTC",
   "url": "https://climpsonandsons.com/"
+}, {
+  "name": "London Coffee Roasters",
+  "url": "www.londoncoffeeroasters.co.uk",
+  "location": "",
+  "profile_image_url": "pbs.twimg.com/profile_images/2467591765/nmv1kr6r3bgwx16q4dwl_400x400.jpeg",
+  "twitter_handle": "@LCoffeeRoasters",
+  "updated_at": "19-Jan-2017 10:58"
+}, {
+  "name": "Zombie Coffee Co & Roastery",
+  "url": "http://zombiecoffeeco.co.uk",
+  "location": "Clitheroe, Lankshire, BB7",
+  "profile_image_url": "https://cdn.shopify.com/s/files/1/0181/3537/files/zombie-coffee-logo.jpg",
+  "updated_at": "16-Jul-2018 08:44"
+}, {
+  "name": "Pump n Grind",
+  "url": "pumpngrind.co.uk",
+  "location": "Leeds, UK",
+  "profile_image_url": "pbs.twimg.com/profile_images/689073941839740928/zbHH4M3K.jpg",
+  "twitter_handle": "@pumpngrind",
+  "updated_at": "27-Oct-2016 22:21"
+}, {
+  "name": "Danielle's Coffee",
+  "url": "www.daniellescoffee.co.uk",
+  "location": "1 Burwarton, Bridgnorth, Shropshire, WV16 6QG",
+  "profile_image_url": "pbs.twimg.com/profile_images/1106278318/DC_Red_Circle_small_normal.jpg",
+  "twitter_handle": "@DaniellesCoffee",
+  "updated_at": "01-Aug-2016 12:12"
+}, {
+  "name": "Italian aroma coffee",
+  "url": "www.italianaromacoffee.co.uk",
+  "location": "",
+  "profile_image_url": "pbs.twimg.com/profile_images/710091133142097921/jZEz70c-_normal.jpg",
+  "twitter_handle": "@italian_aroma",
+  "updated_at": "13-Apr-2016 07:54"
+}, {
+  "name": "Coburg Coffee Co.",
+  "url": "coburgcoffeecompany.co.uk",
+  "location": "3 Harrington Way, Warspite Road, London, SE18 5NU",
+  "profile_image_url": "pbs.twimg.com/profile_images/562275513683566593/wdQhEkws.jpeg",
+  "twitter_handle": "@CoburgCoffeeCo",
+  "updated_at": "07-Mar-2016 19:33"
+}, {
+  "name": "Roast Batch",
+  "url": "roastbatch.com",
+  "location": "Newcastle-upon-Tyne",
+  "profile_image_url": "s3.amazonaws.com/cratejoy_vendor_images/2331705d33074c248336506588290cfa.png",
+  "twitter_handle": "@RoastBatch",
+  "updated_at": "01-Aug-2016 12:20"
+}, {
+  "name": "Carrara Collection",
+  "url": "www.carraracollection.com",
+  "location": "Unit M1, Harrison Road,  Airfield Business Park, Market Harborough, Leicestershire, LE16 7QB",
+  "profile_image_url": "pbs.twimg.com/profile_images/695293499793629185/ypgJwIzS.jpg",
+  "twitter_handle": "@CaffeCarrara",
+  "updated_at": "01-Aug-2016 12:22"
+}, {
+  "name": "Spectrum Coffee",
+  "url": "www.spectrumcoffeeroasters.co.uk",
+  "location": "20J Evans Business Park, Marston Moor Business Park, Rudgate, Tockwith, North Yorkshire, YO26 7QF",
+  "profile_image_url": "cdn.shopify.com/s/files/1/1017/9983/t/3/assets/logo.png",
+  "twitter_handle": "@spectrum_york",
+  "updated_at": "19-Dec-2015 09:52"
+}, {
+  "name": "The London Bean Company",
+  "url": "www.londonbeancompany.com",
+  "location": "Unit 5, St James Mews, 276 St James Road, London, SE1 5JX",
+  "profile_image_url": "https://static.wixstatic.com/media/3697f6_8e0740b5990b41c3b56f9e5d932cba94.png/v1/fill/w_531,h_398,al_c,q_80,usm_0.66_1.00_0.01/3697f6_8e0740b5990b41c3b56f9e5d932cba94.webp",
+  "twitter_handle": "@TheLondonBean",
+  "updated_at": "02-May-2019 19:47"
+}, {
+  "name": "Pharmacie Coffee Roasters",
+  "url": "www.pharmacie.coffee",
+  "location": "18 Cambridge Grove, Brighton and Hove, BN3 3ED",
+  "profile_image_url": "thecoffeeroasters.x10.mx/images/pharmacie_roasters_logo.jpg",
+  "twitter_handle": "@pharmaciecoffee",
+  "updated_at": "05-Apr-2016 10:53"
+}, {
+  "name": "Sidewalk Coffee Co",
+  "url": "www.sidewalkcoffee.co.uk",
+  "location": "Unit 1, School Court, Furlong Way, Highfields Caldecote, Cambridge, CB23 7AA",
+  "profile_image_url": "pbs.twimg.com/profile_images/756920402832687104/pdtO0l2I.jpg",
+  "updated_at": "17-Feb-2017 22:05"
+}, {
+  "name": "Buckshot Coffee Co.",
+  "url": "buckshotcoffeeroasters.com",
+  "location": "Sheffield, South Yorkshire",
+  "profile_image_url": "pbs.twimg.com/profile_images/664827949691047936/pZgOGIM9.jpg",
+  "twitter_handle": "@BuckshotCoffee",
+  "updated_at": "01-Aug-2016 12:25"
+}, {
+  "name": "Crafted Coffee Co",
+  "url": "www.craftedcoffee.co.uk",
+  "location": "6C New Barn Farm, Funtington, Chichester, West Sussex, PO18 9DA",
+  "profile_image_url": "https://cdn.shopify.com/s/files/1/0181/3537/collections/craftedcoffee_logo_medium.jpg",
+  "twitter_handle": "@Crafted_Coffee",
+  "updated_at": "16-Jul-2018 07:57"
+}, {
+  "name": "Quarter Horse Coffee",
+  "url": "quarterhorsecoffee.com",
+  "location": "88-90 Bristol street, Birmingham, B5 7AH",
+  "profile_image_url": "https://cdn.shopify.com/s/files/1/0744/8895/files/QH_Logo_0219-02_WEB_400x200.jpg",
+  "twitter_handle": "@QtrHorseCoffee",
+  "updated_at": "01-May-2019 08:17"
+}, {
+  "name": "Roost",
+  "url": "www.roostcoffee.co.uk",
+  "location": "Malton, North Yorkshire",
+  "profile_image_url": "www.roostcoffee.co.uk/wp-content/uploads/2015/11/Roost-Coffee-Logo3.png",
+  "twitter_handle": "@Roost_Coffee",
+  "updated_at": "12-May-2016 09:36"
+}, {
+  "name": "ZeEspresso Coffee",
+  "url": "zeespresso.com",
+  "location": "Edinburgh, Scotland",
+  "profile_image_url": "pbs.twimg.com/profile_images/656859545382297601/AE1bV_Ym.jpg",
+  "twitter_handle": "@zeespresso",
+  "updated_at": "09-Mar-2016 16:10"
+}, {
+  "name": "Luckie Beans",
+  "url": "luckiebeans.co.uk",
+  "location": "Love Lane, Berwick Upon Tweed, Northumberland, TD15 1AR",
+  "profile_image_url": "pbs.twimg.com/profile_images/593402567314538498/WEYpvzgA_400x400.jpg",
+  "twitter_handle": "@luckiebeans",
+  "updated_at": "20-Aug-2015 18:24"
+}, {
+  "name": "JerichoCoffeeTraders",
+  "url": "www.jerichocoffeetraders.com",
+  "location": "3 King Edward Street, Oxford, Oxfordshire",
+  "profile_image_url": "pbs.twimg.com/profile_images/583566655650828288/-6mPKmMG_400x400.jpg",
+  "twitter_handle": "@JeriCoffTraders",
+  "updated_at": "02-Aug-2015 20:45"
+}, {
+  "name": "DamnFineCoffeeCo",
+  "url": "damnfinecoffeeco.bigcartel.com",
+  "location": "Nottingham",
+  "profile_image_url": "pbs.twimg.com/profile_images/629548075057573888/QKCRnHYa.jpg",
+  "twitter_handle": "@DamnFineCoffeeC",
+  "updated_at": "01-Aug-2016 12:28"
+}, {
+  "name": "Old Leodensian",
+  "url": "www.homeroastcoffee.co.uk",
+  "location": "Kippax, Leeds, West Yorkshire, LS25",
+  "profile_image_url": "thecoffeeroasters.x10.mx/images/old-leodensian-logo.jpg",
+  "twitter_handle": "@HomeRoastCoffee",
+  "updated_at": "01-Aug-2016 12:33"
+}, {
+  "name": "Cafe Hormozi",
+  "url": "www.hormozi.co.uk",
+  "location": "Kent",
+  "profile_image_url": "thecoffeeroasters.x10.mx/images/cafe-hormozi-logo.jpg",
+  "twitter_handle": "@CafeHormozi",
+  "updated_at": "04-Feb-2016 14:58"
 }, {
   "location": "5 Airds Lane (Bridgegate), Glasgow, Scotland, G1 5HU",
   "name": "Dear Green Coffee",
@@ -1516,37 +1639,1039 @@
   "updated_at": "2019-12-21 17:45:07 UTC",
   "url": "https://www.deargreencoffee.com"
 }, {
+  "name": "Sydney Road Coffee",
+  "url": "SydneyRoadCoffee.co.uk",
+  "location": "Unit 26, Space Business Centre, Olympus Park, Quedgeley, Gloucester, GL2 4AL",
+  "profile_image_url": "pbs.twimg.com/profile_images/624525589878341632/RzM1CVyM_400x400.jpg",
+  "twitter_handle": "@SydRdCoffee",
+  "updated_at": "21-Sep-2015 16:52"
+}, {
+  "name": "Sacred Grounds Coffee Company",
+  "url": "sacredgroundscoffeecompany.co.uk",
+  "location": "Arbroath, Scotland",
+  "profile_image_url": "pbs.twimg.com/profile_images/581091553042665472/6ccuusvu_400x400.jpg",
+  "twitter_handle": "@SacredGrounds14",
+  "updated_at": "01-Aug-2016 12:35"
+}, {
+  "name": "Freshpac",
+  "url": "freshpac.co.uk",
+  "location": "Unit B, Broadway Drive, Halesworth, Suffolk, IP19 8QR",
+  "profile_image_url": "pbs.twimg.com/profile_images/2223580604/logo_400x400.png",
+  "twitter_handle": "@FreshpacSales",
+  "updated_at": "03-Jun-2015 13:29"
+}, {
+  "name": "Freehand Coffee",
+  "url": "www.freehandcoffee.com",
+  "location": "Unit 4 Barncoose Ind. Est, Redruth, Cornwall, TR15 3RQ",
+  "profile_image_url": "pbs.twimg.com/profile_images/588446427078139904/urXgfSvn_400x400.png",
+  "twitter_handle": "@freehandcoffee",
+  "updated_at": "19-May-2015 10:27"
+}, {
+  "name": "EXE Coffee Roasters",
+  "url": "execoffeeroasters.wordpress.com",
+  "location": "Exeter, Devon",
+  "profile_image_url": "pbs.twimg.com/profile_images/625323275481161734/LKID8vqR_400x400.png",
+  "twitter_handle": "@execoffeeroast",
+  "updated_at": "21-Sep-2015 16:53"
+}, {
   "location": "Kendal, Cumbria",
   "name": "Rinaldo's Coffee",
   "twitter_handle": "@RinsCoffee",
   "updated_at": "2019-12-21 17:45:31 UTC",
   "url": "https://rinscoffee.com"
 }, {
+  "name": "Vagabond Coffee",
+  "url": "vagabondcoffeeroasters.com",
+  "location": "London, N7",
+  "profile_image_url": "pbs.twimg.com/profile_images/572380921949462528/uSg4fAq9_400x400.jpeg",
+  "twitter_handle": "@Vagabondcoffeer",
+  "updated_at": "15-Apr-2016 14:33"
+}, {
+  "name": "80 Stone Coffee Roasters",
+  "url": "www.80stonecoffeeroasters.co.uk",
+  "location": "512 Fulham road, London, SW6 5NJ",
+  "profile_image_url": "https://pbs.twimg.com/profile_images/1092128400796516352/mrGuM1j1_400x400.jpg",
+  "twitter_handle": "@80stonecoffee",
+  "updated_at": "02-May-2019 20:30"
+}, {
+  "name": "Masteroast Coffee Co Ltd",
+  "url": "www.masteroast.co.uk",
+  "location": "Plantation House, Newark Road, Peterborough, Cambridgeshire, PE1 5UA",
+  "profile_image_url": "cdn.shopify.com/s/files/1/0181/3537/files/masteroast-logo.jpg",
+  "updated_at": "18-May-2015 10:52"
+}, {
+  "name": "Ferns",
+  "url": "www.coffeeisferns.co.uk",
+  "location": "Fern House, 4 Onslow Close, Basingstoke Hampshire, RG24 8QL",
+  "profile_image_url": "www.coffeeisferns.co.uk/img/g_ferns_coffee_logo.jpg",
+  "updated_at": "18-May-2015 10:49"
+}, {
+  "name": "bean miles",
+  "url": "beanmiles.co.uk",
+  "location": "Wetheral, Carlisle, Cumbria",
+  "profile_image_url": "pbs.twimg.com/profile_images/457830333572849664/_usmbAsC_400x400.jpeg",
+  "twitter_handle": "@BeanMiles",
+  "updated_at": "06-May-2015 16:02"
+}, {
+  "name": "Craic Coffee",
+  "url": "twitter.com/craic_coffee",
+  "location": "The Heath, Co Laois, Ireland",
+  "profile_image_url": "cdn.shopify.com/s/files/1/0181/3537/files/craic-coffee-logo.jpg",
+  "twitter_handle": "@craic_coffee",
+  "updated_at": "06-May-2015 16:01"
+}, {
+  "name": "Dark Arts Coffee",
+  "url": "www.darkartscoffee.co.uk",
+  "location": "Homerton, London, E9",
+  "profile_image_url": "pbs.twimg.com/profile_images/665250179176660993/2YUjHGTB_400x400.jpg",
+  "twitter_handle": "@DarkArtsCoffee",
+  "updated_at": "15-Apr-2016 14:29"
+}, {
+  "name": "Coffee Spot Roasters",
+  "url": "1066Coffee.co.uk",
+  "location": "East Sussex, TN38 8DW",
+  "profile_image_url": "pbs.twimg.com/profile_images/534484690376208385/H_eg-105_400x400.png",
+  "twitter_handle": "@RoastersSpot",
+  "updated_at": "06-May-2015 15:59"
+}, {
+  "name": "Full Circle Roasters",
+  "url": "www.facebook.com/FCRoaster",
+  "location": "Carrickmacross, Co. Monaghan, Ireland",
+  "profile_image_url": "pbs.twimg.com/profile_images/635328763866279936/G8s1eAGR_400x400.jpg",
+  "twitter_handle": "@FCRoaster",
+  "updated_at": "02-Jul-2016 11:58"
+}, {
+  "name": "Twin Cafe",
+  "url": "www.twincafe.org/",
+  "location": "Sheffield, South Yorkshire",
+  "profile_image_url": "pbs.twimg.com/profile_images/566598210240532480/egI6jga_.png",
+  "twitter_handle": "@twincafe12",
+  "updated_at": "06-May-2015 15:59"
+}, {
+  "name": "Spiller & Tait",
+  "url": "spillerandtait.co.uk",
+  "location": "Units 1&2, South Farm Court, South Farm Road,  Budleigh Salterton, Devon, EX9 7AZ",
+  "profile_image_url": "www.spillerandtait.co.uk/uploads/3/4/4/8/3448017/1394779503.png",
+  "twitter_handle": "@SpillerandTait",
+  "updated_at": "06-May-2015 15:59"
+}, {
+  "name": "The Galway Roast",
+  "url": "www.thegalwayroast.com",
+  "location": "Vicar Street, Tuam, Co. Galway, Ireland",
+  "profile_image_url": "pbs.twimg.com/profile_images/1498269508/galway-roast-logo_400x400.jpg",
+  "twitter_handle": "@galwayroast",
+  "updated_at": "06-May-2015 15:58"
+}, {
+  "name": "TheRoastHouseTralee",
+  "url": "theroasthouse.ie",
+  "location": "3 Denny Street, Tralee, Co. Kerry, Ireland",
+  "profile_image_url": "pbs.twimg.com/profile_images/3124737762/3dbd4db45f1101000a0dab57ecf47ea7_400x400.jpeg",
+  "twitter_handle": "@Roast_House",
+  "updated_at": "03-Jun-2015 13:45"
+}, {
+  "name": "New Wave Coffee",
+  "url": "newwavecoffee.co.uk",
+  "location": "Hemel Hempstead, Hertfordshire",
+  "profile_image_url": "pbs.twimg.com/profile_images/543052340182257664/Klrl910o.jpeg",
+  "twitter_handle": "@newwavecoffeeuk",
+  "updated_at": "17-Sep-2015 09:32"
+}, {
+  "name": "Second City Coffee",
+  "url": "secondcitycoffee.co.uk",
+  "location": "Manchester",
+  "profile_image_url": "secondcitycoffee.co.uk/wp-content/uploads/2014/10/2ND-CITY-LOGO-HOLDING-PAGE1.png",
+  "twitter_handle": "@secondctycoffee",
+  "updated_at": "06-May-2015 15:58"
+}, {
+  "name": "Wholey Bean",
+  "url": "wholeybean.com",
+  "location": "London",
+  "profile_image_url": "pbs.twimg.com/profile_images/558060819838038016/4dh6jPjp_400x400.jpeg",
+  "twitter_handle": "@wholeybean",
+  "updated_at": "06-May-2015 15:58"
+}, {
+  "name": "Beanheroes",
+  "url": "www.beanheroes.co.uk",
+  "location": "Sterling House Cheadle Court, 5 \u2013 7 Turves Road, Cheadle Hulme, Cheshire, SK8 6AW",
+  "profile_image_url": "pbs.twimg.com/profile_images/560114616890425344/dMP6o7IH_400x400.jpeg",
+  "twitter_handle": "@Beanheroes",
+  "updated_at": "06-May-2015 15:57"
+}, {
+  "name": "Imbibe Coffee",
+  "url": "imbibe.ie",
+  "location": "Dublin, Ireland",
+  "profile_image_url": "imbibe.ie/wp-content/uploads/2013/09/imbibe-coffee.png",
+  "twitter_handle": "@garyimbibe",
+  "updated_at": "06-May-2015 15:57"
+}, {
+  "name": "Bruce & Lukes Coffee",
+  "url": "www.bruceandlukes.com",
+  "location": "Carlisle, Cumbria",
+  "profile_image_url": "www.bruceandlukes.com/wp-content/uploads/2014/10/brucelukes_logo.jpg",
+  "twitter_handle": "@BruceandLukes",
+  "updated_at": "03-Jun-2015 13:48"
+}, {
+  "name": "The Blue Bean Coffee Co.",
+  "url": "www.thebluebeancoffee.co.uk",
+  "location": "Kent",
+  "profile_image_url": "pbs.twimg.com/profile_images/550704918919909376/qdE_gMlW_400x400.jpeg",
+  "twitter_handle": "@TheBlueBeanCo",
+  "updated_at": "01-Aug-2016 10:25"
+}, {
+  "name": "Method Roastery",
+  "url": "methodroastery.com",
+  "location": "Unit 7, Hop Pocket Craft Centre, Bishops Frome, Herefordshire, WR6 5BT",
+  "profile_image_url": "methodroastery.com/wp-content/uploads/2014/10/method-logo-black.png",
+  "twitter_handle": "@MethodRoastery",
+  "updated_at": "03-Jun-2015 13:50"
+}, {
+  "name": "Bean enCounter",
+  "url": "www.facebook.com/beanencounterltd",
+  "location": "Salter Street, Stafford, Staffordshire, ST16 2JU",
+  "profile_image_url": "www.beanencounter.co.uk/wp-content/uploads/2014/01/beanlogoonly-copy-277x300.jpg",
+  "twitter_handle": "@BeanEnCounter",
+  "updated_at": "06-May-2015 15:56"
+}, {
+  "name": "Tedbeans",
+  "url": "www.tedbeans.com",
+  "location": "Dundee, Scotland",
+  "profile_image_url": "pbs.twimg.com/profile_images/556515978532507649/fCxC0gmo_400x400.png",
+  "twitter_handle": "@tedbeans",
+  "updated_at": "06-May-2015 15:56"
+}, {
+  "name": "World Coffees Ltd",
+  "url": "worldcoffees.co.uk",
+  "location": "The Old Forge,  Denmans Lane, Lindfield, West Sussex, RH16 2LB",
+  "profile_image_url": "cdn.shopify.com/s/files/1/0240/2767/t/16/assets/logo.png",
+  "updated_at": "06-May-2015 15:56"
+}, {
+  "name": "Wilkinson's of Norwich",
+  "url": "wilkinsonsofnorwich.com",
+  "location": "5 Lobster Lane, Norwich, Norfolk, NR2 1DQ",
+  "profile_image_url": "//cdn.shopify.com/s/files/1/0181/3537/files/wilkinsons-of-norwich.jpg",
+  "updated_at": "06-May-2015 15:56"
+}, {
+  "name": "Charlestown Coffee",
+  "url": "//twitter.com/bradford_coffee",
+  "location": "Yorkshire",
+  "profile_image_url": "//pbs.twimg.com/profile_images/532931991016988672/ma45bdjr.jpeg",
+  "twitter_handle": "@bradford_coffee",
+  "updated_at": "06-May-2015 15:55"
+}, {
+  "name": "Inverness Coffee Roasting",
+  "url": "invernesscoffeeroasting.co.uk",
+  "location": "15 Chapel Street, Inverness, Scotland, IV1 1NA",
+  "profile_image_url": "invernesscoffeeroasting.co.uk/wp-content/uploads/Logo-150x150.gif",
+  "updated_at": "06-May-2015 15:55"
+}, {
+  "name": "92degreescoffee",
+  "url": "www.facebook.com/92DegreesCoffee",
+  "location": "24 Hardman Street, Liverpool, Merseyside, L1 9AX",
+  "profile_image_url": "//pbs.twimg.com/profile_images/525291991282626561/18y3PYue_400x400.png",
+  "twitter_handle": "@92degreescoffee",
+  "updated_at": "10-Nov-2015 09:02"
+}, {
+  "name": "THE DUKE COFFEE",
+  "url": "thedukecoffee.com",
+  "location": "Kentish Town, London",
+  "profile_image_url": "//cdn.shopify.com/s/files/1/0181/3537/files/the-duke-coffee-logo.png",
+  "updated_at": "06-May-2015 15:54"
+}, {
+  "name": "Grind Roast Works",
+  "url": "www.grindcoffeelondon.com",
+  "location": "Roastery, Unit 8, Ferrier Street, Wandsworth, London, SW18 1SW",
+  "profile_image_url": "//cdn.shopify.com/s/files/1/0181/3537/files/grind-coffee-london.jpg",
+  "twitter_handle": "@GrindRoastWorks",
+  "updated_at": "06-May-2015 15:54"
+}, {
+  "name": "Neighbourhood Coffee",
+  "url": "www.neighbourhoodcoffee.co.uk",
+  "location": "Liverpool, Merseyside",
+  "profile_image_url": "www.neighbourhoodcoffee.co.uk/wp-content/uploads/2014/10/logowhite2.png",
+  "twitter_handle": "@NhoodCoffee",
+  "updated_at": "06-May-2015 15:53"
+}, {
+  "name": "Cherry Picked Coffee",
+  "url": "cherrypickedcoffee.co.uk",
+  "location": "Worthing, West Sussex , BN11 2QU",
+  "profile_image_url": "cherrypickedcoffee.co.uk/skin/frontend/ultimo/default/images/cpc-brand/CherryPickedCoffee-website-logo.png",
+  "twitter_handle": "@CoffeeClubUK",
+  "updated_at": "06-May-2015 15:53"
+}, {
+  "name": "Mariners Coffee",
+  "url": "www.marinerscoffeemerchants.co.uk",
+  "location": "Unit 55, The Raylor Centre James Street, York, YO10 3DW",
+  "profile_image_url": "//cdn.shopify.com/s/files/1/0181/3537/files/mariners-coffee-logo.png",
+  "twitter_handle": "@MarinersCoffee",
+  "updated_at": "03-Jun-2015 13:59"
+}, {
+  "name": "Black Sheep Coffee",
+  "url": "www.leavetheherdbehind.com",
+  "location": "Caf\u00e9 in Camden, 26 Camden High Street, London, NW1 0JH",
+  "profile_image_url": "https://www.leavetheherdbehind.com/wp-content/themes/blacksheep/assets/images/header/logo.webp",
+  "twitter_handle": "@leavetheherd",
+  "updated_at": "02-May-2019 20:50"
+}, {
+  "name": "Julius Meinl UK",
+  "url": "www.meinlcoffee.com/uk/uk/julius-meinl.html",
+  "location": "Unit 3, Ground Floor, Lafone House, Leathermarket, 11 \u2013 13 Weston Street, London, SE1 3ER",
+  "profile_image_url": "www.meinlcoffee.com/fileadmin/templates/meinl/img/logo-red.png",
+  "twitter_handle": "@MeinlCoffeeUK",
+  "updated_at": "06-May-2015 15:52"
+}, {
+  "name": "Grind Coffee Bar",
+  "url": "grindcoffeebar.co.uk",
+  "location": "79 Lower Richmond Road, Putney, London, SW15 1ET",
+  "profile_image_url": "static1.squarespace.com/static/53ce9752e4b09ce5b33ae23f/t/56c47fcd2b8dde24de9b08b8/1459031788588/?format=400w",
+  "twitter_handle": "@GrindCoffeeBar",
+  "updated_at": "15-Apr-2016 14:28"
+}, {
+  "name": "FINCA",
+  "url": "fincacoffee.co.uk",
+  "location": "41 Great Western Road, Dorchester, Dorset, DT1 1UF",
+  "profile_image_url": "pbs.twimg.com/profile_images/603599083043979264/OHNYdTbK_400x400.jpg",
+  "twitter_handle": "@scouting4coffee",
+  "updated_at": "03-Jun-2015 14:02"
+}, {
+  "name": "Blenders",
+  "url": "www.gaggia.ecwid.com/#!/Blenders-of-Northampton/c/4378367",
+  "location": "75 St Giles' St, Northampton, NN1 1JF",
+  "profile_image_url": "//cdn.shopify.com/s/files/1/0181/3537/files/blenders.png",
+  "updated_at": "06-May-2015 15:51"
+}, {
+  "name": "Bullet Coffee",
+  "url": "www.bullet-coffee.com",
+  "location": "789 Wandsworth Rd, London, SW8 3JQ",
+  "profile_image_url": "//cdn.shopify.com/s/files/1/0181/3537/files/bullet-coffee-logo.jpg",
+  "twitter_handle": "@bulletcoffee",
+  "updated_at": "06-May-2015 15:51"
+}, {
+  "name": "Footprint Coffee",
+  "url": "www.footprintcoffee.co.uk",
+  "location": "Ednol Farm, Kinnerton, Presteigne, Powys, Wales, LD8 2PF",
+  "profile_image_url": "pbs.twimg.com/profile_images/421357004263653376/bxx3fB3N_400x400.jpeg",
+  "twitter_handle": "@FootprintCoffee",
+  "updated_at": "06-May-2015 15:51"
+}, {
+  "name": "Andronicas Coffee",
+  "url": "www.andronicas.com",
+  "location": "91-93 Great Eastern Street, London, EC2A 3HZ",
+  "profile_image_url": "cdn.shopify.com/s/files/1/0247/2535/t/2/assets/logo.png",
+  "twitter_handle": "@AndronicasUK",
+  "updated_at": "06-May-2015 15:50"
+}, {
+  "name": "Crosby Coffee",
+  "url": "crosbycoffee.co.uk",
+  "location": "Unit 14, Bridge Road Industrial Estate, Litherland, Liverpool, Merseyside, L21 2QG",
+  "profile_image_url": "pbs.twimg.com/profile_images/524576204888616960/74hzP_tr_400x400.jpeg",
+  "twitter_handle": "@CoffeeCrosby",
+  "updated_at": "06-May-2015 15:50"
+}, {
+  "name": "mug run roasting",
+  "url": "www.mug-run.co.uk",
+  "location": "Unit E3, Morfa Clwyd, Marsh Road, Rhyl, Wales, LL18 2AF",
+  "profile_image_url": "cdn.shopify.com/s/files/1/0181/3537/files/mug-run-logo.jpg",
+  "twitter_handle": "@mug_run",
+  "updated_at": "13-Nov-2017 11:19"
+}, {
+  "name": "Sasha House Petite",
+  "url": "shpetite.ie",
+  "location": "Drury Street Carpark, Drury Street, Dublin, Ireland",
+  "profile_image_url": "shpetite.ie/images/logo.gif",
+  "twitter_handle": "@SashaHouseDub",
+  "updated_at": "06-May-2015 15:49"
+}, {
+  "name": "Cork Coffee Roasters",
+  "url": "www.corkcoffee.com",
+  "location": "2 Bridge St, Cork, Ireland",
+  "profile_image_url": "www.corkcoffee.com/gallery/1.jpg",
+  "updated_at": "06-May-2015 15:49"
+}, {
+  "name": "Tate",
+  "url": "www.tate.org.uk/visit/coffee-by-tate",
+  "location": "Herne Hill, London",
+  "profile_image_url": "https://storage.googleapis.com/tate-digital/ui/3.3.1-compressed/static/images/tate-logo.png",
+  "twitter_handle": "@benjaminpres",
+  "updated_at": "02-May-2019 20:47"
+}, {
+  "name": "3FE Coffee",
+  "url": "www.3fe.com",
+  "location": "32/34 Lower Grand Canal St, Dublin, Ireland",
+  "profile_image_url": "static.squarespace.com/static/541188fee4b09a04d20e1ad3/t/54521507e4b008c5dd78c382/1418467422164/?format=1500w",
+  "twitter_handle": "@3FE",
+  "updated_at": "06-May-2015 15:49"
+}, {
+  "name": "Bewley's Ireland",
+  "url": "www.bewleys.com",
+  "location": "78/79 Grafton Street, Dublin, Ireland",
+  "profile_image_url": "bewleys.com/wp-content/themes/bewleys/images/layout/header_logo.png",
+  "twitter_handle": "@BewleysIreland",
+  "updated_at": "06-May-2015 15:48"
+}, {
+  "name": "Taylors of Harrogate",
+  "url": "www.taylorscoffee.co.uk",
+  "location": "1 Parliament Street, Harrogate, North Yorkshire, HG1 2QU",
+  "profile_image_url": "pbs.twimg.com/profile_images/595502185674334208/vrED3L7N_400x400.jpg",
+  "twitter_handle": "@TaylorsCoffee",
+  "updated_at": "03-Jun-2015 14:03"
+}, {
+  "name": "Gillards of Bath",
+  "url": "www.gillards.co.uk",
+  "location": "1 Roseberry Place, Lower Bristol Road, Bath, BA2 3DU",
+  "profile_image_url": "https://cdn.shopify.com/s/files/1/0181/3537/files/gillards_logo.jpg",
+  "updated_at": "01-May-2019 08:25"
+}, {
+  "name": "Outpost Coffee Roasters",
+  "url": "www.outpostcoffeeroasters.co.uk",
+  "location": "4 Stoney St, Nottingham, NG1 1LG",
+  "profile_image_url": "https://cdn.shopify.com/s/files/1/0181/3537/files/outpost-coffee.jpg",
+  "twitter_handle": "@OutpostRoasters",
+  "updated_at": "18-Jun-2019 12:01"
+}, {
+  "name": "Bella Barista",
+  "url": "www.bellabarista.co.uk",
+  "location": "Northamptonshire, NN8 1LD",
+  "profile_image_url": "pbs.twimg.com/profile_images/351001101/logo_400x400.jpg",
+  "twitter_handle": "@bellabarista",
+  "updated_at": "06-May-2015 15:48"
+}, {
+  "name": "Bean Smitten",
+  "url": "www.beansmitten.co.uk/",
+  "location": "Cedar Gables, Hastings Road, Flimwell, East Sussex, TN5 7QA",
+  "profile_image_url": "cdn.shopify.com/s/files/1/0181/3537/files/bean-smitten.jpg",
+  "twitter_handle": "@BeanSmitten",
+  "updated_at": "06-May-2015 15:47"
+}, {
+  "name": "Campbell & Syme",
+  "url": "www.campbellandsyme.co.uk",
+  "location": "Fortis Green, London, N2 9JR",
+  "profile_image_url": "https://cdn.shopify.com/s/files/1/2341/1429/files/WORDMARK_BLACK_WEB_180x.png",
+  "twitter_handle": "@campbellandsyme",
+  "updated_at": "02-May-2019 20:49"
+}, {
+  "name": "Jackson Green Coffee",
+  "url": "www.jacksongreencoffee.co.uk",
+  "location": "Cardiff, Wales",
+  "profile_image_url": "cdn.shopify.com/s/files/1/0181/3537/files/jackson-green.jpg",
+  "twitter_handle": "@JGCoffee",
+  "updated_at": "06-May-2015 15:47"
+}, {
+  "name": "Gordon St Coffee",
+  "url": "www.gordonstcoffee.co.uk",
+  "location": "Glasgow Central Station, 79 Gordon Street, Glasgow, Scotland, G1 3SQ",
+  "profile_image_url": "pbs.twimg.com/profile_images/555774132861009922/IGnAh0Y4_400x400.jpeg",
+  "twitter_handle": "@gordonstcoffee",
+  "updated_at": "06-May-2015 15:46"
+}, {
+  "name": "The Isle of Wight Espresso Company",
+  "url": "www.iow-espresso.co.uk",
+  "location": "Spring Tides, 37 Spring Hill, Ventnor, Isle Of Wight, PO38 1PF",
+  "profile_image_url": "pbs.twimg.com/profile_images/454013291367383040/E8qPI-QP_400x400.jpeg",
+  "twitter_handle": "@island_roasted",
+  "updated_at": "06-May-2015 15:46"
+}, {
+  "name": "W. Martyn",
+  "url": "www.wmartyn.co.uk/",
+  "location": "135 Muswell Hill Broadway,  London, N10 3RS",
+  "profile_image_url": "www.wmartyn.co.uk/wp-content/uploads/2012/12/Logo2a-300x104.jpg",
+  "updated_at": "06-May-2015 15:46"
+}, {
+  "name": "The Coffee Company - Torquay",
+  "url": "www.coffeecompanytorquay.com",
+  "location": "70A Windsor Road, Torquay, Devon, TQ1 1SZ",
+  "profile_image_url": "",
+  "updated_at": "06-May-2015 15:46"
+}, {
+  "name": "The Coffee Bean - Van & Roaster",
+  "url": "www.thecoffeebean-vanandroaster.co.uk/",
+  "location": "Aberdare, South Wales",
+  "profile_image_url": "pbs.twimg.com/profile_images/528205464387862530/9XBU2VUn_400x400.png",
+  "twitter_handle": "@CoffeebeanThe",
+  "updated_at": "06-May-2015 15:46"
+}, {
+  "name": "Roberts & Co.",
+  "url": "www.e-coffee.co.uk",
+  "location": "The Coffee Roastery, Cedar Farm, Back Lane, Mawdesley, Ormskirk, Lancashire, L40 3SY",
+  "profile_image_url": "www.e-coffee.co.uk/skins/roberts/media/logo.png",
+  "updated_at": "06-May-2015 15:46"
+}, {
+  "name": "Red Monkey Coffee UK",
+  "url": "www.redmonkeycoffee.co.uk",
+  "location": "Bache Farm, Westhope, Near Ludlow, Shropshire, SY7 9LG",
+  "profile_image_url": "www.redmonkeycoffee.co.uk/rmcsplash_r1_c1.gif",
+  "updated_at": "06-May-2015 15:45"
+}, {
+  "name": "Manx Tea And Coffee",
+  "url": "www.manxteaandcoffee.com",
+  "location": "Unit 4, Rear Wilson & Collins, Balthane Industrial Estate, Ballsalla, Isle of Man, IM9 2AJ",
+  "profile_image_url": "manxteaandcoffee.com/image/data/logo.png",
+  "updated_at": "06-May-2015 15:45"
+}, {
+  "name": "Lincoln & York",
+  "url": "www.lincolnandyork.com",
+  "location": "Kahawa House, Elsham Wold Industrial Estate, Nr. Brigg, North Lincolnshire, DN20 0SP",
+  "profile_image_url": "//cdn.shopify.com/s/files/1/0181/3537/files/lincoln-york-logo.jpg",
+  "updated_at": "18-May-2015 10:44"
+}, {
+  "name": "Jesters Coffee",
+  "url": "jesterscoffee.co.uk",
+  "location": "4 Hawthorn Way, St Ives, Cambridgeshire, PE27 3YP",
+  "profile_image_url": "cdn.shopify.com/s/files/1/0181/3537/files/jesters.gif",
+  "updated_at": "06-May-2015 15:45"
+}, {
+  "name": "DJ Miles",
+  "url": "www.djmiles.co.uk",
+  "location": "Porlock House, Stephenson Road,  Minehead, Somerset, TA24 5EB",
+  "profile_image_url": "cdn.shopify.com/s/files/1/0181/3537/files/dj-miles.logo.png",
+  "twitter_handle": "@MilesTeaCoffee",
+  "updated_at": "06-May-2015 15:45"
+}, {
+  "name": "Coffee, Chocolate & Tea",
+  "url": "coffeechocolateandtea.com",
+  "location": "944 Argyle Street, Glasgow, Scotland, G3 8YJ",
+  "profile_image_url": "pbs.twimg.com/profile_images/2451603988/ju3g8f1x76mx96cx90ve.jpeg",
+  "twitter_handle": "@RoasteryGlasgow",
+  "updated_at": "09-Mar-2016 16:07"
+}, {
+  "name": "Coffee Plant",
+  "url": "www.coffee.uk.com",
+  "location": "180 Portobello Road, London, W11 2EB",
+  "profile_image_url": "https://coffee.uk.com/wp-content/uploads/2017/11/logo_60.jpg",
+  "updated_at": "02-May-2019 20:33"
+}, {
+  "name": "T-A-P",
+  "url": "www.tapcoffee.co.uk",
+  "location": "193 Wardour Street, London, W1F 8ZF",
+  "profile_image_url": "https://instagram.fmxp1-1.fna.fbcdn.net/vp/89ac938eb303b1ccaf5df3f58dc99542/5D65FD49/t51.2885-19/s320x320/45272561_1918529388263517_8789073267529875456_n.jpg?_nc_ht=instagram.fmxp1-1.fna.fbcdn.net",
+  "twitter_handle": "@tapcoffee",
+  "updated_at": "02-May-2019 20:57"
+}, {
+  "name": "Caledonia Coffee",
+  "url": "",
+  "location": "31 Inveralmond Road, Inveralmond Industrial Estate, Perth, Scotland, PH1 3TW",
+  "profile_image_url": "pbs.twimg.com/profile_images/1179671997/Caledonia_Coffee_mug_thistle_logo_new250_copy_400x400.jpg",
+  "twitter_handle": "@coffeecaledonia",
+  "updated_at": "03-Jun-2015 12:22"
+}, {
+  "name": "Tapa Organic Glasgow",
+  "url": "www.tapaorganic.com",
+  "location": "721 Pollokshaws Rd, Strathbungo, Glasgow, Scotland, G41 2AA",
+  "profile_image_url": "pbs.twimg.com/profile_images/378800000370291822/e503fc068909d2168bbe94350c65ea77_400x400.jpeg",
+  "twitter_handle": "@tapaorganic",
+  "updated_at": "06-May-2015 15:43"
+}, {
+  "name": "Pollards Shop",
+  "url": "www.pollardscoffee.co.uk",
+  "location": "627 Ecclesall Rd, Sheffield, South Yorkshire, S11 8PT",
+  "profile_image_url": "https://cdn.shopify.com/s/files/1/0181/3537/files/pollards-logo.jpg",
+  "twitter_handle": "@PollardsShopUK",
+  "updated_at": "03-Feb-2019 12:02"
+}, {
+  "name": "Joe Black Coffee",
+  "url": "www.joeblackcoffeeandtea.co.uk",
+  "location": "Millers Bridge Industrial Estate, Seymour Street, Liverpool, Merseyside, L20 1EE",
+  "profile_image_url": "pbs.twimg.com/profile_images/3559403663/0f55bb5b776b12058851af5efd69f6e6_400x400.png",
+  "twitter_handle": "@JoeBlackCoffee",
+  "updated_at": "06-May-2015 15:43"
+}, {
+  "name": "mr_eion",
+  "url": "facebook.com/mreionltd",
+  "location": "9 DPS, Stockbridge, Edinburgh, Scotland",
+  "profile_image_url": "pbs.twimg.com/profile_images/378800000766854701/ecb4e5eabd94c16bdcf7db7e982b05bc_400x400.jpeg",
+  "twitter_handle": "@mr_eion",
+  "updated_at": "06-May-2015 15:42"
+}, {
+  "name": "Hasbean",
+  "url": "hasbean.co.uk",
+  "location": "Unit 16, Ladford Covert, Ladfordfields Industrial Estate, Seighford, Stafford, ST18 9QL",
+  "profile_image_url": "cdn.shopify.com/s/files/1/0023/1572/t/10/assets/logo.png",
+  "twitter_handle": "@hasbean",
+  "updated_at": "06-May-2015 15:42"
+}, {
+  "name": "Square Mile Coffee",
+  "url": "www.squaremilecoffee.com",
+  "location": "8 Pritchards Rd, London, E2 9AP",
+  "profile_image_url": "https://pbs.twimg.com/profile_images/875669568085262336/6wKNlhXc_400x400.jpg",
+  "twitter_handle": "@squaremile",
+  "updated_at": "02-May-2019 20:31"
+}, {
+  "name": "Ristretto Coffee",
+  "url": "www.ristrettocoffee.com",
+  "location": "Unit 49, Banbridge Enterprise Centre, Scarva Road Industrial Estate, Banbridge, County Down, Ireland, BT32 3QD",
+  "profile_image_url": "//cdn.shopify.com/s/files/1/0181/3537/files/ristretto_logo_footer.jpg",
+  "twitter_handle": "@ristrettocoffee",
+  "updated_at": "06-May-2015 15:42"
+}, {
+  "name": "Pumphrey's Coffee",
+  "url": "www.pumphreys-coffee.co.uk",
+  "location": "Bridge Street, Blaydon, Tyne and Wear, NE21 4JH",
+  "profile_image_url": "cdn6.bigcommerce.com/s-nbc124/product_images/black_logo_header_1413552990__33838.jpg",
+  "twitter_handle": "@PumphreysBE",
+  "updated_at": "06-May-2015 15:42"
+}, {
+  "name": "Coffee Real Ltd",
+  "url": "www.coffeereal.co.uk",
+  "location": "The Elephant House, Graylands Est., Langhurst Wood Road, Horsham, West Sussex, RH12 4QD",
+  "profile_image_url": "pbs.twimg.com/profile_images/385986937/Coffee_Real_logo_50__400x400.jpg",
+  "twitter_handle": "@BrownBean",
+  "updated_at": "06-May-2015 15:41"
+}, {
+  "name": "Red Roaster",
+  "url": "redroaster.co.uk",
+  "location": "1d St James's St, Brighton, BN2 1RE",
+  "profile_image_url": "pbs.twimg.com/profile_images/112755555/1428829670_fb21155c78_400x400.jpg",
+  "twitter_handle": "@theredroaster",
+  "updated_at": "06-May-2015 15:41"
+}, {
+  "name": "Urban Coffee Company",
+  "url": "www.urbancoffee.co.uk",
+  "location": "30 Church Street, Colmore Business District, Birmingham, West Midlands, B3 2NP",
+  "profile_image_url": "pbs.twimg.com/profile_images/378800000581569996/5fcfa791f7a4e5775cf5683c1f79c9bc_400x400.png",
+  "twitter_handle": "@urbancoffeeco",
+  "updated_at": "06-May-2015 15:41"
+}, {
+  "name": "Coffee Compass",
+  "url": "www.coffeecompass.co.uk",
+  "location": "Fort Road, Wick, Littlehampton, West Sussex, BN17 7QZ",
+  "profile_image_url": "pbs.twimg.com/profile_images/444056311294992384/zqO3joyz_400x400.jpeg",
+  "twitter_handle": "@CoffeeCompass",
+  "updated_at": "06-May-2015 15:41"
+}, {
+  "name": "J. Atkinson and Co.",
+  "url": "www.thecoffeehopper.com",
+  "location": "China Street, Lancaster, Lancashire, LA1 1EX",
+  "profile_image_url": "cdn.shopify.com/s/files/1/0181/3537/files/atkinsons-logo.jpg",
+  "twitter_handle": "@coffeehopper",
+  "updated_at": "03-Jun-2015 14:18"
+}, {
+  "name": "Extract Coffee",
+  "url": "www.extractcoffee.co.uk",
+  "location": "Unit 1, Gatton Road, Bristol, BS2 9SH",
+  "profile_image_url": "https://extractcoffee.co.uk/manage/wp-content/themes/extract2015/images/logo_extract_modified.svg",
+  "twitter_handle": "@extractcoffee",
+  "updated_at": "01-May-2019 08:14"
+}, {
   "location": "7a South Crescent, London, E16 4TL",
   "name": "Union Hand Roasted",
   "twitter_handle": "@Unionroasted",
   "updated_at": "2019-12-22 11:01:07 UTC",
-  "url": "www.unionroasted.com/",
-  "role": "roaster"
+  "url": "www.unionroasted.com/"
+}, {
+  "name": "Glenfinlas Coffee",
+  "url": "www.glenfinlascoffee.com",
+  "location": "1 St. Colme Street, Edinburgh, Scotland, EH3 6AA",
+  "profile_image_url": "//www.glenfinlas.com/_resource/_img/glenfinlas-logo.png",
+  "twitter_handle": "@glenfinlas_shop",
+  "updated_at": "06-May-2015 15:40"
+}, {
+  "name": "The Ethiopian Coffee Co",
+  "url": "www.theethiopiancoffeecompany.co.uk",
+  "location": "61 Amwell Street, Islington, London, EC1R 1UR",
+  "profile_image_url": "pbs.twimg.com/profile_images/414259197/to_go_400x400.jpg",
+  "twitter_handle": "@EthiopianCoffee",
+  "updated_at": "06-May-2015 15:39"
+}, {
+  "name": "Red Cherry coffee",
+  "url": "www.redcherrycoffee.co.uk",
+  "location": "Whitstable, Kent",
+  "profile_image_url": "pbs.twimg.com/profile_images/835523708/red_cherry_logo3_400x400.jpg",
+  "twitter_handle": "@redcherrycoffee",
+  "updated_at": "06-May-2015 15:38"
+}, {
+  "name": "Badger & Dodo",
+  "url": "www.badgeranddodo.ie",
+  "location": "Each Saturday, Douglas Farmers Market, Douglas, Cork, Ireland",
+  "profile_image_url": "pbs.twimg.com/profile_images/1947185010/Twitterblk_400x400.jpg",
+  "twitter_handle": "@BadgerAndDodo",
+  "updated_at": "06-May-2015 15:38"
+}, {
+  "name": "Cafe Boutique",
+  "url": "www.cafeboutique.co.uk",
+  "location": "25 Dale Road, Stanton by Dale, Derbyshire, DE7 4QF",
+  "profile_image_url": "cdn.shopify.com/s/files/1/0181/3537/files/cafe-boutique-logo.jpg",
+  "twitter_handle": "@CafeBoutique",
+  "updated_at": "06-May-2015 15:38"
+}, {
+  "name": "Coffee World",
+  "url": "www.coffeeworld.org",
+  "location": "Unit 9 Minton Enterprise Park, Oaks Drive, Newmarket, Suffolk, CB8 7YY",
+  "profile_image_url": "pbs.twimg.com/profile_images/715863436/coffeeworldlowres_400x400.jpg",
+  "twitter_handle": "@CoffeeWorldUk",
+  "updated_at": "06-May-2015 15:38"
+}, {
+  "name": "Workhouse Coffee &Co",
+  "url": "workhousecoffee.co.uk",
+  "location": "335 Oxford Rd, Reading, Berkshire, RG30 1AY",
+  "profile_image_url": "workhousecoffee.co.uk/headerimg.png",
+  "twitter_handle": "@WorkhouseCoffee",
+  "updated_at": "06-May-2015 15:37"
+}, {
+  "name": "Thomsons Coffee",
+  "url": "www.thomsonscoffee.com",
+  "location": "Burnfield Ave, Glasgow, Scotland, G46 7TL",
+  "profile_image_url": "pbs.twimg.com/profile_images/564360169186803712/YqpP4Gie_400x400.jpeg",
+  "twitter_handle": "@thomsonscoffee",
+  "updated_at": "06-May-2015 15:37"
+}, {
+  "name": "Two Day Coffee",
+  "url": "twodaycoffee.co.uk/",
+  "location": "135 St Michael's Hill, Bristol, BS2 8BS",
+  "profile_image_url": "pbs.twimg.com/profile_images/1165547554/Logo_400x400.jpg",
+  "twitter_handle": "@TwoDayCoffee",
+  "updated_at": "19-May-2015 19:42"
+}, {
+  "name": "Beans and Leaves",
+  "url": "www.beansandleaveswolves.co.uk",
+  "location": "Wolverhampton, West Midlands",
+  "profile_image_url": "pbs.twimg.com/profile_images/480672745563246592/2D-13b0W_400x400.jpeg",
+  "twitter_handle": "@beansleaves",
+  "updated_at": "06-May-2015 15:36"
+}, {
+  "name": "Coffee Factory",
+  "url": "www.thecoffeefactory.co.uk",
+  "location": "Samuria Buildings,  Seaton Junction, Axminster, Devon, EX13 7PW",
+  "profile_image_url": "pbs.twimg.com/profile_images/456719936040497152/7HWMFBIF_400x400.jpeg",
+  "twitter_handle": "@Coffee_Factory",
+  "updated_at": "31-May-2015 13:30"
+}, {
+  "name": "Ariosa coffee",
+  "url": "www.ariosacoffee.com",
+  "location": "Borranstown, Ashbourne, Co. Meath, Ireland",
+  "profile_image_url": "pbs.twimg.com/profile_images/478137195921162240/2pyQakhc_400x400.jpeg",
+  "twitter_handle": "@Ariosacoffee",
+  "updated_at": "06-May-2015 15:35"
+}, {
+  "name": "Dark Fluid Coffee",
+  "url": "darkfluid.co.uk",
+  "location": "Brockley Market, London, SE4 1UT",
+  "profile_image_url": "pbs.twimg.com/profile_images/1818250371/DF_Logo_under_over_twitter_400x400.png",
+  "twitter_handle": "@DarkFluidCoffee",
+  "updated_at": "06-May-2015 15:34"
+}, {
+  "name": "Owens Coffee",
+  "url": "www.owenscoffee.com",
+  "location": "New Mills Industrial Estate, Modbury, Ivybridge, Devon, PL21 0TP",
+  "profile_image_url": "pbs.twimg.com/profile_images/435424578144190464/SdHrRO6L_400x400.jpeg",
+  "twitter_handle": "@OwensCoffee",
+  "updated_at": "06-May-2015 15:34"
+}, {
+  "name": "Roast Mortem",
+  "url": "",
+  "location": "UK",
+  "profile_image_url": "pbs.twimg.com/profile_images/1586370018/Sugarskull_Roast_Mortem2_400x400.jpg",
+  "twitter_handle": "@RoastMortem",
+  "updated_at": "03-Jun-2015 12:22"
+}, {
+  "location": "Unit 7, Stirling Works, Love Lane, Cirencester, Gloucestershire, GL7 1YG",
+  "name": "Rave Coffee",
+  "profile_image_url": "cdn.shopify.com/s/files/1/0390/4361/t/2/assets/logo.png",
+  "twitter_handle": "@RaveCoffee",
+  "updated_at": "2019-07-04 17:01:12 UTC",
+  "url": "www.ravecoffee.co.uk"
+}, {
+  "name": "Carvetii Coffee",
+  "url": "www.carvetiicoffee.co.uk",
+  "location": "The Roastery, Embleton, Cockermouth, Cumbria, CA13 9YA",
+  "profile_image_url": "pbs.twimg.com/profile_images/458909059278577664/W3jM-lG9_400x400.jpeg",
+  "twitter_handle": "@CarvetiiCoffee",
+  "updated_at": "06-May-2015 15:32"
+}, {
+  "name": "MacBeans Coffee",
+  "url": "www.macbeans.com",
+  "location": "2 Little Bemont Street, Aberdeen, Scotland, AB10 1JG",
+  "profile_image_url": "pbs.twimg.com/profile_images/674961154461073408/edeKnEbk.jpg",
+  "twitter_handle": "@macbeanscoffee",
+  "updated_at": "09-Mar-2016 16:02"
+}, {
+  "name": "Markus Coffee",
+  "url": "www.markuscoffee.com",
+  "location": "13 Connaught Street, London",
+  "profile_image_url": "pbs.twimg.com/profile_images/1543220214/MarkusCC_800pixel_72dpi_RGB_400x400.jpg",
+  "twitter_handle": "@Markus__Coffee",
+  "updated_at": "06-May-2015 15:32"
+}, {
+  "name": "Workshop Coffee Co.",
+  "url": "www.workshopcoffee.com",
+  "location": "27 Clerkenwell Road, Clerkenwell, London, EC1M 5RN",
+  "profile_image_url": "pbs.twimg.com/profile_images/438325872685109248/FR5ow5UD_400x400.jpeg",
+  "twitter_handle": "@WorkshopEC1",
+  "updated_at": "06-May-2015 15:31"
+}, {
+  "name": "Alchemy Coffee",
+  "url": "alchemycoffee.co.uk",
+  "location": "Unit 14-16, Riverside Business Park, Lyon Road, London, SW19 2RL",
+  "profile_image_url": "www.alchemycoffee.co.uk/skin/frontend/alchemy/default/images/logo.png",
+  "twitter_handle": "@alchemy_coffee",
+  "updated_at": "06-May-2015 15:31"
+}, {
+  "name": "Brown Bear",
+  "url": "brownbear.co",
+  "location": "UK",
+  "profile_image_url": "pbs.twimg.com/profile_images/488001772221251584/wYcl2AoF_400x400.png",
+  "twitter_handle": "@BrownBearCoffee",
+  "updated_at": "06-May-2015 15:31"
+}, {
+  "name": "Microroastery",
+  "url": "microroastery.co.uk",
+  "location": "4 St.Margarets Street, Canterbury, Kent, CT1 2TP",
+  "profile_image_url": "pbs.twimg.com/profile_images/577412933040381952/xbNzeGPR_400x400.jpeg",
+  "twitter_handle": "@microroastery",
+  "updated_at": "06-May-2015 15:30"
+}, {
+  "name": "Wogan Coffee",
+  "url": "www.wogancoffee.co.uk",
+  "location": "2 Clement Street, Bristol, BS2 9EQ",
+  "profile_image_url": "https://wogancoffee.com/wp-content/uploads/2018/01/wogan-coffee-logo-4-2.jpg",
+  "twitter_handle": "@WoganCoffee",
+  "updated_at": "01-May-2019 08:18"
+}, {
+  "name": "Farrers \u2122",
+  "url": "www.farrerscoffee.co.uk",
+  "location": "Shap Road Industrial Estate, Fell View Trading Park, Kendal, Cumbria, LA9 6NZ",
+  "profile_image_url": "pbs.twimg.com/profile_images/1899682619/image_400x400.jpg",
+  "twitter_handle": "@Farrers_Coffee",
+  "updated_at": "06-May-2015 15:30"
+}, {
+  "location": "9A Hepworth Business Park, Coedcae Lane, Pontyclun, Wales, CF72 9FQ",
+  "name": "Ferrari's Coffee",
+  "profile_image_url": "https://pbs.twimg.com/profile_images/432886446320402434/zWMELoY0_400x400.jpeg",
+  "twitter_handle": "@FerrarisCoffee",
+  "updated_at": "2019-07-30 07:30:16 UTC",
+  "url": "www.ferrariscoffee.co.uk",
+  "facebook_handle": "ferraris.coffee.1"
+}, {
+  "name": "Ethical Addictions",
+  "url": "www.eacoffee.co.uk",
+  "location": "Rear Warehouse, 69A Alvin Street, Gloucester, GL1 3EH",
+  "profile_image_url": "https://cdn.shopify.com/s/files/1/0181/3537/files/ethical-addictions-logo.jpg",
+  "twitter_handle": "@EA_Coffee",
+  "updated_at": "17-Jul-2018 13:57"
+}, {
+  "name": "Coffee Magic",
+  "url": "www.coffeemagic.co.uk",
+  "location": "Griffin Lane, Attleborough, Norfolk, NR17 2AD",
+  "profile_image_url": "https://pbs.twimg.com/profile_images/443060482732085248/cLTocldF_400x400.jpeg",
+  "twitter_handle": "@CoffeeMagic2",
+  "updated_at": "17-Jul-2018 13:57"
+}, {
+  "name": "ManCoCo",
+  "url": "www.mancoco.co.uk",
+  "location": "84 Hewitt St, Manchester, M15 4GB",
+  "profile_image_url": "https://pbs.twimg.com/profile_images/582474089350242304/bK9PO5gd_400x400.jpg",
+  "twitter_handle": "@ManCoCoLtd",
+  "updated_at": "11-Jun-2017 18:11"
+}, {
+  "name": "Mokarabia Coffee",
+  "url": "www.mokarabia.co.uk",
+  "location": "London",
+  "profile_image_url": "https://pbs.twimg.com/profile_images/3503326027/99c7fa48c1891e70f4c629e27b4e8463_400x400.png",
+  "twitter_handle": "@MokarabiaUK",
+  "updated_at": "11-Jun-2017 18:11"
+}, {
+  "name": "the roasting house",
+  "url": "http://www.roasting.house",
+  "location": "Nottingham",
+  "profile_image_url": "https://cdn.shopify.com/s/files/1/0181/3537/files/roasting-house-logo.jpg",
+  "twitter_handle": "@RoastHse",
+  "updated_at": "17-Jul-2018 13:57"
+}, {
+  "name": "Coffee Mojo",
+  "url": "www.coffeemojo.ie",
+  "location": "Unit W6, Wicklow Enterprise Centre, The Murrough, Wicklow Town, Co. Wicklow, Ireland",
+  "profile_image_url": "https://pbs.twimg.com/profile_images/461196807221956608/BkBgCNmh_400x400.jpeg",
+  "twitter_handle": "@MojoRoastery",
+  "updated_at": "17-Jul-2018 13:56"
+}, {
+  "name": "Utopia coffee",
+  "url": "",
+  "location": "The Royals,  Southend-on-Sea, Essex, SS1 1DQ",
+  "profile_image_url": "https://pbs.twimg.com/profile_images/3016352795/2518308d1cc0c3540937210a9697f1da_400x400.jpeg",
+  "twitter_handle": "@Gr8Coffee",
+  "updated_at": "17-Jul-2018 13:56"
+}, {
+  "name": "Isle of Skye roastery",
+  "url": "www.facebook.com/skyeroastery",
+  "location": "The Red Door, The Old Filling Station, Near the Roundabout by the Skye Bridge, Kyleakin side! , Isle of Skye, Scotland, IV41 8PQ",
+  "profile_image_url": "https://pbs.twimg.com/profile_images/2316016043/facebook_roastery_profile_pic_400x400.jpg",
+  "twitter_handle": "@skyecoffee",
+  "updated_at": "16-Jul-2018 09:42"
+}, {
+  "name": "Papercup Coffee",
+  "url": "papercupcoffeecompany.bigcartel.com",
+  "location": "603 Great Western Road, Glasgow, Scotland, G12 8HX",
+  "profile_image_url": "https://pbs.twimg.com/profile_images/3607564988/84b2b2927c1bd294cebc39153d6d224f_400x400.jpeg",
+  "twitter_handle": "@pccoffeeuk",
+  "updated_at": "16-Jul-2018 09:42"
+}, {
+  "name": "Black Star Coffee",
+  "url": "www.BlackStarCoffee.co.uk",
+  "location": "West Bridgford, Nottinghamshire",
+  "profile_image_url": "https://pbs.twimg.com/profile_images/2796470223/00b1ac4b3db71cad9fad418ada57a2f6_400x400.png",
+  "twitter_handle": "@BlkStarCoffee",
+  "updated_at": "16-Jul-2018 09:42"
+}, {
+  "name": "Just Bean Roasted",
+  "url": "www.justbeanroasted.co.uk",
+  "location": "Leeds, West Yorkshire",
+  "profile_image_url": "https://pbs.twimg.com/profile_images/378800000674581263/a0a4591877c7ebad2b0f5f7f8ef2df32_400x400.png",
+  "twitter_handle": "@justbeanroasted",
+  "updated_at": "16-Jul-2018 09:42"
+}, {
+  "name": "The Golden Bean",
+  "url": "www.facebook.com/thegoldenbeancork",
+  "location": "Ballymaloe House, Shanagarry, Co. Cork, Ireland",
+  "profile_image_url": "https://scontent-bru.xx.fbcdn.net/hphotos-xfp1/v/t1.0-9/1794589_588912094531962_18220085_n.jpg?oh=c47d484e57665e967a4b4010cd135cd7&oe=554EE9FA",
+  "twitter_handle": "@thegoldenbean",
+  "updated_at": "11-Jun-2017 18:11"
+}, {
+  "name": "Preseli Coffee",
+  "url": "www.preselicoffee.com",
+  "location": "2 Lettards Court, Letterston, Pembrokeshire, Wales, SA62 5SR",
+  "profile_image_url": "https://pbs.twimg.com/profile_images/2555447770/iqlkzq03838ilsttzq9f_400x400.jpeg",
+  "twitter_handle": "@PreseliCoffee",
+  "updated_at": "16-Jul-2018 08:06"
+}, {
+  "name": "Beanworks",
+  "url": "www.thebeanworks.co.uk",
+  "location": "The Roastery, 5 Viking Business Centre, High Street, Woodville, Derbyshire, DE11 7EH",
+  "profile_image_url": "http://media.designersfriend.co.uk/beanworks/img/logo.png",
+  "twitter_handle": "@beanworks",
+  "updated_at": "11-Jun-2017 18:16"
+}, {
+  "name": "New Town Coffee",
+  "url": "www.newtowncoffee.com",
+  "location": "21 York Place, Edinburgh, Scotland, EH1 3EN",
+  "profile_image_url": "https://pbs.twimg.com/profile_images/2802960198/8ff44627788a5b8c3ea80b444be2027e_400x400.jpeg",
+  "twitter_handle": "@NewTownCoffee",
+  "updated_at": "16-Jul-2018 08:05"
+}, {
+  "name": "Crediton Coffee",
+  "url": "www.creditoncoffee.co.uk",
+  "location": "1 Market Square House, Market Street, Crediton, Devon, EX17 2BN",
+  "profile_image_url": "https://pbs.twimg.com/profile_images/2555507673/CreditonCoffeeCompany_400x400.jpg",
+  "twitter_handle": "@CreditonCoffee",
+  "updated_at": "16-Jul-2018 08:05"
+}, {
+  "name": "Happy Donkey Coffee",
+  "url": "www.happydonkey.co.uk",
+  "location": "Units B,F and J, 50 Mount Pleasant, Silver Street, Reading, Berkshire, RG1 2TD",
+  "profile_image_url": "https://cdn.shopify.com/s/files/1/0181/3537/files/Happy_Donkey_Coffee_Logo.png",
+  "twitter_handle": "@happydonkeyltd",
+  "updated_at": "11-Jun-2017 18:11"
+}, {
+  "name": "Allpress Espresso UK",
+  "url": "uk.allpressespresso.com",
+  "location": "58, Redchurch Street,  London, E2 7DP",
+  "profile_image_url": "https://instagram.fmxp1-1.fna.fbcdn.net/vp/405d0787503fcee1b639a1c3e386deac/5D559F3A/t51.2885-19/s150x150/21689356_500380583627978_847256743804141568_n.jpg?_nc_ht=instagram.fmxp1-1.fna.fbcdn.net",
+  "twitter_handle": "@AllpressE2",
+  "updated_at": "02-May-2019 20:36"
+}, {
+  "name": "Oxenham&Leigh Coffee",
+  "url": "www.oxenhamleighcoffee.co.uk",
+  "location": "Buckland Brewer, North Devon, EX39 5LU",
+  "profile_image_url": "https://pbs.twimg.com/profile_images/2766234313/efba74f19a55cb9ef179d12c78c268f6_400x400.jpeg",
+  "twitter_handle": "@OxenhamLeigh",
+  "updated_at": "16-Jul-2018 07:59"
+}, {
+  "name": "Caravan Coffee Roaster",
+  "url": "caravanonexmouth.co.uk/roastery/about",
+  "location": "Granary Building, 1 Granary Square (off Goods Way), London, N1C 4AA",
+  "profile_image_url": "https://pbs.twimg.com/profile_images/378800000850084911/00527c790fc98ed2c47e92ca89f619e6_400x400.jpeg",
+  "twitter_handle": "@CaravanRoastery",
+  "updated_at": "16-Jul-2018 07:59"
+}, {
+  "location": "Unit 1, Crown Ind Est, Poland street, Ancoats, Manchester, M4 6BN",
+  "name": "Ancoats Coffee Co.",
+  "profile_image_url": "http://www.ancoats-coffee.co.uk/wp-content/themes/AncoatsCoffee/images/ancoats-coffee-logo.jpg",
+  "twitter_handle": "@ancoatscoffee",
+  "updated_at": "2019-07-04 16:57:42 UTC",
+  "url": "www.ancoats-coffee.co.uk"
+}, {
+  "name": "Redber",
+  "url": "www.redber.co.uk",
+  "location": "Unit 2, Merrow Depot Merrow Lane, Guildford, Surrey, GU4 7BQ",
+  "profile_image_url": "https://cdn.shopify.com/s/files/1/0181/3537/files/redber-logo.png",
+  "twitter_handle": "@RedberCoffee",
+  "updated_at": "11-Jun-2017 18:11"
 }, {
   "location": "4 Hotspur Park, Knights Way, Battlefield Enterprise Park, Shrewsbury, Shropshire , SY1 3FB",
   "name": "Aroma Tea & Coffee",
   "twitter_handle": "@AromaTeaCoffee",
   "updated_at": "2019-12-19 17:56:48 UTC",
-  "url": "www.aroma-coffee.co.uk",
-  "role": "roaster"
+  "url": "www.aroma-coffee.co.uk"
 }, {
   "location": "Arena Business Centre, 9 Nimrod Way, Ferndown, Dorset, BH21 7UH",
   "name": "Bird & Wild",
   "twitter_handle": "@BirdandWild",
   "updated_at": "2019-12-19 17:55:51 UTC",
-  "url": "birdandwild.co.uk/",
-  "role": "roaster"
+  "url": "birdandwild.co.uk/"
+}, {
+  "location": "Unit 7, Blackdown park, Willand, Devon, EX15 2FS",
+  "name": "Roastworks Coffee Co",
+  "profile_image_url": "https://pbs.twimg.com/profile_images/1022151487991033857/Xcl9JEGr_400x400.jpg",
+  "twitter_handle": "@RoastworksDevon",
+  "updated_at": "2019-07-04 08:43:48 UTC",
+  "url": "https://www.roastworks.co.uk"
+}, {
+  "location": "Unit 18, Kenn Court Business Park, Roman Farm Road, Bristol, BS4 1UL",
+  "name": "Roasted Rituals",
+  "profile_image_url": "https://pbs.twimg.com/profile_images/595612956328665089/WFfW8uhk_400x400.jpg",
+  "twitter_handle": "@RoastedRituals",
+  "updated_at": "2019-11-17 18:16:50 UTC",
+  "url": "www.roastedritualscoffee.com"
+}, {
+  "location": "Manor Farm Barns, Glandford, Norfolk, NR25 7JP",
+  "name": "Grey Seal Coffee",
+  "profile_image_url": "http://cdn.shopify.com/s/files/1/0181/3537/collections/grey-seal-logo_medium.jpg?v=1404853267",
+  "twitter_handle": "@Greysealcoffee",
+  "updated_at": "2019-11-17 18:14:28 UTC",
+  "url": "www.greysealcoffee.com"
+}, {
+  "name": "Passion Fruit Coffee",
+  "url": "www.passionfruitcoffee.co.uk",
+  "location": "209 Kings Rd, Chorlton, Manchester, M21 0XY",
+  "profile_image_url": "http://static.squarespace.com/static/53450a71e4b0081b9666e73f/t/53c0753ee4b00a2450791a54/1414188633473",
+  "twitter_handle": "@PassionFruitMCR",
+  "updated_at": "11-Jun-2017 18:11"
+}, {
+  "name": "MissionCoffeeWorks",
+  "url": "www.missioncoffeeworks.com",
+  "location": "4 Grosvenor Way, London, E5 9ND",
+  "profile_image_url": "https://pbs.twimg.com/profile_images/668458259586662402/eT0rO2Jc.jpg",
+  "twitter_handle": "@MissionCoffeeW",
+  "updated_at": "11-Jun-2017 18:11"
+}, {
+  "location": "59 Silver Street, Lyme Regis, Devon, DT7 3TZ",
+  "name": "Amid Giants & Idols",
+  "profile_image_url": "https://daks2k3a4ib2z.cloudfront.net/5884eaca0ceec0701f3a4b86/589a45dee0f4d2b73b1f0eba_Logo%20Dark-p-500x500.png",
+  "twitter_handle": "@AndAnnex",
+  "updated_at": "2019-11-17 18:10:44 UTC",
+  "url": "http://www.amidgiantsandidols.co.uk"
+}, {
+  "name": "Black Circle Coffee\u2122",
+  "url": "www.blackcirclecoffee.com",
+  "location": "22 Ivy Gardens, Congleton, Cheshire, CW12 4GA",
+  "profile_image_url": "https://cdn.shopify.com/s/files/1/1081/9972/t/11/assets/logo.png",
+  "twitter_handle": "@blackcirclenews",
+  "updated_at": "11-Jun-2017 18:11"
+}, {
+  "name": "Stubbs Coffee",
+  "url": "www.facebook.com/stubbscoffees",
+  "location": "London",
+  "profile_image_url": "https://pbs.twimg.com/profile_images/613646706757009408/tHOvBtBv_400x400.png",
+  "twitter_handle": "@stubbscoffee",
+  "updated_at": "11-Jun-2017 18:11"
+}, {
+  "location": "39 Grove Rd, Eastbourne, East Sussex, BN21 4TX",
+  "name": "Beanzz Coffee",
+  "profile_image_url": "cdn.shopify.com/s/files/1/0181/3537/collections/beanzz-logo_medium.JPG",
+  "twitter_handle": "@BeanzzCoffee",
+  "updated_at": "2019-11-17 18:01:57 UTC",
+  "url": "/collections/beanzz-coffee-eastbourne"
 }, {
   "location": "The Roastery, Old Mill Business Park, Station Road, Brunton, Somerset, BA10 0EH",
   "name": "Bean Shot Coffee",
   "twitter_handle": "@BeanShotCoffee",
   "updated_at": "2019-12-21 16:37:52 UTC",
-  "url": "www.beanshot.co.uk",
-  "role": "roaster"
+  "url": "www.beanshot.co.uk"
 }]

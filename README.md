@@ -7,7 +7,7 @@
 
 ## Usage
 
-For JSON query the following URL
+For JSON format, query the following URL
 
 ```
 https://raw.githubusercontent.com/mhamilt/absolute-roasters/main/absolute_roasters.json
@@ -32,5 +32,6 @@ entries may include extra keys
   "facebook_handle":  "facebook_handle",
   "instagram_handle": "instagram_handle",
   "twitter_handle":   "@twitterHandle",
+  "profile_image_url": "url"
 }
 ```

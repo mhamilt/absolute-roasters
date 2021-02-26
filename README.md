@@ -7,7 +7,7 @@
 
 ## Usage
 
-For JSON query the following URL
+For JSON format, query the following URL
 
 ```
 https://raw.githubusercontent.com/mhamilt/absolute-roasters/main/absolute_roasters.json

@@ -32,5 +32,6 @@ entries may include extra keys
   "facebook_handle":  "facebook_handle",
   "instagram_handle": "instagram_handle",
   "twitter_handle":   "@twitterHandle",
+  "profile_image_url": "url"
 }
 ```

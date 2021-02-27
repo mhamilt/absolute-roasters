@@ -39,7 +39,7 @@
   "name": "92degreescoffee",
   "url": "www.facebook.com/92DegreesCoffee",
   "location": "24 Hardman Street, Liverpool, Merseyside, L1 9AX",
-  "profile_image_url": "//pbs.twimg.com/profile_images/525291991282626561/18y3PYue_400x400.png",
+  "profile_image_url": "pbs.twimg.com/profile_images/525291991282626561/18y3PYue_400x400.png",
   "updated_at": "10-Nov-2015 09:02",
   "twitter": "@92degreescoffee",
   "coord": [53.4015, -2.9713]
@@ -376,7 +376,7 @@
   "name": "Blenders",
   "url": "www.gaggia.ecwid.com/#!/Blenders-of-Northampton/c/4378367",
   "location": "75 St Giles' St, Northampton, NN1 1JF",
-  "profile_image_url": "//cdn.shopify.com/s/files/1/0181/3537/files/blenders.png",
+  "profile_image_url": "cdn.shopify.com/s/files/1/0181/3537/files/blenders.png",
   "updated_at": "06-May-2015 15:51",
   "coord": [52.2378, -0.8907]
 }, {
@@ -475,7 +475,7 @@
   "name": "Bullet Coffee",
   "url": "www.bullet-coffee.com",
   "location": "789 Wandsworth Rd, London, SW8 3JQ",
-  "profile_image_url": "//cdn.shopify.com/s/files/1/0181/3537/files/bullet-coffee-logo.jpg",
+  "profile_image_url": "cdn.shopify.com/s/files/1/0181/3537/files/bullet-coffee-logo.jpg",
   "updated_at": "06-May-2015 15:51",
   "twitter": "@bulletcoffee",
   "coord": [51.4668, -0.1476]
@@ -632,9 +632,9 @@
   "coord": [51.5155, -0.1897]
 }, {
   "name": "Charlestown Coffee",
-  "url": "//twitter.com/bradford_coffee",
+  "url": "twitter.com/bradford_coffee",
   "location": "Yorkshire",
-  "profile_image_url": "//pbs.twimg.com/profile_images/532931991016988672/ma45bdjr.jpeg",
+  "profile_image_url": "pbs.twimg.com/profile_images/532931991016988672/ma45bdjr.jpeg",
   "updated_at": "06-May-2015 15:55",
   "twitter": "@bradford_coffee",
   "coord": [53.6204, -2.1526]
@@ -1294,7 +1294,7 @@
   "name": "Glenfinlas Coffee",
   "url": "www.glenfinlascoffee.com",
   "location": "1 St. Colme Street, Edinburgh, Scotland, EH3 6AA",
-  "profile_image_url": "//www.glenfinlas.com/_resource/_img/glenfinlas-logo.png",
+  "profile_image_url": "www.glenfinlas.com/_resource/_img/glenfinlas-logo.png",
   "updated_at": "06-May-2015 15:40",
   "twitter": "@glenfinlas_shop",
   "coord": [55.9534, -3.208]
@@ -1360,7 +1360,7 @@
   "name": "Grind Roast Works",
   "url": "www.grindcoffeelondon.com",
   "location": "Roastery, Unit 8, Ferrier Street, Wandsworth, London, SW18 1SW",
-  "profile_image_url": "//cdn.shopify.com/s/files/1/0181/3537/files/grind-coffee-london.jpg",
+  "profile_image_url": "cdn.shopify.com/s/files/1/0181/3537/files/grind-coffee-london.jpg",
   "updated_at": "06-May-2015 15:54",
   "twitter": "@GrindRoastWorks"
 }, {
@@ -1699,7 +1699,7 @@
   "name": "Lincoln & York",
   "url": "www.lincolnandyork.com",
   "location": "Kahawa House, Elsham Wold Industrial Estate, Nr. Brigg, North Lincolnshire, DN20 0SP",
-  "profile_image_url": "//cdn.shopify.com/s/files/1/0181/3537/files/lincoln-york-logo.jpg",
+  "profile_image_url": "cdn.shopify.com/s/files/1/0181/3537/files/lincoln-york-logo.jpg",
   "updated_at": "18-May-2015 10:44",
   "coord": [53.6062, -0.4224]
 }, {
@@ -1847,7 +1847,7 @@
   "name": "Mariners Coffee",
   "url": "www.marinerscoffeemerchants.co.uk",
   "location": "Unit 55, The Raylor Centre James Street, York, YO10 3DW",
-  "profile_image_url": "//cdn.shopify.com/s/files/1/0181/3537/files/mariners-coffee-logo.png",
+  "profile_image_url": "cdn.shopify.com/s/files/1/0181/3537/files/mariners-coffee-logo.png",
   "updated_at": "03-Jun-2015 13:59",
   "twitter": "@MarinersCoffee",
   "coord": [53.9568, -1.0656]
@@ -2416,7 +2416,7 @@
   "name": "Ristretto Coffee",
   "url": "www.ristrettocoffee.com",
   "location": "Unit 49, Banbridge Enterprise Centre, Scarva Road Industrial Estate, Banbridge, County Down, Ireland, BT32 3QD",
-  "profile_image_url": "//cdn.shopify.com/s/files/1/0181/3537/files/ristretto_logo_footer.jpg",
+  "profile_image_url": "cdn.shopify.com/s/files/1/0181/3537/files/ristretto_logo_footer.jpg",
   "updated_at": "06-May-2015 15:42",
   "twitter": "@ristrettocoffee",
   "coord": [54.3499, -6.291]
@@ -2926,7 +2926,7 @@
   "name": "THE DUKE COFFEE",
   "url": "thedukecoffee.com",
   "location": "Kentish Town, London",
-  "profile_image_url": "//cdn.shopify.com/s/files/1/0181/3537/files/the-duke-coffee-logo.png",
+  "profile_image_url": "cdn.shopify.com/s/files/1/0181/3537/files/the-duke-coffee-logo.png",
   "updated_at": "06-May-2015 15:54"
 }, {
   "name": "The Ethiopian Coffee Co",
@@ -3301,7 +3301,7 @@
   "name": "Wilkinson's of Norwich",
   "url": "wilkinsonsofnorwich.com",
   "location": "5 Lobster Lane, Norwich, Norfolk, NR2 1DQ",
-  "profile_image_url": "//cdn.shopify.com/s/files/1/0181/3537/files/wilkinsons-of-norwich.jpg",
+  "profile_image_url": "cdn.shopify.com/s/files/1/0181/3537/files/wilkinsons-of-norwich.jpg",
   "updated_at": "06-May-2015 15:56",
   "coord": [52.6298, 1.2932]
 }, {

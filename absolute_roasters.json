@@ -66,6 +66,13 @@
   "twitter": "@alchemy_coffee",
   "coord": [51.4132, -0.1851]
 }, {
+  "name": "Allegro Coffee UK",
+  "description": "Allegro Coffee was founded in Boulder, Colorado, USA in 1977, with the simple goal to bring you the best coffees in the world. In the decades since, we have merged with Whole Foods Market, moved our offices to a larger facility in the outskirts of nearby Denver, and expanded our product line to include fine tea, wellness tea, and drinking chocolate\u2014all with an emphasis on organic and sustainably grown ingredients. Through all this growth and change, our initial goal has remained the same: from coffee beans to tea leaves, herbs, botanicals, and chocolate\u2014 we passionately and continually source the best ingredients the world has to offer.",
+  "location": "63 - 97 Kensington High Street, London, W8 5SE",
+  "coord": [51.5016, -0.1908],
+  "handle": "allegro-coffee-uk",
+  "url": "www.facebook.com/AllegroCoffeeUK"
+}, {
   "name": "Allpress Espresso UK",
   "url": "uk.allpressespresso.com",
   "location": "58, Redchurch Street,  London, E2 7DP",
@@ -143,6 +150,14 @@
   "facebook": "AssemblyRoast",
   "instagram": "AssemblyRoast"
 }, {
+  "name": "Astrora Coffee",
+  "description": "a speciality coffee micro roastery & retailer",
+  "location": "31 Broad Street, Teddington, Middlesex, TW11 8QZ",
+  "twitter": "@astroracoffee",
+  "coord": [51.426, -0.3375],
+  "handle": "astrora-coffee",
+  "url": "www.astrora.co.uk"
+}, {
   "name": "Badger & Dodo",
   "url": "www.badgeranddodo.ie",
   "location": "Each Saturday, Douglas Farmers Market, Douglas, Cork, Ireland",
@@ -183,6 +198,14 @@
   "updated_at": "2020-06-16 03:28:22 UTC",
   "url": "https://www.baytowncoffeecompany.com",
   "twitter": "@BaytownCoffee"
+}, {
+  "name": "Bean & Ground",
+  "description": "Discover freshly roasted coffee, delivered. Two different varieties from around the world with each delivery, straight through your door.",
+  "location": "London, UK",
+  "twitter": "@beanandground",
+  "coord": [51.5074, -0.1278],
+  "handle": "bean-and-ground",
+  "url": "www.beanandground.co.uk"
 }, {
   "location": "Fairfield Mills, Queen Street South, Huddersfield, West Yorkshire, HD1 3DX",
   "name": "Bean Brothers",
@@ -295,12 +318,28 @@
   "twitter": "@BewleysIreland",
   "coord": [53.3417, -6.2604]
 }, {
+  "name": "Big Nose Coffee Company",
+  "description": "Freshly Roasted Arabica Coffee Beans, Home Grinders and Aeropress.",
+  "location": "Unit A & B Station Yard Norbiton Station, Coombe Road, Kingston Upon Thames, Surrey, KT2 7AZ",
+  "twitter": "@BigNoseCoffee",
+  "coord": [51.4127, -0.2833],
+  "handle": "big-nose-coffee-company",
+  "url": "www.bignosecoffeecompany.co.uk"
+}, {
   "location": "Arena Business Centre, 9 Nimrod Way, Ferndown, Dorset, BH21 7UH",
   "name": "Bird & Wild",
   "updated_at": "2019-12-19 17:55:51 UTC",
   "url": "birdandwild.co.uk/",
   "twitter": "@BirdandWild",
   "coord": [50.8077, -1.9224]
+}, {
+  "name": "Black Chapel",
+  "description": "Preferred coffee of transpontines. Located in Chapel Yard SW18",
+  "location": "SW18",
+  "twitter": "@BlackChapelYard",
+  "coord": [51.4466, -0.1935],
+  "handle": "black-chapel",
+  "url": "blackchapel.london/index.php/black-chapel"
 }, {
   "name": "Black Circle Coffee\u2122",
   "url": "www.blackcirclecoffee.com",
@@ -309,6 +348,14 @@
   "updated_at": "11-Jun-2017 18:11",
   "twitter": "@blackcirclenews",
   "coord": [53.162, -2.2218]
+}, {
+  "name": "Black Craft Coffee",
+  "description": "Heavy Metal, Light Roast. Black Craft Coffee Established was in 2013 by Anto, a travelling Barista who settled in London in 2003. To his surprise he discovered that the Brits drank something called Tea, and just weren\u2019t doing Coffee proper",
+  "location": "Belvedere Rd, London, SE19 2HP",
+  "twitter": "@BlackCraftCoffe",
+  "coord": [51.416, -0.0775],
+  "handle": "black-craft-coffee",
+  "url": "blackcraftcoffee.com/"
 }, {
   "name": "Black Sheep Coffee",
   "url": "www.leavetheherdbehind.com",
@@ -456,6 +503,14 @@
   "twitter": "@CafeHormozi",
   "coord": [51.2787, 0.5217]
 }, {
+  "name": "Caffe Biscardi 1903",
+  "description": "For the Biscardi family, coffee is an art mastered over four generations in a journey started in New York in 1903. The Biscardi blends are crafted in Naples following old recipes prepared by Nonno Ferdinando utilising only the best beans roasted on fire fed by hand chopped oak wood",
+  "location": "9 Dalecroft, London N4 2SJ",
+  "twitter": "@Biscardi1903",
+  "coord": [51.5608, -0.0928],
+  "handle": "caffe-biscardi-1903",
+  "url": "www.caffebiscardi1903.com"
+}, {
   "location": "16 Front Street,  Prudhoe, Northumberland, NE42 5HN",
   "name": "Caffe Ginevra UK",
   "updated_at": "2020-06-28 02:35:47 UTC",
@@ -485,6 +540,14 @@
   "updated_at": "03-Jun-2015 12:22",
   "twitter": "@coffeecaledonia",
   "coord": [56.4179, -3.4756]
+}, {
+  "name": "Cambridge Coffee Co",
+  "description": "Inspired by one of the world's most beautiful cities we've created a range of ground and whole bean coffees for every part of your week. Our beans come from some of Africa's very best coffee farms via a century and a half old family import firm. We roast in small batches in a wonderfully restored vintage coffee roaster and... then we deliver them, fast and fresh, right to your door.",
+  "location": "Cambridge, UK",
+  "twitter": "@CambCoffeeCo",
+  "coord": [52.2053, 0.1218],
+  "handle": "cambridge-coffee-co",
+  "url": "www.thecambridgecoffeecompany.com"
 }, {
   "name": "Campbell & Syme",
   "url": "www.campbellandsyme.co.uk",
@@ -584,6 +647,14 @@
   "twitter": "@bradford_coffee",
   "coord": [53.6204, -2.1526]
 }, {
+  "name": "Charlie Mills Coffee",
+  "description": "We are a family run, independent moorland micro roastery. Sourcing and roasting the highest quality, 100% Arabica, green beans which are fully traceable and sustainable",
+  "location": "Eaglesham, Glasgow, G76 0BB",
+  "twitter": "@cmcoffeeroaster",
+  "coord": [55.738, -4.2819],
+  "handle": "charlie-mills-coffee",
+  "url": "www.charliemillscoffee.com"
+}, {
   "name": "Cherry Picked Coffee",
   "url": "cherrypickedcoffee.co.uk",
   "location": "Worthing, West Sussex , BN11 2QU",
@@ -606,6 +677,14 @@
   "twitter": "@climpsonandsons",
   "coord": [51.5397, -0.0588]
 }, {
+  "name": "Cloggs Coffee",
+  "description": "Cloggs Coffee Company is a Yorkshire based premium quality coffee bean supplier. We have a range of coffees that include single origin numbers and espresso blends. We ethically source the highest grade coffee beans available and hand roast them to order in the Calder Valley, West Yorkshire. Cloggs started life 13 years ago as a small coffee shop in an old converted clog factory in West Yorkshire, hence the name! We supply roasted coffee beans, tea and luxurious hot chocolate to cafes, restaurants, hotels and bars all over the UK.",
+  "location": "3 Park Row, Leeds, West Yorkshire, LS26 0JA",
+  "twitter": "@cloggscoffee",
+  "coord": [53.75, -1.4779],
+  "handle": "cloggs-coffee",
+  "url": "www.cloggscoffee.com"
+}, {
   "location": "Science Gallery Caf\u00e9, Pearse St, Dublin, Ireland",
   "name": "Cloud Picker Coffee",
   "updated_at": "2020-06-28 01:50:29 UTC",
@@ -627,6 +706,14 @@
   "twitter": "@CoaltownCoffee",
   "coord": [52.1307, -3.7837]
 }, {
+  "name": "Coastal Roaster",
+  "description": "At Coastal Roaster we believe in quality and sustainability, whilst still being able to enjoy the finer things in life. Our coffee is ethically sourced and most come with some form of certification. Our coffee is roasted by hand, and monitored by eye, ensuring we get the best out of each batch",
+  "location": "Redcar, North Yorkshire",
+  "twitter": "@Coastal_Roaster",
+  "coord": [54.5975, -1.078],
+  "handle": "coastal-roaster",
+  "url": "coastalroaster.co.uk"
+}, {
   "name": "Coburg Coffee Co.",
   "url": "coburgcoffeecompany.co.uk",
   "location": "3 Harrington Way, Warspite Road, London, SE18 5NU",
@@ -634,6 +721,14 @@
   "updated_at": "07-Mar-2016 19:33",
   "twitter": "@CoburgCoffeeCo",
   "coord": [51.4944, 0.0448]
+}, {
+  "name": "Coffee Cavern - Eric Moore",
+  "description": "Owner of coffee tasting club, online shop and mad dog.",
+  "location": "Stony Stratford Market & Riseley, Bedford MK44 1EE",
+  "twitter": "@CoffeeCavern",
+  "coord": [52.2503, -0.4822],
+  "handle": "eric-moore",
+  "url": "www.coffeecavern.co.uk"
 }, {
   "location": "Unit 1 Pentrich Road, Giltbrook Ind. Estate, Nottingham, NG16 2UZ",
   "name": "Coffee Central",
@@ -780,6 +875,14 @@
   "facebook": "ColonnaCoffee",
   "instagram": "ColonnaCoffee"
 }, {
+  "name": "ColourCoffeeRoastery",
+  "description": "Coffee roastery based just outside Newcastle Upon Tyne.",
+  "location": "1 Pink Lane, Newcastle upon Tyne, NE1 5DW",
+  "twitter": "@Colourcoffee",
+  "coord": [54.9695, -1.6185],
+  "handle": "colour-coffee-roastery",
+  "url": "www.colourcoffee.co.uk"
+}, {
   "location": "WOODLEA STABLES, INVERKEITHING ROAD, CROSSGATES, Scotland, KY11 7ER",
   "name": "Common Coffee",
   "url": "https://www.commoncoffee.co.uk",
@@ -799,6 +902,14 @@
   "profile_image_url": "www.corkcoffee.com/gallery/1.jpg",
   "updated_at": "06-May-2015 15:49",
   "coord": [51.9015, -8.4702]
+}, {
+  "name": "Counter Roastery",
+  "description": "Independent coffee roastery located in @countercafe on the canal in Hackney Wick.",
+  "location": "Roach Rd, London, E3 2PA",
+  "twitter": "@counterroastery",
+  "coord": [51.5402, -0.0214],
+  "handle": "counter-roastery",
+  "url": "thecountercafe.co.uk"
 }, {
   "location": "Devonbanks Cottage, Pitgober, Dollar, Clackmannanshire, Scotland, FK14 7PQ",
   "name": "CounterRoast",
@@ -920,6 +1031,14 @@
   "twitter": "@DecadentDecaf",
   "coord": [50.8142, -0.5523]
 }, {
+  "name": "DEEPmills Suffolk",
+  "description": "We slow Hand Roast Gourmet Arabica Coffees in small batches each week.We produce fine Chocolate products, Importers of Fine Ceylon Teas",
+  "location": "45 Orchard Close, Woodbridge, Suffolk, IP12 1LD",
+  "twitter": "@DeepmillsUK",
+  "coord": [52.1049, 1.3147],
+  "handle": "deepmills-suffolk",
+  "url": "www.deepmills.co.uk"
+}, {
   "name": "DJ Miles",
   "url": "www.djmiles.co.uk",
   "location": "Porlock House, Stephenson Road,  Minehead, Somerset, TA24 5EB",
@@ -977,6 +1096,14 @@
   "twitter": "@Edgcumbes",
   "coord": [50.8376, -0.5769]
 }, {
+  "name": "eightpointnine",
+  "description": "Personalised fresh coffee blends for discerning individuals. Convert to us today and get your first box half price with code: 8PT9HALF",
+  "location": "London | Cotswolds | Norway",
+  "twitter": "@eightpointnine",
+  "coord": [51.5074, -0.1278],
+  "handle": "eight-point-nine",
+  "url": "www.eightpointnine.com"
+}, {
   "location": "40 Haven Green, London, W5 2NX",
   "name": "ELECTRIC COFFEE CO.",
   "updated_at": "2020-06-28 04:10:49 UTC",
@@ -1006,6 +1133,14 @@
   "updated_at": "21-Sep-2015 16:53",
   "twitter": "@execoffeeroast",
   "coord": [50.7184, -3.5339]
+}, {
+  "name": "Exotic Coffee",
+  "description": "Coffee hand roasted locally",
+  "location": "Unit 30 Old London Road Oxford, OX33 1XW",
+  "twitter": "@exoticroasters",
+  "coord": [51.7469, -1.126],
+  "handle": "exotic-coffee",
+  "url": "www.exoticcoffeeroasters.com"
 }, {
   "name": "Extract Coffee",
   "url": "www.extractcoffee.co.uk",
@@ -1099,6 +1234,14 @@
   "twitter": "@freehandcoffee",
   "coord": [50.2278, -5.2521]
 }, {
+  "name": "Fresh bag of coffee",
+  "description": "Roasting coffee to order in Nottingham. Blend and single origin beans. Use code NottsDelivery for free delivery",
+  "location": "Nottingham, UK",
+  "twitter": "@freshbagcoffee",
+  "coord": [52.9548, -1.1581],
+  "handle": "fresh-bag-of-coffee",
+  "url": "afreshbagofcoffee.co.uk"
+}, {
   "name": "Freshpac",
   "url": "freshpac.co.uk",
   "location": "Unit B, Broadway Drive, Halesworth, Suffolk, IP19 8QR",
@@ -1127,6 +1270,13 @@
   "url": "www.garraways.co.uk",
   "twitter": "@GarrawaysCoffee",
   "coord": [53.5734, -2.3634]
+}, {
+  "name": "Geniuscoffea",
+  "description": "Tisbury's first coffee roaster..Roasted in Tisbury and for you to enjoy in our unique coffee shop in the heart of Wiltshire",
+  "location": "High street, Tisbury, Wiltshire, SP3 6JB",
+  "coord": [51.0456, -2.0659],
+  "handle": "geniuscoffea",
+  "url": "www.facebook.com/geniuscoffea"
 }, {
   "name": "Gillards of Bath",
   "url": "www.gillards.co.uk",
@@ -1221,6 +1371,14 @@
   "updated_at": "06-May-2015 15:54",
   "twitter": "@GrindRoastWorks"
 }, {
+  "name": "Grounded Coffee",
+  "description": "Proud to stock one of the largest selections of single origin, flavoured, blends and gourmet coffee. Shop online or find us at Meadowhall and the Moor Market!",
+  "location": "Sheffield, UK",
+  "twitter": "@GroundedBoys",
+  "coord": [53.3811, -1.4701],
+  "handle": "grounded-coffee",
+  "url": "ground-n-out.co.uk"
+}, {
   "location": "The Roastery, Meltham, Holmfirth, Yorkshire, HD9 4EP",
   "name": "Grumpy Mule Coffee",
   "updated_at": "2020-06-28 02:43:51 UTC",
@@ -1265,6 +1423,14 @@
   "twitter": "@hasbean",
   "coord": [52.8326, -2.2071]
 }, {
+  "name": "HATHI COFFEE",
+  "description": "The Hathi Coffee Roastery is the vision of husband and wife, Johan and Wenona Du Toit. A true artisan approach to creating the finest coffee, hand roasted daily and delivered to your doorstep. From the start it was most important for us to build a direct relationship with our customers and be part of their journey as they discovered the world of Speciality Coffee. We only source 100% Arabica Speciality Grade green beans from responsible growers. This ensures the ethical traceability of our products and in doing so, helps further the industry as a whole.",
+  "location": "Church Farm, Ardeley, Hertfordshire, SG2 7AH",
+  "twitter": "@hathicoffee",
+  "coord": [51.9222, -0.1203],
+  "handle": "hathi-coffee",
+  "url": "www.hathicoffee.co.uk"
+}, {
   "location": "Hayling Island, Hampshire",
   "name": "Hayling Island Coffee Society",
   "updated_at": "2020-05-21 07:15:23 UTC",
@@ -1284,6 +1450,14 @@
   "url": "http://www.highfieldscoffee.co.uk",
   "twitter": "@HifieldsCoffee"
 }, {
+  "name": "Highland Coffees",
+  "description": "Welcome to Perthshire's premier coffee roasting house!",
+  "location": "Drummond Street, Comrie, Perthshire, PH6 2DW",
+  "twitter": "@HighlandCoffees",
+  "coord": [56.3753, -3.9855],
+  "handle": "highland-coffees",
+  "url": "www.highlandcoffees.co.uk"
+}, {
   "location": "Lyleston West Lodge, Cardross, Argyll and Bute, Scotland, G82 5HF",
   "name": "Home Ground Coffee",
   "updated_at": "2020-06-28 02:59:22 UTC",
@@ -1297,6 +1471,14 @@
   "url": "thehoneybeecoffeeroastery.co.uk",
   "twitter": "@HoneybeeCoffee1",
   "coord": [50.9641, -0.5599]
+}, {
+  "name": "Hope & Glory Coffee",
+  "description": "The new speciality coffee roasters on the block. Bringing Hope & Glory into your life, just one cup at a time. Tweets from Sean & Gina",
+  "location": "North Lincolnshire, UK",
+  "twitter": "@HopeandGloryUK",
+  "coord": [53.6056, -0.5597],
+  "handle": "hope-and-glory-coffee",
+  "url": "www.hopeandglorycoffee.co.uk"
 }, {
   "name": "Horsebox Coffee Co",
   "updated_at": "2020-05-21 06:55:30 UTC",
@@ -1371,6 +1553,14 @@
   "updated_at": "16-Jul-2018 09:42",
   "twitter": "@skyecoffee",
   "coord": [57.2721, -5.7435]
+}, {
+  "name": "Ismail Coffee & Tea",
+  "description": "Roasting IN-STORE daily selling some of the freshest coffee in the world.Family experience since 1925 .",
+  "location": "95-97 Mount Pleasant Road, Tunbridge Wells, Kent, TN1 1QG",
+  "twitter": "@IsmailCoffeeTea",
+  "coord": [51.1335, 0.2633],
+  "handle": "ismail-coffee-and-tea",
+  "url": "www.ismail.co.uk/"
 }, {
   "name": "Italian aroma coffee",
   "url": "www.italianaromacoffee.co.uk",
@@ -1461,6 +1651,14 @@
   "url": "www.johnwattandson.co.uk",
   "twitter": "@johnwatt_son",
   "coord": [54.8939, -2.9346]
+}, {
+  "name": "Jonestown Coffee",
+  "description": "Small low brow coffee roaster coming soon to East London. Quality without the bullshit. Info at jonestowncoffee@gmail.com",
+  "location": "East London",
+  "twitter": "@jonestowncoffee",
+  "coord": [51.5074, -0.1278],
+  "handle": "jonestown-coffee",
+  "url": "jonestowncoffee.co.uk"
 }, {
   "name": "Julius Meinl UK",
   "url": "www.meinlcoffee.com/uk/uk/julius-meinl.html",
@@ -1556,6 +1754,14 @@
   "twitter": "LLCoffeeCo",
   "facebook": "LochLomondCoffee"
 }, {
+  "name": "Londinium Espresso",
+  "description": "LONDINIUM espresso is a dedicated espresso roaster committed to introducing everyone we can to the ultimate taste that only a lever espresso machines can bring to your cup LONDINIUM espresso has been providing single origin roasts to espresso lovers all over the globe since 2004 Our quest for the ultimate espresso led us to design and have built in England our own range of lever espresso machines, LONDINIUM I, II, & III, all designed to do one thing: make perfect espresso, again & again",
+  "location": "426 Long Drive, London UB6 8UH",
+  "twitter": "@lespresso",
+  "coord": [51.5433, -0.3583],
+  "handle": "londinium-espresso",
+  "url": "LondiniumEspresso.com"
+}, {
   "name": "London Coffee Roasters",
   "url": "www.londoncoffeeroasters.co.uk",
   "location": "",
@@ -1601,6 +1807,14 @@
   "twitter": "@luckie_beans",
   "coord": [55.7689, -2.0059]
 }, {
+  "name": "Lulu Coffee Company",
+  "description": "Hello, we\u2019re Lulu. We\u2019re small batch community coffee roasters and bakers and we do everything at our lovely old shop on the high street in Ware, Hertfordshire. We\u2019re committed to bringing all our customers fantastic coffee, good old fashioned service and some wonderful things to eat too. When you\u2019re next in town, pop by and say hello.",
+  "location": "73 High Street, Ware, Herts, SG12 9AD",
+  "twitter": "@lulucoffeeco",
+  "coord": [51.8112, -0.0326],
+  "handle": "lulu-coffee-company",
+  "url": "www.lulucoffee.co.uk"
+}, {
   "location": "Lytham St. Anne's, Lancashire",
   "name": "Lytham Coffee Co",
   "updated_at": "2020-06-16 03:56:40 UTC",
@@ -1614,6 +1828,13 @@
   "updated_at": "09-Mar-2016 16:02",
   "twitter": "@macbeanscoffee",
   "coord": [57.1468, -2.1006]
+}, {
+  "name": "Makushi Coffee Roasters",
+  "description": "Makushi is a micro roaster on Steep Hill, Lincoln. They only roast sustainably sourced, traceable, high quality, single origin coffee. The green coffees they buy are typically priced a premium above the cost of production has been paid to the farmers, who are often in regions that need it most. They are part of a coffee chain that delivers the best possible coffee while sustainably supporting everyone in that chain, from the farmer, to exporter, roaster, barista and ultimately the consumer.",
+  "location": "12 Steep Hill, Lincoln, Lincolnshire, LN2 1LT",
+  "coord": [53.233, -0.5386],
+  "handle": "makushi-coffee-roasters",
+  "url": "makushi.bigcartel.com"
 }, {
   "name": "ManCoCo",
   "url": "www.mancoco.co.uk",
@@ -1698,6 +1919,14 @@
   "twitter": "@microroastery",
   "coord": [51.2777, 1.0793]
 }, {
+  "name": "Milly's Coffee Co",
+  "description": "Millys Coffee Company is a small family run business, built from the dreams of the managing director to embody his passion and love for coffee. We are the only coffee company in the heart of the Scottish borders and the main distributor for Italian Aroma. We cover South East Scotland from Berwick upon tweed to the heart of Scotland's capital Edinburgh and back down to the Northumberland area.",
+  "location": "Hawick, Scottish Borders, TD9 9NS",
+  "twitter": "@MillysCoffeeCo",
+  "coord": [55.427, -2.7794],
+  "handle": "milly's-coffee-co",
+  "url": "millyscoffeecompany.com"
+}, {
   "name": "MissionCoffeeWorks",
   "url": "www.missioncoffeeworks.com",
   "location": "4 Grosvenor Way, London, E5 9ND",
@@ -1763,6 +1992,21 @@
   "updated_at": "13-Nov-2017 11:19",
   "twitter": "@mug_run",
   "coord": [53.3144, -3.4934]
+}, {
+  "name": "My Daily Coffee",
+  "description": "As devoted seekers of singularity and true to the concepts of origin and direct trade, we are a pleased to offer you a selection of dedicatedly sourced and hand roasted. Colombian speciality coffee to be brewed whit equal care. We are keen at hunting for unique micro lots and varietals throughout Colombia and establishing bonds with farmers and ethnic communities alike in order to bring to you the best quality coffee of the season\u2019s harvest.",
+  "location": "Gallows Green, Dunmow, Essex, CM6",
+  "coord": [51.9173, 0.3779],
+  "handle": "my-daily-coffee",
+  "url": "mydailycoffee.co.uk"
+}, {
+  "name": "Nature's Roast",
+  "description": "The finest coffee hand roasted in a wood-fired oven using local sustainably sourced wood.",
+  "location": "Dorset, UK",
+  "twitter": "@NaturesRoast",
+  "coord": [50.7391, -2.3382],
+  "handle": "natures-roast",
+  "url": "www.naturesroast.co.uk"
 }, {
   "name": "Neighbourhood Coffee",
   "url": "www.neighbourhoodcoffee.co.uk",
@@ -1918,6 +2162,22 @@
   "url": "ozonecoffee.co.uk",
   "twitter": "@OZONECOFFEEUK"
 }, {
+  "name": "OzoneCoffeeRoasters",
+  "description": "Independent Coffee Roasters...we source, roast, brew and live coffee.",
+  "location": "11 Leonard Street, London EC2A 4AQ",
+  "twitter": "@OzoneCoffeeuk",
+  "coord": [51.5246, -0.087],
+  "handle": "ozone-coffee-roasters",
+  "url": "www.ozonecoffee.co.uk"
+}, {
+  "name": "Pact Coffee",
+  "description": "Delicious coffees delivered fresh from roasting to home or work.",
+  "location": "The Mint Building, The Biscuit Factory, 100 Clement's Road, Bermondsey, SE16 4DG",
+  "twitter": "@pactcoffee",
+  "coord": [51.4942, -0.0628],
+  "handle": "pact-coffee",
+  "url": "www.pactcoffee.com"
+}, {
   "name": "Paddy & Scott's",
   "url": "www.paddyandscotts.co.uk",
   "location": "Suffolk, IP13 7SR",
@@ -2028,6 +2288,14 @@
   "twitter": "@PonticelliE",
   "coord": [52.2441, -7.1121]
 }, {
+  "name": "Porter's Coffee",
+  "description": "Premium, flame roasted coffee delivered straight to your door.",
+  "location": "36 Mossgate Park Heysham LA3 2WN",
+  "twitter": "@Getporters",
+  "coord": [54.0375, -2.8898],
+  "handle": "porters-coffee",
+  "url": "getporters.com"
+}, {
   "name": "Preseli Coffee",
   "url": "www.preselicoffee.com",
   "location": "2 Lettards Court, Letterston, Pembrokeshire, Wales, SA62 5SR",
@@ -2051,6 +2319,14 @@
   "updated_at": "06-May-2015 15:42",
   "twitter": "@PumphreysBE",
   "coord": [54.9661, -1.7181]
+}, {
+  "name": "Puro Gusto Coffee",
+  "description": "Boutique Irish Roaster with a passion for all things coffee. We'd love you to try our roasts. DM us and we might be able to arrange some samples. Enjoy!!",
+  "location": "Dublin Ireland",
+  "twitter": "@PuroGustoCoffee",
+  "coord": [53.3498, -6.2603],
+  "handle": "puro-gusto-coffee",
+  "url": "facebook.com/purogustocoffee"
 }, {
   "location": "Annacotty Business Park, Annacotty, Limerick, Ireland",
   "name": "P\u00f3naire Irish Handcrafted Coffee",
@@ -2168,6 +2444,14 @@
   "twitter": "@RoastBatch",
   "coord": [54.9783, -1.6178]
 }, {
+  "name": "Roast Central",
+  "description": "An independent on line coffee roaster based in Falkirk! We roast brilliant coffee to order, and send it straight to you!",
+  "location": "Falkirk",
+  "twitter": "@RoastFiend",
+  "coord": [56.0019, -3.7839],
+  "handle": "roast-central",
+  "url": "www.roastcentral.co.uk"
+}, {
   "name": "Roast Lab Coffee Roasters",
   "updated_at": "2020-05-21 06:53:37 UTC",
   "url": "https://roastlab.coffee",
@@ -2191,6 +2475,14 @@
   "url": "www.roastedritualscoffee.com",
   "twitter": "@RoastedRituals",
   "coord": [51.4183, -2.5891]
+}, {
+  "name": "Roaster B",
+  "description": "Inspired by the world\u2019s greatest cities, we are passionate about capturing the spirit of each city within a pack of high quality freshly roasted coffee beans.",
+  "location": "Windsor, United Kingdom",
+  "twitter": "@roasterbcoffee",
+  "coord": [51.4817, -0.6136],
+  "handle": "roasterb-coffee-co-windsor",
+  "url": "www.roasterb.com"
 }, {
   "location": "Old Quarry Farm, Newton Abbot, Devon, TQ12 5FN",
   "name": "Roasters Artisan",
@@ -2235,6 +2527,14 @@
   "url": "https://roundhillroastery.com",
   "twitter": "@roundhillcoffee",
   "coord": [51.2941, -2.4367]
+}, {
+  "name": "Roundsquare Roastery",
+  "description": "Ayrshire's only coffee roastery. Hand roasted, the artisan way. sales@roundsquare.org.uk",
+  "location": "Above Su Casa Coffee House, Unit 4, Lorne Arcade, 115 High St, Ayr KA7 1QL",
+  "twitter": "@RoundsquareAyr",
+  "coord": [55.4627, -4.6305],
+  "handle": "roundsquare-roastery",
+  "url": "www.roundsquareroastery.co.uk"
 }, {
   "location": "The Granary, East Rounton, Northallerton, North Yorkshire, DL6 2LG",
   "name": "Rounton Coffee Roasters",
@@ -2334,6 +2634,14 @@
   "twitter": "@SmithStCoffee",
   "coord": [53.3728, -1.3863]
 }, {
+  "name": "Smiths Coffee Company",
+  "description": "Smiths are specialist coffee bean suppliers in the UK. We are delighted to offer our customers a comprehensive range of freshly roasted coffee beans from around the world. This includes single estate, speciality, Fairtrade and organic coffees as well as a wide range of blends to suit every occasion. A range of flavoured coffees and syrups are also available",
+  "location": "Arabica House, Ebberns Road, Apsley, Hemel Hempstead, Herts HP3 9RD",
+  "twitter": "none",
+  "coord": [51.7373, -0.4632],
+  "handle": "smiths-coffee-company",
+  "url": "www.smithscoffee.co.uk"
+}, {
   "location": "2 Earnshaw Court, Norwich, Norfolk, NR7 0BJ",
   "name": "Smokey Barn Coffee",
   "updated_at": "2020-06-28 03:13:41 UTC",
@@ -2407,6 +2715,14 @@
   "instagram": "steampunkcoffee",
   "coord": [56.0581, -2.719]
 }, {
+  "name": "Steencup Coffee",
+  "description": "Official supplier of Sanremo coffee equipment and artisan specialty coffee roaster based in East London",
+  "location": "116 Holbrook Rd, Stratford, London, E15",
+  "twitter": "@Steencup",
+  "coord": [51.5312, 0.0121],
+  "handle": "steencup-coffee",
+  "url": "www.steencup.com"
+}, {
   "location": "Riverbank Trent Bridge, Nottingham, NG2 2GS",
   "name": "Stewarts Coffees",
   "updated_at": "2020-06-28 01:50:23 UTC",
@@ -2438,6 +2754,14 @@
   "twitter": "@stubbscoffee",
   "coord": [51.5074, -0.1278]
 }, {
+  "name": "Sundlaug Coffee Co.",
+  "description": "Sundlaug Coffee Co. is a small, independent speciality coffee roastery. We source some of the best coffees available, with an emphasis on traceability and sustainability, before carefully roasting them in small batches to ensure our customers always receive the freshest beans. Our roasting style is influenced by Nordic coffee culture, typified by a focus on the highest quality beans and lighter roast profiles that allow different flavours to shine through in each cup.",
+  "location": "Unit B, Brewery Yard, Welbeck, Worksop, Nottinghamshire, S80 3LT",
+  "twitter": "@sundlaugcoffee",
+  "coord": [53.2599, -1.1691],
+  "handle": "sundlaug-coffee-co",
+  "url": "www.sundlaugcoffee.co.uk"
+}, {
   "name": "Sydney Road Coffee",
   "url": "SydneyRoadCoffee.co.uk",
   "location": "Unit 26, Space Business Centre, Olympus Park, Quedgeley, Gloucester, GL2 4AL",
@@ -2453,6 +2777,14 @@
   "updated_at": "02-May-2019 20:57",
   "twitter": "@tapcoffee",
   "coord": [51.5154, -0.1358]
+}, {
+  "name": "Tamp Culture Coffee",
+  "description": "Speciality Coffee Roasters crafting flat whites and brewing on the AeroPress @ The Oracle, Reading",
+  "location": "The Oracle shopping Centre, Reading, RG1 2AG",
+  "twitter": "@TampCulture",
+  "coord": [51.4536, -0.9713],
+  "handle": "tamp-culture-coffee",
+  "url": "tampculture.co.uk"
 }, {
   "location": "53 Church Street, Leigh, Greater Manchester, WN7 1AY",
   "name": "Tank Coffee",
@@ -2551,6 +2883,14 @@
   "twitter": "@CoffeebeanThe",
   "coord": [51.7162, -3.4518]
 }, {
+  "name": "The Coffee Circle - James Guard",
+  "description": "Hand roasting beautiful coffees for the good good people of Manchester",
+  "location": "Manchester",
+  "twitter": "@CoffeeCircle",
+  "coord": [53.4793, -2.2485],
+  "handle": "james-guard",
+  "url": "www.thecoffeecircle.co.uk"
+}, {
   "name": "The Coffee Company - Torquay",
   "url": "www.coffeecompanytorquay.com",
   "location": "70A Windsor Road, Torquay, Devon, TQ1 1SZ",
@@ -2572,6 +2912,14 @@
   "twitter": "@PodCoffee",
   "facebook": "ScandinavianCoffeePod",
   "coord": [51.9006, -2.0831]
+}, {
+  "name": "The Coffee Roasters",
+  "description": "Over 80 splendid coffees from 13 artisan roasters - all in one place",
+  "location": "Nightingale House, Gloucester Rd, Bath, BA1 8BJ",
+  "twitter": "@CoffeeRoastUK",
+  "coord": [51.4113, -2.3444],
+  "handle": "the-coffee-roasters",
+  "url": "thecoffeeroasters.co.uk"
 }, {
   "location": "Unit C, Duck Farm Workshop, Puddletown, Dorchester, Dorset, DT2 8QL",
   "name": "The Dorset Coffee Company",
@@ -2737,6 +3085,14 @@
   "twitter": "@Roast_House",
   "coord": [52.2691, -9.7054]
 }, {
+  "name": "Thistledown Cottage Coffee",
+  "description": "Small batch roaster of quality coffees from around the world, based in Suffolk. Available online and at a selection of local Farmers Markets.",
+  "location": "Thistledown Cottage, 5 The Street, Brome Eye, Suffolk, IP23 8AE",
+  "twitter": "@Freshly_Roasted",
+  "coord": [52.3454, 1.1597],
+  "handle": "thistledown-cottage-coffee",
+  "url": "www.thistledowncottagecoffee.co.uk"
+}, {
   "name": "Thomsons Coffee",
   "url": "www.thomsonscoffee.com",
   "location": "Burnfield Ave, Glasgow, Scotland, G46 7TL",
@@ -2780,6 +3136,14 @@
   "updated_at": "06-May-2015 15:59",
   "twitter": "@twincafe12",
   "coord": [53.3811, -1.4701]
+}, {
+  "name": "Twin Roasters",
+  "description": "Artisan Micro coffee roasters - Richard & Ronan Dalton. Yes, we are real twins! and we roast and ship the finest single origin fresh coffee direct to your door.",
+  "location": "Castletown, Drumcliffe, Sligo, Ireland",
+  "twitter": "@twinroasters",
+  "coord": [54.327, -8.4976],
+  "handle": "twin-roasters",
+  "url": "www.twinroasters.com"
 }, {
   "location": "8b, Oakham Enterprise Park, Ashwell Road, Oakham, East Midlands, LE15 7TU",
   "name": "Two Chimps Coffee",
@@ -2831,6 +3195,14 @@
   "twitter": "@Unionroasted",
   "coord": [51.5204, -0.001]
 }, {
+  "name": "United Coffee",
+  "description": "With United Coffee, it\u2019s the best cup of coffee every time, both in the home and out of the home. Quality coffee is our passion. We never stand still; we\u2019re forward-thinking, innovative and streets ahead of the competition",
+  "location": "2 Bradbourne Drive Tilbrook Milton Keynes MK7 8AT",
+  "twitter": "none",
+  "coord": [52.0102, -0.6886],
+  "handle": "united-coffee",
+  "url": "www.unitedcoffeeuk.com"
+}, {
   "location": "129 High Street, Kinross, Scotland, KY13 8AQ",
   "name": "Unorthodox Roasters",
   "updated_at": "2020-05-21 08:58:33 UTC",
@@ -2843,6 +3215,13 @@
   "url": "https://untoldcoffee.co.uk/",
   "location": "UK",
   "twitter": "@UntoldRoasters"
+}, {
+  "name": "Upperlands Coffee Company",
+  "description": "Upperlands Coffee Company is a small family business run by Julie and John Henderson. They can be found every Saturday in St Georges speciality food market in Belfast and on the first Sunday of every month (through the summer) at Farmleigh Farmers Market in Phoenix Park Dublin",
+  "location": "12 East Bridge Street St, George's Market, Belfast BT7",
+  "coord": [54.5829, -5.9202],
+  "handle": "upperlands-coffee-company",
+  "url": "www.upperlandscoffeecompany.com"
 }, {
   "location": "Unit 14, Chart House Business Park, Richmond Road, Fairview, Dublin 3, Ireland",
   "name": "Upside Coffee",
@@ -2858,6 +3237,14 @@
   "updated_at": "06-May-2015 15:41",
   "twitter": "@urbancoffeeco",
   "coord": [52.4821, -1.9004]
+}, {
+  "name": "Urban Roast Coffee Co",
+  "description": "Midlands based Speciality Micro Roastery, offering fabulously roasted coffee direct to your door",
+  "location": "West Midlands",
+  "twitter": "@urban_roast",
+  "coord": [52.4751, -1.8298],
+  "handle": "urban-roast",
+  "url": "urbanroastcoffee.co.uk"
 }, {
   "name": "Utopia coffee",
   "url": "",
@@ -3009,6 +3396,13 @@
   "updated_at": "09-Mar-2016 16:10",
   "twitter": "@zeespresso",
   "coord": [55.9533, -3.1883]
+}, {
+  "name": "Zen Coffee Roasters",
+  "description": "We source our green coffee through the most respected merchants in the trade whose ethos is to ensure a fair return for the grower, that coffee is produced in a sustainable way and where workers are properly compensated. We use high quality, traceable beans sourced in small lots, primarily from South America and East Africa, each batch being carefully selected to display the characteristics of the region. These are then hand roasted at our premises. The Zen ethos is to help people step aside the hurly burly of modern life and allow themselves a moment to connect with their own energy. Coffee doesn\u2019t just stimulate the mind and tastebuds, its an antioxidant too. So in small amounts its good for both your mind and your health. More than that it provides a simple excuse to relax, be that be at the end of a meal or as a brief interlude, either alone or in company. So please make the most of Zen and in so doing we hope to help you make a small step in your journey to make the most of you!",
+  "location": "Mile Oak Industrial Estate, Maesbury Rd, Oswestry, SY10 8GA",
+  "coord": [52.8437, -3.0416],
+  "handle": "zen-coffee-roasters",
+  "url": "https://www.zencoffee.co.uk"
 }, {
   "name": "Zombie Coffee Co & Roastery",
   "url": "http://zombiecoffeeco.co.uk",

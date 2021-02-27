@@ -1,6 +1,5 @@
 # Absolute Roasters
 
-
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Noun_coffee_with_milk_2695655.svg/240px-Noun_coffee_with_milk_2695655.svg.png)
 
 **A data set of UK Coffee Roasters**
@@ -29,10 +28,11 @@ entries may include extra keys
 
 ```json
 {
-  "coord":[lat, lng],
-  "facebook":  "facebook_handle",
+  "coord": [54.665, -2.228],
+  "facebook": "facebook_handle",
   "instagram": "instagram_handle",
-  "twitter":   "@twitterHandle",
-  "profile_image_url": "url"
+  "twitter": "@twitterHandle",
+  "profile_image_url": "url",
+  "description": "business description"
 }
 ```

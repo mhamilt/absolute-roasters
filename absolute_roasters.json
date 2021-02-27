@@ -533,14 +533,6 @@
   "facebook": "Cafedirect",
   "instagram": "Cafedirect"
 }, {
-  "name": "Caledonia Coffee",
-  "url": "",
-  "location": "31 Inveralmond Road, Inveralmond Industrial Estate, Perth, Scotland, PH1 3TW",
-  "profile_image_url": "pbs.twimg.com/profile_images/1179671997/Caledonia_Coffee_mug_thistle_logo_new250_copy_400x400.jpg",
-  "updated_at": "03-Jun-2015 12:22",
-  "twitter": "@coffeecaledonia",
-  "coord": [56.4179, -3.4756]
-}, {
   "name": "Cambridge Coffee Co",
   "description": "Inspired by one of the world's most beautiful cities we've created a range of ground and whole bean coffees for every part of your week. Our beans come from some of Africa's very best coffee farms via a century and a half old family import firm. We roast in small batches in a wonderfully restored vintage coffee roaster and... then we deliver them, fast and fresh, right to your door.",
   "location": "Cambridge, UK",
@@ -1260,6 +1252,7 @@
 }, {
   "location": "Southview, Maypole Lane, Hoath, Canterbury, Kent,  CT3 4LL",
   "name": "Garage Coffee",
+  "url": "www.garageroasted.co.uk",
   "updated_at": "2020-06-28 01:02:48 UTC",
   "twitter": "@GarageRoasted",
   "coord": [51.3386, 1.1603]
@@ -2461,13 +2454,6 @@
   "instagram": "roastlabcoffeeroasters",
   "coord": [51.555, -0.6108]
 }, {
-  "name": "Roast Mortem",
-  "url": "",
-  "location": "UK",
-  "profile_image_url": "pbs.twimg.com/profile_images/1586370018/Sugarskull_Roast_Mortem2_400x400.jpg",
-  "updated_at": "03-Jun-2015 12:22",
-  "twitter": "@RoastMortem"
-}, {
   "location": "Unit 18, Kenn Court Business Park, Roman Farm Road, Bristol, BS4 1UL",
   "name": "Roasted Rituals",
   "profile_image_url": "https://pbs.twimg.com/profile_images/595612956328665089/WFfW8uhk_400x400.jpg",
@@ -3247,7 +3233,7 @@
   "url": "urbanroastcoffee.co.uk"
 }, {
   "name": "Utopia coffee",
-  "url": "",
+  "url": "utopiacoffee.co.uk",
   "location": "The Royals,  Southend-on-Sea, Essex, SS1 1DQ",
   "profile_image_url": "https://pbs.twimg.com/profile_images/3016352795/2518308d1cc0c3540937210a9697f1da_400x400.jpeg",
   "updated_at": "17-Jul-2018 13:56",

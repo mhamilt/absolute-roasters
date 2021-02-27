@@ -29,9 +29,10 @@ entries may include extra keys
 
 ```json
 {
-  "facebook_handle":  "facebook_handle",
-  "instagram_handle": "instagram_handle",
-  "twitter_handle":   "@twitterHandle",
+  "coord":[lat, lng],
+  "facebook":  "facebook_handle",
+  "instagram": "instagram_handle",
+  "twitter":   "@twitterHandle",
   "profile_image_url": "url"
 }
 ```

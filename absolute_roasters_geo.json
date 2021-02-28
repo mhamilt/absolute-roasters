@@ -6,8 +6,9 @@
       "location": "Heston House, Meadow Lane, Nottingham, NG2 3HE",
       "name": "200 Degrees Coffee",
       "updated_at": "2020-06-15 09:32:27 UTC",
-      "url": "www.200degs.com",
-      "twitter": "@200Degs"
+      "url": "https://200degs.com/",
+      "twitter": "@200Degs",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -17,11 +18,12 @@
     "type": "Feature",
     "properties": {
       "name": "3FE Coffee",
-      "url": "www.3fe.com",
+      "url": "http://3fe.com",
       "location": "32/34 Lower Grand Canal St, Dublin, Ireland",
       "profile_image_url": "static.squarespace.com/static/541188fee4b09a04d20e1ad3/t/54521507e4b008c5dd78c382/1418467422164/?format=1500w",
       "updated_at": "06-May-2015 15:49",
-      "twitter": "@3FE"
+      "twitter": "@3FE",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -33,8 +35,9 @@
       "location": "11 Victoria Avenue, Heanor, Derbyshire, DE75 7SA",
       "name": "47 degrees coffee",
       "updated_at": "2020-06-16 04:35:25 UTC",
-      "url": "47degreescoffee.com",
-      "twitter": "@47degreescoffee"
+      "url": "https://47degreescoffee.com/",
+      "twitter": "@47degreescoffee",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -44,11 +47,12 @@
     "type": "Feature",
     "properties": {
       "name": "80 Stone Coffee Roasters",
-      "url": "www.80stonecoffeeroasters.co.uk",
+      "url": "https://80stonecoffeeroasters.co.uk/",
       "location": "512 Fulham road, London, SW6 5NJ",
       "profile_image_url": "https://pbs.twimg.com/profile_images/1092128400796516352/mrGuM1j1_400x400.jpg",
       "updated_at": "02-May-2019 20:30",
-      "twitter": "@80stonecoffee"
+      "twitter": "@80stonecoffee",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -60,8 +64,9 @@
       "location": "10 Old Market Centre, Gillingham, Dorset, SP8 4QQ",
       "name": "918 Coffee",
       "updated_at": "2020-06-10 10:04:17 UTC",
-      "url": "www.918coffee.com",
-      "twitter": "@918_Coffee_Co"
+      "url": "https://www.918coffee.com/",
+      "twitter": "@918_Coffee_Co",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -71,11 +76,12 @@
     "type": "Feature",
     "properties": {
       "name": "92degreescoffee",
-      "url": "www.facebook.com/92DegreesCoffee",
+      "url": "https://facebook.com/92DegreesCoffee",
       "location": "24 Hardman Street, Liverpool, Merseyside, L1 9AX",
       "profile_image_url": "pbs.twimg.com/profile_images/525291991282626561/18y3PYue_400x400.png",
       "updated_at": "10-Nov-2015 09:02",
-      "twitter": "@92degreescoffee"
+      "twitter": "@92degreescoffee",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -88,9 +94,10 @@
       "name": "Adams & Russell",
       "profile_image_url": "https://cdn.shopify.com/s/files/1/0181/3537/files/adams-and-russell-logo.png?1028",
       "updated_at": "2019-07-30 08:56:30 UTC",
-      "url": "www.adamsandrussell.co.uk",
+      "url": "https://www.adamsandrussell.co.uk/",
       "twitter": "@adamsandrussell",
-      "facebook": "adamsandrussell"
+      "facebook": "adamsandrussell",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -100,11 +107,12 @@
     "type": "Feature",
     "properties": {
       "name": "Alchemy Coffee",
-      "url": "alchemycoffee.co.uk",
+      "url": "https://alchemycoffee.co.uk/",
       "location": "Unit 14-16, Riverside Business Park, Lyon Road, London, SW19 2RL",
       "profile_image_url": "www.alchemycoffee.co.uk/skin/frontend/alchemy/default/images/logo.png",
       "updated_at": "06-May-2015 15:31",
-      "twitter": "@alchemy_coffee"
+      "twitter": "@alchemy_coffee",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -117,7 +125,8 @@
       "description": "Allegro Coffee was founded in Boulder, Colorado, USA in 1977, with the simple goal to bring you the best coffees in the world. In the decades since, we have merged with Whole Foods Market, moved our offices to a larger facility in the outskirts of nearby Denver, and expanded our product line to include fine tea, wellness tea, and drinking chocolate\u2014all with an emphasis on organic and sustainably grown ingredients. Through all this growth and change, our initial goal has remained the same: from coffee beans to tea leaves, herbs, botanicals, and chocolate\u2014 we passionately and continually source the best ingredients the world has to offer.",
       "location": "63 - 97 Kensington High Street, London, W8 5SE",
       "handle": "allegro-coffee-uk",
-      "url": "https://www.allegrocoffee.com"
+      "url": "https://www.allegrocoffee.com",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -127,11 +136,12 @@
     "type": "Feature",
     "properties": {
       "name": "Allpress Espresso UK",
-      "url": "uk.allpressespresso.com",
+      "url": "https://uk.allpressespresso.com:443/",
       "location": "58, Redchurch Street,  London, E2 7DP",
       "profile_image_url": "https://instagram.fmxp1-1.fna.fbcdn.net/vp/405d0787503fcee1b639a1c3e386deac/5D559F3A/t51.2885-19/s150x150/21689356_500380583627978_847256743804141568_n.jpg?_nc_ht=instagram.fmxp1-1.fna.fbcdn.net",
       "updated_at": "02-May-2019 20:36",
-      "twitter": "@AllpressE2"
+      "twitter": "@AllpressE2",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -145,7 +155,8 @@
       "profile_image_url": "https://daks2k3a4ib2z.cloudfront.net/5884eaca0ceec0701f3a4b86/589a45dee0f4d2b73b1f0eba_Logo%20Dark-p-500x500.png",
       "updated_at": "2019-11-17 18:10:44 UTC",
       "url": "http://www.amidgiantsandidols.co.uk",
-      "twitter": "@AndAnnex"
+      "twitter": "@AndAnnex",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -158,8 +169,9 @@
       "name": "Ancoats Coffee Co.",
       "profile_image_url": "http://www.ancoats-coffee.co.uk/wp-content/themes/AncoatsCoffee/images/ancoats-coffee-logo.jpg",
       "updated_at": "2019-07-04 16:57:42 UTC",
-      "url": "www.ancoats-coffee.co.uk",
-      "twitter": "@ancoatscoffee"
+      "url": "https://www.ancoats-coffee.co.uk/",
+      "twitter": "@ancoatscoffee",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -171,7 +183,8 @@
       "location": "472 Long Lane, East Finchley, London, N2 8JL",
       "name": "Angelucci Coffee",
       "updated_at": "2020-06-11 04:19:44 UTC",
-      "url": "angeluccicoffee.co.uk"
+      "url": "https://angeluccicoffee.co.uk/",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -186,7 +199,8 @@
       "url": "https://www.anvilcoffee.co.uk",
       "twitter": "@AnvilCoffee",
       "facebook": "ANVILCoffee",
-      "instagram": "anvilcoffeeuk"
+      "instagram": "anvilcoffeeuk",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -196,11 +210,12 @@
     "type": "Feature",
     "properties": {
       "name": "Ariosa coffee",
-      "url": "www.ariosacoffee.com",
+      "url": "https://ariosacoffee.com/",
       "location": "Borranstown, Ashbourne, Co. Meath, Ireland",
       "profile_image_url": "pbs.twimg.com/profile_images/478137195921162240/2pyQakhc_400x400.jpeg",
       "updated_at": "06-May-2015 15:35",
-      "twitter": "@Ariosacoffee"
+      "twitter": "@Ariosacoffee",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -212,8 +227,9 @@
       "location": "4 Hotspur Park, Knights Way, Battlefield Enterprise Park, Shrewsbury, Shropshire , SY1 3FB",
       "name": "Aroma Tea & Coffee",
       "updated_at": "2019-12-19 17:56:48 UTC",
-      "url": "www.aroma-coffee.co.uk",
-      "twitter": "@AromaTeaCoffee"
+      "url": "http://www.aroma-coffee.co.uk",
+      "twitter": "@AromaTeaCoffee",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -226,7 +242,8 @@
       "name": "Artisan Roast",
       "updated_at": "2020-08-24 04:54:56 UTC",
       "url": "https://www.artisanroast.co.uk",
-      "twitter": "@artisanroast"
+      "twitter": "@artisanroast",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -240,7 +257,8 @@
       "location": "31 Broad Street, Teddington, Middlesex, TW11 8QZ",
       "twitter": "@astroracoffee",
       "handle": "astrora-coffee",
-      "url": "www.astrora.co.uk"
+      "url": "http://astrora.co.uk",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -250,11 +268,12 @@
     "type": "Feature",
     "properties": {
       "name": "Badger & Dodo",
-      "url": "www.badgeranddodo.ie",
+      "url": "https://badgeranddodo.ie/",
       "location": "Each Saturday, Douglas Farmers Market, Douglas, Cork, Ireland",
       "profile_image_url": "pbs.twimg.com/profile_images/1947185010/Twitterblk_400x400.jpg",
       "updated_at": "06-May-2015 15:38",
-      "twitter": "@BadgerAndDodo"
+      "twitter": "@BadgerAndDodo",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -266,8 +285,9 @@
       "location": "27 Stockman\u2019s Way, Belfast, Northern Ireland, BT9 7ET",
       "name": "Bailies Coffee",
       "updated_at": "2020-06-28 02:42:28 UTC",
-      "url": "www.bailiescoffee.com",
-      "twitter": "@bailiescoffeeco"
+      "url": "https://www.bailiescoffee.com/",
+      "twitter": "@bailiescoffeeco",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -281,7 +301,8 @@
       "url": "https://balancecoffee.co.uk",
       "location": "London, EC1V 2NX",
       "twitter": "@BalanceCoffeeUK",
-      "instagram": "@BalanceCoffee"
+      "instagram": "@BalanceCoffee",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -293,8 +314,9 @@
       "location": "92 English Row, Celbridge, Co Kildare, Ireland",
       "name": "Baobab Coffee Roasters",
       "updated_at": "2020-06-28 04:12:32 UTC",
-      "url": "www.baobab.ie",
-      "twitter": "@BaobabRoasters"
+      "url": "http://www.baobab.ie",
+      "twitter": "@BaobabRoasters",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -308,7 +330,8 @@
       "location": "London, UK",
       "twitter": "@beanandground",
       "handle": "bean-and-ground",
-      "url": "www.beanandground.co.uk"
+      "url": "http://beanandground.co.uk",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -320,8 +343,9 @@
       "location": "Fairfield Mills, Queen Street South, Huddersfield, West Yorkshire, HD1 3DX",
       "name": "Bean Brothers",
       "updated_at": "2020-06-28 02:03:00 UTC",
-      "url": "www.beanbrothers.co.uk",
-      "twitter": "@beanbrothersLtd"
+      "url": "https://www.beanbrothers.co.uk/",
+      "twitter": "@beanbrothersLtd",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -331,11 +355,12 @@
     "type": "Feature",
     "properties": {
       "name": "Bean enCounter",
-      "url": "www.facebook.com/beanencounterltd",
+      "url": "https://www.facebook.com/beanencounterltd",
       "location": "Salter Street, Stafford, Staffordshire, ST16 2JU",
       "profile_image_url": "www.beanencounter.co.uk/wp-content/uploads/2014/01/beanlogoonly-copy-277x300.jpg",
       "updated_at": "06-May-2015 15:56",
-      "twitter": "@BeanEnCounter"
+      "twitter": "@BeanEnCounter",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -345,11 +370,12 @@
     "type": "Feature",
     "properties": {
       "name": "bean miles",
-      "url": "beanmiles.co.uk",
+      "url": "https://www.beanmiles.co.uk/",
       "location": "Wetheral, Carlisle, Cumbria",
       "profile_image_url": "pbs.twimg.com/profile_images/457830333572849664/_usmbAsC_400x400.jpeg",
       "updated_at": "06-May-2015 16:02",
-      "twitter": "@BeanMiles"
+      "twitter": "@BeanMiles",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -361,8 +387,9 @@
       "location": "The Roastery, Old Mill Business Park, Station Road, Brunton, Somerset, BA10 0EH",
       "name": "Bean Shot Coffee",
       "updated_at": "2019-12-21 16:37:52 UTC",
-      "url": "www.beanshot.co.uk",
-      "twitter": "@BeanShotCoffee"
+      "url": "https://www.beanshot.co.uk/",
+      "twitter": "@BeanShotCoffee",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -372,11 +399,12 @@
     "type": "Feature",
     "properties": {
       "name": "Bean Smitten",
-      "url": "www.beansmitten.co.uk/",
+      "url": "https://www.beansmitten.co.uk/",
       "location": "Cedar Gables, Hastings Road, Flimwell, East Sussex, TN5 7QA",
       "profile_image_url": "cdn.shopify.com/s/files/1/0181/3537/files/bean-smitten.jpg",
       "updated_at": "06-May-2015 15:47",
-      "twitter": "@BeanSmitten"
+      "twitter": "@BeanSmitten",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -388,8 +416,9 @@
       "location": "13a Boundary Business Centre, Boundary Way, Woking, Surrey, GU21 5DH",
       "name": "Beanberry Coffee Company",
       "updated_at": "2020-06-28 02:31:07 UTC",
-      "url": "www.beanberrycoffee.com",
-      "twitter": "@beanberrycoffee"
+      "url": "https://www.beanberrycoffee.com/",
+      "twitter": "@beanberrycoffee",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -399,11 +428,12 @@
     "type": "Feature",
     "properties": {
       "name": "Beanheroes",
-      "url": "www.beanheroes.co.uk",
+      "url": "http://www.beanheroes.co.uk",
       "location": "Sterling House Cheadle Court, 5 \u2013 7 Turves Road, Cheadle Hulme, Cheshire, SK8 6AW",
       "profile_image_url": "pbs.twimg.com/profile_images/560114616890425344/dMP6o7IH_400x400.jpeg",
       "updated_at": "06-May-2015 15:57",
-      "twitter": "@Beanheroes"
+      "twitter": "@Beanheroes",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -413,11 +443,12 @@
     "type": "Feature",
     "properties": {
       "name": "Beans and Leaves",
-      "url": "www.beansandleaveswolves.co.uk",
+      "url": "http://www.beansandleaveswolves.co.uk",
       "location": "Wolverhampton, West Midlands",
       "profile_image_url": "pbs.twimg.com/profile_images/480672745563246592/2D-13b0W_400x400.jpeg",
       "updated_at": "06-May-2015 15:36",
-      "twitter": "@beansleaves"
+      "twitter": "@beansleaves",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -427,11 +458,12 @@
     "type": "Feature",
     "properties": {
       "name": "Beanworks",
-      "url": "www.thebeanworks.co.uk",
+      "url": "http://thebeanworks.co.uk/",
       "location": "The Roastery, 5 Viking Business Centre, High Street, Woodville, Derbyshire, DE11 7EH",
       "profile_image_url": "http://media.designersfriend.co.uk/beanworks/img/logo.png",
       "updated_at": "11-Jun-2017 18:16",
-      "twitter": "@beanworks"
+      "twitter": "@beanworks",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -444,8 +476,9 @@
       "name": "Beanzz Coffee",
       "profile_image_url": "cdn.shopify.com/s/files/1/0181/3537/collections/beanzz-logo_medium.JPG",
       "updated_at": "2019-11-17 18:01:57 UTC",
-      "url": "/collections/beanzz-coffee-eastbourne",
-      "twitter": "@BeanzzCoffee"
+      "url": "http:///collections/beanzz-coffee-eastbourne",
+      "twitter": "@BeanzzCoffee",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -458,7 +491,8 @@
       "name": "Bell Lane Coffee",
       "updated_at": "2020-06-28 01:49:06 UTC",
       "url": "https://www.belllane.ie",
-      "twitter": "@BellLaneCoffee"
+      "twitter": "@BellLaneCoffee",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -468,11 +502,12 @@
     "type": "Feature",
     "properties": {
       "name": "Bella Barista",
-      "url": "www.bellabarista.co.uk",
+      "url": "https://www.bellabarista.co.uk/",
       "location": "Northamptonshire, NN8 1LD",
       "profile_image_url": "pbs.twimg.com/profile_images/351001101/logo_400x400.jpg",
       "updated_at": "06-May-2015 15:48",
-      "twitter": "@bellabarista"
+      "twitter": "@bellabarista",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -482,11 +517,12 @@
     "type": "Feature",
     "properties": {
       "name": "Bewley's Ireland",
-      "url": "www.bewleys.com",
+      "url": "http://bewleys.com/",
       "location": "78/79 Grafton Street, Dublin, Ireland",
       "profile_image_url": "bewleys.com/wp-content/themes/bewleys/images/layout/header_logo.png",
       "updated_at": "06-May-2015 15:48",
-      "twitter": "@BewleysIreland"
+      "twitter": "@BewleysIreland",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -500,7 +536,8 @@
       "location": "Unit A & B Station Yard Norbiton Station, Coombe Road, Kingston Upon Thames, Surrey, KT2 7AZ",
       "twitter": "@BigNoseCoffee",
       "handle": "big-nose-coffee-company",
-      "url": "www.bignosecoffeecompany.co.uk"
+      "url": "http://bignosecoffeecompany.co.uk",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -512,8 +549,9 @@
       "location": "Arena Business Centre, 9 Nimrod Way, Ferndown, Dorset, BH21 7UH",
       "name": "Bird & Wild",
       "updated_at": "2019-12-19 17:55:51 UTC",
-      "url": "birdandwild.co.uk/",
-      "twitter": "@BirdandWild"
+      "url": "https://birdandwild.co.uk/",
+      "twitter": "@BirdandWild",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -527,7 +565,8 @@
       "location": "SW18",
       "twitter": "@BlackChapelYard",
       "handle": "black-chapel",
-      "url": "blackchapel.london/index.php/black-chapel"
+      "url": "http://blackchapel.london/index.php/black-chapel",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -537,11 +576,12 @@
     "type": "Feature",
     "properties": {
       "name": "Black Circle Coffee\u2122",
-      "url": "www.blackcirclecoffee.com",
+      "url": "https://blackcirclecoffee.com/",
       "location": "22 Ivy Gardens, Congleton, Cheshire, CW12 4GA",
       "profile_image_url": "https://cdn.shopify.com/s/files/1/1081/9972/t/11/assets/logo.png",
       "updated_at": "11-Jun-2017 18:11",
-      "twitter": "@blackcirclenews"
+      "twitter": "@blackcirclenews",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -555,7 +595,8 @@
       "location": "Belvedere Rd, London, SE19 2HP",
       "twitter": "@BlackCraftCoffe",
       "handle": "black-craft-coffee",
-      "url": "blackcraftcoffee.com/"
+      "url": "http://blackcraftcoffee.com/",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -565,11 +606,12 @@
     "type": "Feature",
     "properties": {
       "name": "Black Sheep Coffee",
-      "url": "www.leavetheherdbehind.com",
+      "url": "https://leavetheherdbehind.com/",
       "location": "Caf\u00e9 in Camden, 26 Camden High Street, London, NW1 0JH",
       "profile_image_url": "https://www.leavetheherdbehind.com/wp-content/themes/blacksheep/assets/images/header/logo.webp",
       "updated_at": "02-May-2019 20:50",
-      "twitter": "@leavetheherd"
+      "twitter": "@leavetheherd",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -579,11 +621,12 @@
     "type": "Feature",
     "properties": {
       "name": "Black Star Coffee",
-      "url": "www.BlackStarCoffee.co.uk",
+      "url": "http://www.BlackStarCoffee.co.uk",
       "location": "West Bridgford, Nottinghamshire",
       "profile_image_url": "https://pbs.twimg.com/profile_images/2796470223/00b1ac4b3db71cad9fad418ada57a2f6_400x400.png",
       "updated_at": "16-Jul-2018 09:42",
-      "twitter": "@BlkStarCoffee"
+      "twitter": "@BlkStarCoffee",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -593,10 +636,11 @@
     "type": "Feature",
     "properties": {
       "name": "Blenders",
-      "url": "www.gaggia.ecwid.com/#!/Blenders-of-Northampton/c/4378367",
+      "url": "https://gaggia.ecwid.com/",
       "location": "75 St Giles' St, Northampton, NN1 1JF",
       "profile_image_url": "cdn.shopify.com/s/files/1/0181/3537/files/blenders.png",
-      "updated_at": "06-May-2015 15:51"
+      "updated_at": "06-May-2015 15:51",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -609,7 +653,8 @@
       "name": "Bloss Coffee Company",
       "updated_at": "2020-05-21 08:58:41 UTC",
       "url": "https://www.andbloss.com",
-      "twitter": "@andBloss"
+      "twitter": "@andBloss",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -621,8 +666,9 @@
       "location": "Roughmoor Farm, Silkmills Road, Taunton, Somerset, TA1 5AA",
       "name": "Brazier Roasters",
       "updated_at": "2020-06-28 04:17:09 UTC",
-      "url": "braziercoffeeroasters.co.uk",
-      "twitter": "@brazierroasters"
+      "url": "https://www.braziercoffeeroasters.co.uk/",
+      "twitter": "@brazierroasters",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -636,7 +682,8 @@
       "url": "https://www.brewcoffeeplus.com",
       "location": "Streatham, London",
       "facebook": "brewcoffeeplus",
-      "instagram": "brewcoffeeplus"
+      "instagram": "brewcoffeeplus",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -651,7 +698,8 @@
       "location": "1 Alder Avenue, Dyffryn Business Park, Ystrad Mynach, Cardiff, Wales, CF82 7RJ",
       "linked_in_handle": "bridgecoffeeroasters",
       "twitter": "@BridgeValleyBev",
-      "instagram": "bridge_coffee_roasters"
+      "instagram": "bridge_coffee_roasters",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -661,11 +709,12 @@
     "type": "Feature",
     "properties": {
       "name": "Brown Bear",
-      "url": "brownbear.co",
+      "url": "https://www.brownbear.co/",
       "location": "UK",
       "profile_image_url": "pbs.twimg.com/profile_images/488001772221251584/wYcl2AoF_400x400.png",
       "updated_at": "06-May-2015 15:31",
-      "twitter": "@BrownBearCoffee"
+      "twitter": "@BrownBearCoffee",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -677,8 +726,9 @@
       "location": "Unit 4a, The Foundry London Road, Kingsworthy, SO23 7QN",
       "name": "Brown Bottle Coffee",
       "updated_at": "2020-06-11 04:02:34 UTC",
-      "url": "brownbottlecoffee.com",
-      "twitter": "@BrownBottleCo"
+      "url": "http://brownbottlecoffee.com",
+      "twitter": "@BrownBottleCo",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -688,11 +738,12 @@
     "type": "Feature",
     "properties": {
       "name": "Bruce & Lukes Coffee",
-      "url": "www.bruceandlukes.com",
+      "url": "https://www.bruceandlukes.com/",
       "location": "Carlisle, Cumbria",
       "profile_image_url": "www.bruceandlukes.com/wp-content/uploads/2014/10/brucelukes_logo.jpg",
       "updated_at": "03-Jun-2015 13:48",
-      "twitter": "@BruceandLukes"
+      "twitter": "@BruceandLukes",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -702,11 +753,12 @@
     "type": "Feature",
     "properties": {
       "name": "Buckshot Coffee Co.",
-      "url": "buckshotcoffeeroasters.com",
+      "url": "http://buckshotcoffeeroasters.com",
       "location": "Sheffield, South Yorkshire",
       "profile_image_url": "pbs.twimg.com/profile_images/664827949691047936/pZgOGIM9.jpg",
       "updated_at": "01-Aug-2016 12:25",
-      "twitter": "@BuckshotCoffee"
+      "twitter": "@BuckshotCoffee",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -716,11 +768,12 @@
     "type": "Feature",
     "properties": {
       "name": "Bullet Coffee",
-      "url": "www.bullet-coffee.com",
+      "url": "http://www.bullet-coffee.com",
       "location": "789 Wandsworth Rd, London, SW8 3JQ",
       "profile_image_url": "cdn.shopify.com/s/files/1/0181/3537/files/bullet-coffee-logo.jpg",
       "updated_at": "06-May-2015 15:51",
-      "twitter": "@bulletcoffee"
+      "twitter": "@bulletcoffee",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -732,8 +785,9 @@
       "location": "1D Boldero Road, Moreton Hall, Bury St Edmunds, Suffolk, IP32 7BS",
       "name": "Butterworth & Son",
       "updated_at": "2019-12-22 11:02:56 UTC",
-      "url": "www.butterworthandson.co.uk",
-      "twitter": "@ButterworthsUK"
+      "url": "https://butterworthandson.co.uk/",
+      "twitter": "@ButterworthsUK",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -743,11 +797,12 @@
     "type": "Feature",
     "properties": {
       "name": "Cafe Boutique",
-      "url": "www.cafeboutique.co.uk",
+      "url": "http://www.cafeboutique.co.uk",
       "location": "25 Dale Road, Stanton by Dale, Derbyshire, DE7 4QF",
       "profile_image_url": "cdn.shopify.com/s/files/1/0181/3537/files/cafe-boutique-logo.jpg",
       "updated_at": "06-May-2015 15:38",
-      "twitter": "@CafeBoutique"
+      "twitter": "@CafeBoutique",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -757,11 +812,12 @@
     "type": "Feature",
     "properties": {
       "name": "Cafe Hormozi",
-      "url": "www.hormozi.co.uk",
+      "url": "https://hormozi.co.uk/",
       "location": "Kent",
       "profile_image_url": "thecoffeeroasters.x10.mx/images/cafe-hormozi-logo.jpg",
       "updated_at": "04-Feb-2016 14:58",
-      "twitter": "@CafeHormozi"
+      "twitter": "@CafeHormozi",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -775,7 +831,8 @@
       "location": "9 Dalecroft, London N4 2SJ",
       "twitter": "@Biscardi1903",
       "handle": "caffe-biscardi-1903",
-      "url": "www.caffebiscardi1903.com"
+      "url": "http://www.caffebiscardi1903.com",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -787,8 +844,9 @@
       "location": "16 Front Street,  Prudhoe, Northumberland, NE42 5HN",
       "name": "Caffe Ginevra UK",
       "updated_at": "2020-06-28 02:35:47 UTC",
-      "url": "www.caffeginevra.co.uk",
-      "twitter": "@CaffeGinevraUK"
+      "url": "https://www.caffeginevra.co.uk/",
+      "twitter": "@CaffeGinevraUK",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -800,8 +858,9 @@
       "location": "Tornado House, Moxon Way, Sherburn In Elmet, Leeds, West Yorkshire, LS25 6FB",
       "name": "Caffe Society",
       "updated_at": "2020-06-28 01:21:27 UTC",
-      "url": "https://www.caffesociety.co.uk/coffee/speciality-coffee",
-      "twitter": "@CaffeSociety"
+      "url": "https://caffesociety.co.uk/coffee/speciality-coffee",
+      "twitter": "@CaffeSociety",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -815,7 +874,8 @@
       "location": "Cambridge, UK",
       "twitter": "@CambCoffeeCo",
       "handle": "cambridge-coffee-co",
-      "url": "www.thecambridgecoffeecompany.com"
+      "url": "http://thecambridgecoffeecompany.com",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -827,8 +887,9 @@
       "location": "5 Saxon Business Centre, Windsor Avenue, London, SW19 2RR",
       "name": "Capital Coffee",
       "updated_at": "2020-04-08 01:10:12 UTC",
-      "url": "https://www.capitalcoffee.co.uk",
-      "twitter": "@WeKnowCoffee"
+      "url": "https://capitalcoffee.co.uk/",
+      "twitter": "@WeKnowCoffee",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -838,11 +899,12 @@
     "type": "Feature",
     "properties": {
       "name": "Caravan Coffee Roaster",
-      "url": "caravanonexmouth.co.uk/roastery/about",
+      "url": "http://caravanonexmouth.co.uk/roastery/about",
       "location": "Granary Building, 1 Granary Square (off Goods Way), London, N1C 4AA",
       "profile_image_url": "https://pbs.twimg.com/profile_images/378800000850084911/00527c790fc98ed2c47e92ca89f619e6_400x400.jpeg",
       "updated_at": "16-Jul-2018 07:59",
-      "twitter": "@CaravanRoastery"
+      "twitter": "@CaravanRoastery",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -852,11 +914,12 @@
     "type": "Feature",
     "properties": {
       "name": "Carrara Collection",
-      "url": "www.carraracollection.com",
+      "url": "https://www.carraracoffeeroasters.com/",
       "location": "Unit M1, Harrison Road,  Airfield Business Park, Market Harborough, Leicestershire, LE16 7QB",
       "profile_image_url": "pbs.twimg.com/profile_images/695293499793629185/ypgJwIzS.jpg",
       "updated_at": "01-Aug-2016 12:22",
-      "twitter": "@CaffeCarrara"
+      "twitter": "@CaffeCarrara",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -870,7 +933,8 @@
       "url": "https://carringtonscoffee.co",
       "location": "The Roastery at Kenyon Hall Farm, Winwick Lane, Croft,, Warrington, Cheshire, WA3 7ED",
       "twitter": "@CarringtonsCo",
-      "instagram": "carringtonscoffeeco"
+      "instagram": "carringtonscoffeeco",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -880,11 +944,12 @@
     "type": "Feature",
     "properties": {
       "name": "Carvetii Coffee",
-      "url": "www.carvetiicoffee.co.uk",
+      "url": "https://www.carvetiicoffee.co.uk/",
       "location": "The Roastery, Embleton, Cockermouth, Cumbria, CA13 9YA",
       "profile_image_url": "pbs.twimg.com/profile_images/458909059278577664/W3jM-lG9_400x400.jpeg",
       "updated_at": "06-May-2015 15:32",
-      "twitter": "@CarvetiiCoffee"
+      "twitter": "@CarvetiiCoffee",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -897,7 +962,8 @@
       "name": "Casa Espresso",
       "updated_at": "2020-09-02 05:38:42 UTC",
       "url": "https://casaespresso.co.uk",
-      "twitter": "@Casa_Espresso"
+      "twitter": "@Casa_Espresso",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -910,7 +976,8 @@
       "name": "Cast Iron Coffee Roasters",
       "updated_at": "2020-05-06 05:34:05 UTC",
       "url": "https://castironroasters.com",
-      "twitter": "@castironroaster"
+      "twitter": "@castironroaster",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -922,8 +989,9 @@
       "location": "512 Fulham road, London, SW6 5NJ",
       "name": "Chairs and Coffee",
       "updated_at": "2020-06-28 04:08:00 UTC",
-      "url": "chairsandcoffee.co.uk",
-      "twitter": "@chairsandcoffee"
+      "url": "http://chairsandcoffee.co.uk",
+      "twitter": "@chairsandcoffee",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -935,8 +1003,9 @@
       "location": "London, W2 4UA",
       "name": "Chapter Coffee",
       "updated_at": "2020-06-16 04:27:46 UTC",
-      "url": "chaptercoffee.com",
-      "twitter": "@ChapterCoffee"
+      "url": "https://www.chaptercoffee.com/",
+      "twitter": "@ChapterCoffee",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -946,11 +1015,12 @@
     "type": "Feature",
     "properties": {
       "name": "Charlestown Coffee",
-      "url": "twitter.com/bradford_coffee",
+      "url": "https://twitter.com/bradford_coffee",
       "location": "Yorkshire",
       "profile_image_url": "pbs.twimg.com/profile_images/532931991016988672/ma45bdjr.jpeg",
       "updated_at": "06-May-2015 15:55",
-      "twitter": "@bradford_coffee"
+      "twitter": "@bradford_coffee",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -964,7 +1034,8 @@
       "location": "Eaglesham, Glasgow, G76 0BB",
       "twitter": "@cmcoffeeroaster",
       "handle": "charlie-mills-coffee",
-      "url": "www.charliemillscoffee.com"
+      "url": "http://www.charliemillscoffee.com",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -974,11 +1045,12 @@
     "type": "Feature",
     "properties": {
       "name": "Cherry Picked Coffee",
-      "url": "cherrypickedcoffee.co.uk",
+      "url": "http://cherrypickedcoffee.co.uk",
       "location": "Worthing, West Sussex , BN11 2QU",
       "profile_image_url": "cherrypickedcoffee.co.uk/skin/frontend/ultimo/default/images/cpc-brand/CherryPickedCoffee-website-logo.png",
       "updated_at": "06-May-2015 15:53",
-      "twitter": "@CoffeeClubUK"
+      "twitter": "@CoffeeClubUK",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -991,7 +1063,8 @@
       "name": "Clifton Coffee Roasters",
       "updated_at": "2021-02-09 19:02:34 UTC",
       "url": "https://cliftoncoffee.co.uk",
-      "twitter": "@cliftoncoffee"
+      "twitter": "@cliftoncoffee",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -1004,7 +1077,8 @@
       "name": "Climpson & Sons",
       "updated_at": "2019-12-21 16:34:46 UTC",
       "url": "https://climpsonandsons.com/",
-      "twitter": "@climpsonandsons"
+      "twitter": "@climpsonandsons",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -1018,7 +1092,8 @@
       "location": "3 Park Row, Leeds, West Yorkshire, LS26 0JA",
       "twitter": "@cloggscoffee",
       "handle": "cloggs-coffee",
-      "url": "www.cloggscoffee.com"
+      "url": "http://cloggscoffee.com",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -1031,7 +1106,8 @@
       "name": "Cloud Picker Coffee",
       "updated_at": "2020-06-28 01:50:29 UTC",
       "url": "https://cloudpickercoffee.ie",
-      "twitter": "@CloudPickercoff"
+      "twitter": "@CloudPickercoff",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -1043,8 +1119,9 @@
       "location": "D10 Fieldhouse Industrial Estate, Fieldhouse Road, Rochdale, Lancashire, OL12 0AA",
       "name": "Clumsy Goat Coffee",
       "updated_at": "2020-04-25 03:40:37 UTC",
-      "url": "clumsygoat.co.uk",
-      "twitter": "@clumsy_goat"
+      "url": "https://clumsygoat.co.uk/",
+      "twitter": "@clumsy_goat",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -1057,7 +1134,8 @@
       "name": "Coaltown Coffee Roasters",
       "updated_at": "2020-06-28 01:46:36 UTC",
       "url": "https://www.coaltowncoffee.co.uk",
-      "twitter": "@CoaltownCoffee"
+      "twitter": "@CoaltownCoffee",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -1071,7 +1149,8 @@
       "location": "Redcar, North Yorkshire",
       "twitter": "@Coastal_Roaster",
       "handle": "coastal-roaster",
-      "url": "coastalroaster.co.uk"
+      "url": "http://coastalroaster.co.uk",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -1081,11 +1160,12 @@
     "type": "Feature",
     "properties": {
       "name": "Coburg Coffee Co.",
-      "url": "coburgcoffeecompany.co.uk",
+      "url": "http://www.coburgcoffeecompany.co.uk/",
       "location": "3 Harrington Way, Warspite Road, London, SE18 5NU",
       "profile_image_url": "pbs.twimg.com/profile_images/562275513683566593/wdQhEkws.jpeg",
       "updated_at": "07-Mar-2016 19:33",
-      "twitter": "@CoburgCoffeeCo"
+      "twitter": "@CoburgCoffeeCo",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -1099,7 +1179,8 @@
       "location": "Stony Stratford Market & Riseley, Bedford MK44 1EE",
       "twitter": "@CoffeeCavern",
       "handle": "eric-moore",
-      "url": "www.coffeecavern.co.uk"
+      "url": "http://brystreduksjon.net",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -1111,8 +1192,9 @@
       "location": "Unit 1 Pentrich Road, Giltbrook Ind. Estate, Nottingham, NG16 2UZ",
       "name": "Coffee Central",
       "updated_at": "2020-06-28 00:47:08 UTC",
-      "url": "coffeecentral.co.uk",
-      "twitter": "@CoffeeCentralUK"
+      "url": "https://coffeecentral.co.uk/",
+      "twitter": "@CoffeeCentralUK",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -1122,11 +1204,12 @@
     "type": "Feature",
     "properties": {
       "name": "Coffee Compass",
-      "url": "www.coffeecompass.co.uk",
+      "url": "https://www.coffeecompass.co.uk/",
       "location": "Fort Road, Wick, Littlehampton, West Sussex, BN17 7QZ",
       "profile_image_url": "pbs.twimg.com/profile_images/444056311294992384/zqO3joyz_400x400.jpeg",
       "updated_at": "06-May-2015 15:41",
-      "twitter": "@CoffeeCompass"
+      "twitter": "@CoffeeCompass",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -1138,8 +1221,9 @@
       "location": "Mallens Brae, Torphichen, Bathgate, West Lothian, EH48 4NY",
       "name": "Coffee Direct",
       "updated_at": "2020-06-28 04:15:15 UTC",
-      "url": "www.coffeedirect.co.uk",
-      "twitter": "@coffeedirect88"
+      "url": "https://www.coffeedirect.co.uk/",
+      "twitter": "@coffeedirect88",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -1149,11 +1233,12 @@
     "type": "Feature",
     "properties": {
       "name": "Coffee Factory",
-      "url": "www.thecoffeefactory.co.uk",
+      "url": "https://thecoffeefactory.co.uk/",
       "location": "Samuria Buildings,  Seaton Junction, Axminster, Devon, EX13 7PW",
       "profile_image_url": "pbs.twimg.com/profile_images/456719936040497152/7HWMFBIF_400x400.jpeg",
       "updated_at": "31-May-2015 13:30",
-      "twitter": "@Coffee_Factory"
+      "twitter": "@Coffee_Factory",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -1163,11 +1248,12 @@
     "type": "Feature",
     "properties": {
       "name": "Coffee Magic",
-      "url": "www.coffeemagic.co.uk",
+      "url": "http://coffeemagic.co.uk",
       "location": "Griffin Lane, Attleborough, Norfolk, NR17 2AD",
       "profile_image_url": "https://pbs.twimg.com/profile_images/443060482732085248/cLTocldF_400x400.jpeg",
       "updated_at": "17-Jul-2018 13:57",
-      "twitter": "@CoffeeMagic2"
+      "twitter": "@CoffeeMagic2",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -1177,11 +1263,12 @@
     "type": "Feature",
     "properties": {
       "name": "Coffee Mojo",
-      "url": "www.coffeemojo.ie",
+      "url": "https://www.coffeemojo.ie/",
       "location": "Unit W6, Wicklow Enterprise Centre, The Murrough, Wicklow Town, Co. Wicklow, Ireland",
       "profile_image_url": "https://pbs.twimg.com/profile_images/461196807221956608/BkBgCNmh_400x400.jpeg",
       "updated_at": "17-Jul-2018 13:56",
-      "twitter": "@MojoRoastery"
+      "twitter": "@MojoRoastery",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -1191,10 +1278,11 @@
     "type": "Feature",
     "properties": {
       "name": "Coffee Plant",
-      "url": "www.coffee.uk.com",
+      "url": "https://coffee.uk.com/",
       "location": "180 Portobello Road, London, W11 2EB",
       "profile_image_url": "https://coffee.uk.com/wp-content/uploads/2017/11/logo_60.jpg",
-      "updated_at": "02-May-2019 20:33"
+      "updated_at": "02-May-2019 20:33",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -1204,11 +1292,12 @@
     "type": "Feature",
     "properties": {
       "name": "Coffee Real Ltd",
-      "url": "www.coffeereal.co.uk",
+      "url": "http://coffeereal.co.uk",
       "location": "The Elephant House, Graylands Est., Langhurst Wood Road, Horsham, West Sussex, RH12 4QD",
       "profile_image_url": "pbs.twimg.com/profile_images/385986937/Coffee_Real_logo_50__400x400.jpg",
       "updated_at": "06-May-2015 15:41",
-      "twitter": "@BrownBean"
+      "twitter": "@BrownBean",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -1218,11 +1307,12 @@
     "type": "Feature",
     "properties": {
       "name": "Coffee Spot Roasters",
-      "url": "1066Coffee.co.uk",
+      "url": "http://1066Coffee.co.uk",
       "location": "East Sussex, TN38 8DW",
       "profile_image_url": "pbs.twimg.com/profile_images/534484690376208385/H_eg-105_400x400.png",
       "updated_at": "06-May-2015 15:59",
-      "twitter": "@RoastersSpot"
+      "twitter": "@RoastersSpot",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -1232,11 +1322,12 @@
     "type": "Feature",
     "properties": {
       "name": "Coffee World",
-      "url": "www.coffeeworld.org",
+      "url": "http://www.coffeeworld.co.uk/",
       "location": "Unit 9 Minton Enterprise Park, Oaks Drive, Newmarket, Suffolk, CB8 7YY",
       "profile_image_url": "pbs.twimg.com/profile_images/715863436/coffeeworldlowres_400x400.jpg",
       "updated_at": "06-May-2015 15:38",
-      "twitter": "@CoffeeWorldUk"
+      "twitter": "@CoffeeWorldUk",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -1246,11 +1337,12 @@
     "type": "Feature",
     "properties": {
       "name": "Coffee, Chocolate & Tea",
-      "url": "coffeechocolateandtea.com",
+      "url": "http://coffeechocolateandtea.com",
       "location": "944 Argyle Street, Glasgow, Scotland, G3 8YJ",
       "profile_image_url": "pbs.twimg.com/profile_images/2451603988/ju3g8f1x76mx96cx90ve.jpeg",
       "updated_at": "09-Mar-2016 16:07",
-      "twitter": "@RoasteryGlasgow"
+      "twitter": "@RoasteryGlasgow",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -1263,7 +1355,8 @@
       "name": "Coffee-Direct.co.uk",
       "updated_at": "2020-06-16 03:43:24 UTC",
       "url": "https://www.coffee-direct.co.uk",
-      "twitter": "@coffeedirectuk"
+      "twitter": "@coffeedirectuk",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -1275,8 +1368,9 @@
       "location": "Unit 20, Connect 10 Business Park, Foster Road, , Ashford, Kent, TN24 0FE",
       "name": "CoffeeBeanShop",
       "updated_at": "2020-06-28 04:20:30 UTC",
-      "url": "www.coffeebeanshop.co.uk",
-      "twitter": "@CoffeeBeanShop"
+      "url": "https://www.coffeebeanshop.co.uk/",
+      "twitter": "@CoffeeBeanShop",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -1288,8 +1382,9 @@
       "location": "31 Knightsdale Road, Ipswich, Suffolk, IP1 4JJ",
       "name": "Coffeelink",
       "updated_at": "2020-06-27 04:40:39 UTC",
-      "url": "https://www.coffeelink.com",
-      "twitter": "@Coffeelink"
+      "url": "https://coffeelink.com/",
+      "twitter": "@Coffeelink",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -1301,8 +1396,9 @@
       "location": "Unit 5, Dockley Estate, Dockley Road, London",
       "name": "Coleman Coffee Roasters",
       "updated_at": "2020-06-11 04:05:18 UTC",
-      "url": "colemancoffee.com",
-      "twitter": "@ColemanCoffee"
+      "url": "https://colemancoffee.com/",
+      "twitter": "@ColemanCoffee",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -1316,7 +1412,8 @@
       "location": "1 Pink Lane, Newcastle upon Tyne, NE1 5DW",
       "twitter": "@Colourcoffee",
       "handle": "colour-coffee-roastery",
-      "url": "www.colourcoffee.co.uk"
+      "url": "https://www.pinklanecoffee.co.uk/",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -1326,10 +1423,11 @@
     "type": "Feature",
     "properties": {
       "name": "Cork Coffee Roasters",
-      "url": "www.corkcoffee.com",
+      "url": "http://corkcoffee.com",
       "location": "2 Bridge St, Cork, Ireland",
       "profile_image_url": "www.corkcoffee.com/gallery/1.jpg",
-      "updated_at": "06-May-2015 15:49"
+      "updated_at": "06-May-2015 15:49",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -1343,7 +1441,8 @@
       "location": "Roach Rd, London, E3 2PA",
       "twitter": "@counterroastery",
       "handle": "counter-roastery",
-      "url": "thecountercafe.co.uk"
+      "url": "http://thecountercafe.co.uk",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -1355,8 +1454,9 @@
       "location": "Devonbanks Cottage, Pitgober, Dollar, Clackmannanshire, Scotland, FK14 7PQ",
       "name": "CounterRoast",
       "updated_at": "2020-06-28 04:09:36 UTC",
-      "url": "www.counterroast.co.uk",
-      "twitter": "@CounterRoast"
+      "url": "http://counterroast.co.uk",
+      "twitter": "@CounterRoast",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -1368,8 +1468,9 @@
       "location": "Unit 6A,  Blacklands Farm,  Wheatsheaf Rd, Henfiled,  West Sussex, BN5 9AT",
       "name": "Craft House Coffee",
       "updated_at": "2020-06-28 04:00:18 UTC",
-      "url": "crafthousecoffee.co.uk",
-      "twitter": "@craftingcoffee"
+      "url": "https://www.crafthousecoffee.co.uk/",
+      "twitter": "@craftingcoffee",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -1379,11 +1480,12 @@
     "type": "Feature",
     "properties": {
       "name": "Crafted Coffee Co",
-      "url": "www.craftedcoffee.co.uk",
+      "url": "http://www.craftedcoffee.co.uk",
       "location": "6C New Barn Farm, Funtington, Chichester, West Sussex, PO18 9DA",
       "profile_image_url": "https://cdn.shopify.com/s/files/1/0181/3537/collections/craftedcoffee_logo_medium.jpg",
       "updated_at": "16-Jul-2018 07:57",
-      "twitter": "@Crafted_Coffee"
+      "twitter": "@Crafted_Coffee",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -1393,11 +1495,12 @@
     "type": "Feature",
     "properties": {
       "name": "Craic Coffee",
-      "url": "twitter.com/craic_coffee",
+      "url": "https://twitter.com/craic_coffee",
       "location": "The Heath, Co Laois, Ireland",
       "profile_image_url": "cdn.shopify.com/s/files/1/0181/3537/files/craic-coffee-logo.jpg",
       "updated_at": "06-May-2015 16:01",
-      "twitter": "@craic_coffee"
+      "twitter": "@craic_coffee",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -1410,7 +1513,8 @@
       "name": "Crankhouse Coffee",
       "updated_at": "2020-06-28 01:46:26 UTC",
       "url": "https://www.crankhousecoffee.co.uk",
-      "twitter": "@crankhouseroast"
+      "twitter": "@crankhouseroast",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -1420,11 +1524,12 @@
     "type": "Feature",
     "properties": {
       "name": "Crediton Coffee",
-      "url": "www.creditoncoffee.co.uk",
+      "url": "https://www.creditoncoffee.co.uk/",
       "location": "1 Market Square House, Market Street, Crediton, Devon, EX17 2BN",
       "profile_image_url": "https://pbs.twimg.com/profile_images/2555507673/CreditonCoffeeCompany_400x400.jpg",
       "updated_at": "16-Jul-2018 08:05",
-      "twitter": "@CreditonCoffee"
+      "twitter": "@CreditonCoffee",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -1434,11 +1539,12 @@
     "type": "Feature",
     "properties": {
       "name": "Crosby Coffee",
-      "url": "crosbycoffee.co.uk",
+      "url": "https://www.crosbycoffee.co.uk/",
       "location": "Unit 14, Bridge Road Industrial Estate, Litherland, Liverpool, Merseyside, L21 2QG",
       "profile_image_url": "pbs.twimg.com/profile_images/524576204888616960/74hzP_tr_400x400.jpeg",
       "updated_at": "06-May-2015 15:50",
-      "twitter": "@CoffeeCrosby"
+      "twitter": "@CoffeeCrosby",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -1452,7 +1558,8 @@
       "updated_at": "2020-06-27 06:50:10 UTC",
       "url": "https://www.curveroasters.co.uk",
       "twitter": "@curveroasters",
-      "instagram": "curveroasters"
+      "instagram": "curveroasters",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -1462,11 +1569,12 @@
     "type": "Feature",
     "properties": {
       "name": "DamnFineCoffeeCo",
-      "url": "damnfinecoffeeco.bigcartel.com",
+      "url": "https://damnfinecoffeeco.bigcartel.com/",
       "location": "Nottingham",
       "profile_image_url": "pbs.twimg.com/profile_images/629548075057573888/QKCRnHYa.jpg",
       "updated_at": "01-Aug-2016 12:28",
-      "twitter": "@DamnFineCoffeeC"
+      "twitter": "@DamnFineCoffeeC",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -1476,11 +1584,12 @@
     "type": "Feature",
     "properties": {
       "name": "Danielle's Coffee",
-      "url": "www.daniellescoffee.co.uk",
+      "url": "https://www.daniellescoffee.co.uk/",
       "location": "1 Burwarton, Bridgnorth, Shropshire, WV16 6QG",
       "profile_image_url": "pbs.twimg.com/profile_images/1106278318/DC_Red_Circle_small_normal.jpg",
       "updated_at": "01-Aug-2016 12:12",
-      "twitter": "@DaniellesCoffee"
+      "twitter": "@DaniellesCoffee",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -1490,11 +1599,12 @@
     "type": "Feature",
     "properties": {
       "name": "Dark Arts Coffee",
-      "url": "www.darkartscoffee.co.uk",
+      "url": "https://www.darkartscoffee.co.uk/",
       "location": "Homerton, London, E9",
       "profile_image_url": "pbs.twimg.com/profile_images/665250179176660993/2YUjHGTB_400x400.jpg",
       "updated_at": "15-Apr-2016 14:29",
-      "twitter": "@DarkArtsCoffee"
+      "twitter": "@DarkArtsCoffee",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -1504,11 +1614,12 @@
     "type": "Feature",
     "properties": {
       "name": "Dark Fluid Coffee",
-      "url": "darkfluid.co.uk",
+      "url": "http://darkfluid.co.uk",
       "location": "Brockley Market, London, SE4 1UT",
       "profile_image_url": "pbs.twimg.com/profile_images/1818250371/DF_Logo_under_over_twitter_400x400.png",
       "updated_at": "06-May-2015 15:34",
-      "twitter": "@DarkFluidCoffee"
+      "twitter": "@DarkFluidCoffee",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -1520,8 +1631,9 @@
       "location": "Holme Mills, West Slaithwaite Road, Marsden, HD7 6LS",
       "name": "Dark Woods Coffee",
       "updated_at": "2020-06-28 04:25:23 UTC",
-      "url": "darkwoodscoffee.co.uk",
-      "twitter": "@DarkWoodsCoffee"
+      "url": "https://darkwoodscoffee.co.uk/",
+      "twitter": "@DarkWoodsCoffee",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -1534,7 +1646,8 @@
       "name": "Dear Green Coffee",
       "updated_at": "2019-12-21 17:45:07 UTC",
       "url": "https://www.deargreencoffee.com",
-      "twitter": "@CoffeeGlasgow"
+      "twitter": "@CoffeeGlasgow",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -1546,8 +1659,9 @@
       "location": "Fort Road, Wick, Littlehampton, BN17 7QZ",
       "name": "Decadent Decaf Coffee Company",
       "updated_at": "2020-06-27 06:53:20 UTC",
-      "url": "www.decadentdecaf.com",
-      "twitter": "@DecadentDecaf"
+      "url": "https://www.decadentdecaf.com/",
+      "twitter": "@DecadentDecaf",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -1561,7 +1675,8 @@
       "location": "45 Orchard Close, Woodbridge, Suffolk, IP12 1LD",
       "twitter": "@DeepmillsUK",
       "handle": "deepmills-suffolk",
-      "url": "www.deepmills.co.uk"
+      "url": "https://www.deepmills.co.uk/",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -1571,11 +1686,12 @@
     "type": "Feature",
     "properties": {
       "name": "DJ Miles",
-      "url": "www.djmiles.co.uk",
+      "url": "http://milesteaandcoffee.com/",
       "location": "Porlock House, Stephenson Road,  Minehead, Somerset, TA24 5EB",
       "profile_image_url": "cdn.shopify.com/s/files/1/0181/3537/files/dj-miles.logo.png",
       "updated_at": "06-May-2015 15:45",
-      "twitter": "@MilesTeaCoffee"
+      "twitter": "@MilesTeaCoffee",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -1588,7 +1704,8 @@
       "name": "Django Coffee Co.",
       "updated_at": "2020-06-28 02:31:12 UTC",
       "url": "https://www.djangocoffeeco.com",
-      "twitter": "@DjangoCoffee"
+      "twitter": "@DjangoCoffee",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -1601,7 +1718,8 @@
       "name": "doppiocoffee",
       "updated_at": "2020-06-28 04:28:28 UTC",
       "url": "https://doppiocoffee.co.uk",
-      "twitter": "@doppiocoffeeltd"
+      "twitter": "@doppiocoffeeltd",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -1615,7 +1733,8 @@
       "url": "https://www.coffeedrip.co.uk",
       "location": "Hampshire",
       "facebook": "dripcoffeebeans",
-      "instagram": "dripcoffeebeans"
+      "instagram": "dripcoffeebeans",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -1628,7 +1747,8 @@
       "name": "DublinBaristaSchool",
       "updated_at": "2020-06-28 01:29:02 UTC",
       "url": "https://dublinbaristaschool.ie",
-      "twitter": "@dubbaristasch"
+      "twitter": "@dubbaristasch",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -1641,7 +1761,8 @@
       "name": "Dusty Ape Coffee",
       "updated_at": "2020-06-28 01:48:25 UTC",
       "url": "https://dustyape.com",
-      "twitter": "@DustyApe"
+      "twitter": "@DustyApe",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -1653,8 +1774,9 @@
       "location": "Wicks House, Ford Lane, Arundel, West Sussex, BN18 0DF",
       "name": "Edgcumbes",
       "updated_at": "2020-03-25 05:50:01 UTC",
-      "url": "https://www.edgcumbes.co.uk",
-      "twitter": "@Edgcumbes"
+      "url": "https://edgcumbes.co.uk/",
+      "twitter": "@Edgcumbes",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -1668,7 +1790,8 @@
       "location": "London | Cotswolds | Norway",
       "twitter": "@eightpointnine",
       "handle": "eight-point-nine",
-      "url": "www.eightpointnine.com"
+      "url": "https://eightpointnine.com/",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -1680,8 +1803,9 @@
       "location": "40 Haven Green, London, W5 2NX",
       "name": "ELECTRIC COFFEE CO.",
       "updated_at": "2020-06-28 04:10:49 UTC",
-      "url": "http://electriccoffee.co.uk",
-      "twitter": "@eleccoffee"
+      "url": "https://www.electriccoffee.co.uk/",
+      "twitter": "@eleccoffee",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -1691,11 +1815,12 @@
     "type": "Feature",
     "properties": {
       "name": "Ethical Addictions",
-      "url": "www.eacoffee.co.uk",
+      "url": "https://eacoffee.co.uk/",
       "location": "Rear Warehouse, 69A Alvin Street, Gloucester, GL1 3EH",
       "profile_image_url": "https://cdn.shopify.com/s/files/1/0181/3537/files/ethical-addictions-logo.jpg",
       "updated_at": "17-Jul-2018 13:57",
-      "twitter": "@EA_Coffee"
+      "twitter": "@EA_Coffee",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -1707,8 +1832,9 @@
       "location": "Craven, Calderdale, Clitheroe, Lancashire",
       "name": "Exchange Coffee Co.",
       "updated_at": "2020-06-28 02:35:40 UTC",
-      "url": "www.exchangecoffee.co.uk",
-      "twitter": "@Exchange_Coffee"
+      "url": "http://exchangecoffee.co.uk",
+      "twitter": "@Exchange_Coffee",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -1718,11 +1844,12 @@
     "type": "Feature",
     "properties": {
       "name": "EXE Coffee Roasters",
-      "url": "execoffeeroasters.wordpress.com",
+      "url": "https://execoffeeroasters.wordpress.com/",
       "location": "Exeter, Devon",
       "profile_image_url": "pbs.twimg.com/profile_images/625323275481161734/LKID8vqR_400x400.png",
       "updated_at": "21-Sep-2015 16:53",
-      "twitter": "@execoffeeroast"
+      "twitter": "@execoffeeroast",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -1736,7 +1863,8 @@
       "location": "Unit 30 Old London Road Oxford, OX33 1XW",
       "twitter": "@exoticroasters",
       "handle": "exotic-coffee",
-      "url": "www.exoticcoffeeroasters.com"
+      "url": "http://exoticcoffeeroasters.com",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -1746,11 +1874,12 @@
     "type": "Feature",
     "properties": {
       "name": "Extract Coffee",
-      "url": "www.extractcoffee.co.uk",
+      "url": "https://extractcoffee.co.uk/",
       "location": "Unit 1, Gatton Road, Bristol, BS2 9SH",
       "profile_image_url": "https://extractcoffee.co.uk/manage/wp-content/themes/extract2015/images/logo_extract_modified.svg",
       "updated_at": "01-May-2019 08:14",
-      "twitter": "@extractcoffee"
+      "twitter": "@extractcoffee",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -1762,8 +1891,9 @@
       "location": "8 Brunel Business Court, Eastern Way, Bury St Edmunds, Suffolk, IP32 7AJ",
       "name": "F & E Coffee",
       "updated_at": "2019-12-21 17:45:39 UTC",
-      "url": "https://www.fandecoffee.co.uk",
-      "twitter": "@FandEcoffee"
+      "url": "https://fandecoffee.co.uk/",
+      "twitter": "@FandEcoffee",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -1773,11 +1903,12 @@
     "type": "Feature",
     "properties": {
       "name": "Farrers \u2122",
-      "url": "www.farrerscoffee.co.uk",
+      "url": "https://farrerscoffee.co.uk/",
       "location": "Shap Road Industrial Estate, Fell View Trading Park, Kendal, Cumbria, LA9 6NZ",
       "profile_image_url": "pbs.twimg.com/profile_images/1899682619/image_400x400.jpg",
       "updated_at": "06-May-2015 15:30",
-      "twitter": "@Farrers_Coffee"
+      "twitter": "@Farrers_Coffee",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -1790,7 +1921,8 @@
       "name": "Federation Coffee",
       "updated_at": "2020-06-28 02:42:19 UTC",
       "url": "https://federation.coffee",
-      "twitter": "@FederationCoffe"
+      "twitter": "@FederationCoffe",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -1800,10 +1932,11 @@
     "type": "Feature",
     "properties": {
       "name": "Ferns",
-      "url": "www.coffeeisferns.co.uk",
+      "url": "http://coffeeisferns.co.uk",
       "location": "Fern House, 4 Onslow Close, Basingstoke Hampshire, RG24 8QL",
       "profile_image_url": "www.coffeeisferns.co.uk/img/g_ferns_coffee_logo.jpg",
-      "updated_at": "18-May-2015 10:49"
+      "updated_at": "18-May-2015 10:49",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -1816,9 +1949,10 @@
       "name": "Ferrari's Coffee",
       "profile_image_url": "https://pbs.twimg.com/profile_images/432886446320402434/zWMELoY0_400x400.jpeg",
       "updated_at": "2019-07-30 07:30:16 UTC",
-      "url": "www.ferrariscoffee.co.uk",
+      "url": "https://ferrariscoffee.co.uk/",
       "twitter": "@FerrarisCoffee",
-      "facebook": "ferraris.coffee.1"
+      "facebook": "ferraris.coffee.1",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -1828,11 +1962,12 @@
     "type": "Feature",
     "properties": {
       "name": "FINCA",
-      "url": "fincacoffee.co.uk",
+      "url": "https://fincacoffee.co.uk/",
       "location": "41 Great Western Road, Dorchester, Dorset, DT1 1UF",
       "profile_image_url": "pbs.twimg.com/profile_images/603599083043979264/OHNYdTbK_400x400.jpg",
       "updated_at": "03-Jun-2015 14:02",
-      "twitter": "@scouting4coffee"
+      "twitter": "@scouting4coffee",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -1844,8 +1979,9 @@
       "location": "Unit 39, Clayhill Light Industrial Park, Coalbrookdale Rd, Neston, Cheshire, CH64 3UG",
       "name": "Flaming Bean Coffee",
       "updated_at": "2020-06-28 03:36:39 UTC",
-      "url": "www.flamingbean.co.uk",
-      "twitter": "@flamingbean"
+      "url": "http://www.flamingbean.co.uk",
+      "twitter": "@flamingbean",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -1855,11 +1991,12 @@
     "type": "Feature",
     "properties": {
       "name": "Footprint Coffee",
-      "url": "www.footprintcoffee.co.uk",
+      "url": "https://footprintcoffee.co.uk/",
       "location": "Ednol Farm, Kinnerton, Presteigne, Powys, Wales, LD8 2PF",
       "profile_image_url": "pbs.twimg.com/profile_images/421357004263653376/bxx3fB3N_400x400.jpeg",
       "updated_at": "06-May-2015 15:51",
-      "twitter": "@FootprintCoffee"
+      "twitter": "@FootprintCoffee",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -1872,7 +2009,8 @@
       "name": "Foundry Coffee Roasters",
       "updated_at": "2020-07-24 03:07:56 UTC",
       "url": "https://foundrycoffeeroasters.com",
-      "twitter": "@FoundryCoffee1"
+      "twitter": "@FoundryCoffee1",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -1884,9 +2022,10 @@
       "location": "Unit 39/40 Effingham Road, Attercliffe, Sheffield, South Yorkshire, S9 3QA",
       "name": "Frazer's Coffee Roasters",
       "updated_at": "2020-06-28 04:09:21 UTC",
-      "url": "http://frazerscoffeeroasters.co.uk",
+      "url": "https://www.frazerscoffeeroasters.co.uk/",
       "twitter": "@FrazersCoffee",
-      "facebook": "frazerscoffeeroasters"
+      "facebook": "frazerscoffeeroasters",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -1896,11 +2035,12 @@
     "type": "Feature",
     "properties": {
       "name": "Freehand Coffee",
-      "url": "www.freehandcoffee.com",
+      "url": "http://www.freehandcoffee.com",
       "location": "Unit 4 Barncoose Ind. Est, Redruth, Cornwall, TR15 3RQ",
       "profile_image_url": "pbs.twimg.com/profile_images/588446427078139904/urXgfSvn_400x400.png",
       "updated_at": "19-May-2015 10:27",
-      "twitter": "@freehandcoffee"
+      "twitter": "@freehandcoffee",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -1914,7 +2054,8 @@
       "location": "Nottingham, UK",
       "twitter": "@freshbagcoffee",
       "handle": "fresh-bag-of-coffee",
-      "url": "afreshbagofcoffee.co.uk"
+      "url": "http://afreshbagofcoffee.co.uk",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -1924,11 +2065,12 @@
     "type": "Feature",
     "properties": {
       "name": "Freshpac",
-      "url": "freshpac.co.uk",
+      "url": "https://freshpac.co.uk/",
       "location": "Unit B, Broadway Drive, Halesworth, Suffolk, IP19 8QR",
       "profile_image_url": "pbs.twimg.com/profile_images/2223580604/logo_400x400.png",
       "updated_at": "03-Jun-2015 13:29",
-      "twitter": "@FreshpacSales"
+      "twitter": "@FreshpacSales",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -1938,11 +2080,12 @@
     "type": "Feature",
     "properties": {
       "name": "Full Circle Roasters",
-      "url": "www.facebook.com/FCRoaster",
+      "url": "https://facebook.com/FCRoaster",
       "location": "Carrickmacross, Co. Monaghan, Ireland",
       "profile_image_url": "pbs.twimg.com/profile_images/635328763866279936/G8s1eAGR_400x400.jpg",
       "updated_at": "02-Jul-2016 11:58",
-      "twitter": "@FCRoaster"
+      "twitter": "@FCRoaster",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -1953,9 +2096,10 @@
     "properties": {
       "location": "Southview, Maypole Lane, Hoath, Canterbury, Kent,  CT3 4LL",
       "name": "Garage Coffee",
-      "url": "www.garageroasted.co.uk",
+      "url": "https://www.garageroasted.co.uk/",
       "updated_at": "2020-06-28 01:02:48 UTC",
-      "twitter": "@GarageRoasted"
+      "twitter": "@GarageRoasted",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -1967,8 +2111,9 @@
       "location": "Unit 42 Bradley Court, Bradley Fold Trading Estate, Radcliffe Moor Road, Bolton, Lancashire, BL2 6RT",
       "name": "Garraways Coffee",
       "updated_at": "2020-06-28 02:44:25 UTC",
-      "url": "www.garraways.co.uk",
-      "twitter": "@GarrawaysCoffee"
+      "url": "https://www.garraways.co.uk/",
+      "twitter": "@GarrawaysCoffee",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -1981,7 +2126,8 @@
       "description": "Tisbury's first coffee roaster..Roasted in Tisbury and for you to enjoy in our unique coffee shop in the heart of Wiltshire",
       "location": "High street, Tisbury, Wiltshire, SP3 6JB",
       "handle": "geniuscoffea",
-      "url": "www.facebook.com/geniuscoffea"
+      "url": "https://www.facebook.com/geniuscoffea",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -1991,10 +2137,11 @@
     "type": "Feature",
     "properties": {
       "name": "Gillards of Bath",
-      "url": "www.gillards.co.uk",
+      "url": "https://www.gillardsofbath.co.uk/",
       "location": "1 Roseberry Place, Lower Bristol Road, Bath, BA2 3DU",
       "profile_image_url": "https://cdn.shopify.com/s/files/1/0181/3537/files/gillards_logo.jpg",
-      "updated_at": "01-May-2019 08:25"
+      "updated_at": "01-May-2019 08:25",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -2007,7 +2154,8 @@
       "name": "Glen Lyon Coffee",
       "updated_at": "2020-06-28 02:33:18 UTC",
       "url": "https://www.glenlyoncoffee.co.uk",
-      "twitter": "@glenlyoncoffee"
+      "twitter": "@glenlyoncoffee",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -2017,11 +2165,12 @@
     "type": "Feature",
     "properties": {
       "name": "Glenfinlas Coffee",
-      "url": "www.glenfinlascoffee.com",
+      "url": "http://glenfinlascoffee.com",
       "location": "1 St. Colme Street, Edinburgh, Scotland, EH3 6AA",
       "profile_image_url": "www.glenfinlas.com/_resource/_img/glenfinlas-logo.png",
       "updated_at": "06-May-2015 15:40",
-      "twitter": "@glenfinlas_shop"
+      "twitter": "@glenfinlas_shop",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -2033,7 +2182,8 @@
       "location": "9-11 Market Square, Sandbach, Cheshire , CW11 1AP",
       "name": "Godfrey C. Williams & Son Ltd",
       "updated_at": "2020-06-28 04:31:17 UTC",
-      "url": "www.godfreycwilliams.co.uk"
+      "url": "http://www.godfreycwilliams.co.uk",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -2045,8 +2195,9 @@
       "location": "Newcastle upon Tyne",
       "name": "GoldBoxRoastery",
       "updated_at": "2020-06-28 02:50:05 UTC",
-      "url": "https://www.goldboxroastery.com",
-      "twitter": "@GoldBoxRoastery"
+      "url": "https://www.goldboxroastery.com/uae",
+      "twitter": "@GoldBoxRoastery",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -2056,11 +2207,12 @@
     "type": "Feature",
     "properties": {
       "name": "Gordon St Coffee",
-      "url": "www.gordonstcoffee.co.uk",
+      "url": "https://www.gordonstcoffee.co.uk/",
       "location": "Glasgow Central Station, 79 Gordon Street, Glasgow, Scotland, G1 3SQ",
       "profile_image_url": "pbs.twimg.com/profile_images/555774132861009922/IGnAh0Y4_400x400.jpeg",
       "updated_at": "06-May-2015 15:46",
-      "twitter": "@gordonstcoffee"
+      "twitter": "@gordonstcoffee",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -2072,7 +2224,8 @@
       "location": "66 The Park, Findhorn, IV36 3TZ",
       "name": "Green Bridge Organics",
       "updated_at": "2020-06-27 06:36:34 UTC",
-      "url": "greenbridgeorganics.co.uk"
+      "url": "https://greenbridgeorganics.co.uk/",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -2084,8 +2237,9 @@
       "location": "Unit 1 Green Farm, Wendover Road, Rackheath Ind. Est., Norwich, Norfolk, NR13 6LQ",
       "name": "Green Farm Coffee",
       "updated_at": "2020-06-28 01:03:32 UTC",
-      "url": "www.greenfarmcoffee.co.uk",
-      "twitter": "@greenfarmcoffee"
+      "url": "https://www.greenfarmcoffee.co.uk/",
+      "twitter": "@greenfarmcoffee",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -2098,8 +2252,9 @@
       "name": "Grey Seal Coffee",
       "profile_image_url": "http://cdn.shopify.com/s/files/1/0181/3537/collections/grey-seal-logo_medium.jpg?v=1404853267",
       "updated_at": "2019-11-17 18:14:28 UTC",
-      "url": "www.greysealcoffee.com",
-      "twitter": "@Greysealcoffee"
+      "url": "https://www.greysealcoffee.com/",
+      "twitter": "@Greysealcoffee",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -2109,11 +2264,12 @@
     "type": "Feature",
     "properties": {
       "name": "Grind Coffee Bar",
-      "url": "grindcoffeebar.co.uk",
+      "url": "http://grindcoffeebar.co.uk",
       "location": "79 Lower Richmond Road, Putney, London, SW15 1ET",
       "profile_image_url": "static1.squarespace.com/static/53ce9752e4b09ce5b33ae23f/t/56c47fcd2b8dde24de9b08b8/1459031788588/?format=400w",
       "updated_at": "15-Apr-2016 14:28",
-      "twitter": "@GrindCoffeeBar"
+      "twitter": "@GrindCoffeeBar",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -2127,7 +2283,8 @@
       "location": "Sheffield, UK",
       "twitter": "@GroundedBoys",
       "handle": "grounded-coffee",
-      "url": "ground-n-out.co.uk"
+      "url": "http://ground-n-out.co.uk",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -2140,7 +2297,8 @@
       "name": "Grumpy Mule Coffee",
       "updated_at": "2020-06-28 02:43:51 UTC",
       "url": "https://grumpymule.co.uk",
-      "twitter": "@GrumpyMule"
+      "twitter": "@GrumpyMule",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -2152,8 +2310,9 @@
       "location": "2 Cornwall Place, High Street, Buckingham, Buckinghamshire, MK18 1SB",
       "name": "Gyre & Gimble",
       "updated_at": "2020-06-28 01:51:04 UTC",
-      "url": "gyre.coffeevagabond.co.uk",
-      "twitter": "@mrgyre_mrgimble"
+      "url": "http://gyre.coffeevagabond.co.uk",
+      "twitter": "@mrgyre_mrgimble",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -2165,8 +2324,9 @@
       "location": "169 High Street, Winchester, Hampshire, SO23 9BQ",
       "name": "Hampshire Coffee Co.",
       "updated_at": "2020-06-16 22:39:51 UTC",
-      "url": "www.hampshirecoffee.co",
-      "twitter": "@hantscoffeeco"
+      "url": "https://hampshirecoffee.co/",
+      "twitter": "@hantscoffeeco",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -2178,8 +2338,9 @@
       "location": "The Roastery, 6F Bess Park Road, Wadebridge, Cornwall, PL27 6HB",
       "name": "Hands-On Coffee",
       "updated_at": "2020-06-28 04:32:53 UTC",
-      "url": "www.hands-on-coffee.co.uk",
-      "twitter": "@hands_on_coffee"
+      "url": "https://hands-on-coffee.co.uk/",
+      "twitter": "@hands_on_coffee",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -2189,11 +2350,12 @@
     "type": "Feature",
     "properties": {
       "name": "Happy Donkey Coffee",
-      "url": "www.happydonkey.co.uk",
+      "url": "https://www.happydonkey.co.uk/",
       "location": "Units B,F and J, 50 Mount Pleasant, Silver Street, Reading, Berkshire, RG1 2TD",
       "profile_image_url": "https://cdn.shopify.com/s/files/1/0181/3537/files/Happy_Donkey_Coffee_Logo.png",
       "updated_at": "11-Jun-2017 18:11",
-      "twitter": "@happydonkeyltd"
+      "twitter": "@happydonkeyltd",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -2203,11 +2365,12 @@
     "type": "Feature",
     "properties": {
       "name": "Hasbean",
-      "url": "hasbean.co.uk",
+      "url": "https://www.hasbean.co.uk/",
       "location": "Unit 16, Ladford Covert, Ladfordfields Industrial Estate, Seighford, Stafford, ST18 9QL",
       "profile_image_url": "cdn.shopify.com/s/files/1/0023/1572/t/10/assets/logo.png",
       "updated_at": "06-May-2015 15:42",
-      "twitter": "@hasbean"
+      "twitter": "@hasbean",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -2221,7 +2384,8 @@
       "location": "Church Farm, Ardeley, Hertfordshire, SG2 7AH",
       "twitter": "@hathicoffee",
       "handle": "hathi-coffee",
-      "url": "www.hathicoffee.co.uk"
+      "url": "http://hathicoffee.co.uk",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -2233,7 +2397,8 @@
       "location": "Hayling Island, Hampshire",
       "name": "Hayling Island Coffee Society",
       "updated_at": "2020-05-21 07:15:23 UTC",
-      "url": "https://www.hics.biz"
+      "url": "https://www.hics.biz/",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -2247,7 +2412,8 @@
       "updated_at": "2019-12-21 17:46:03 UTC",
       "url": "https://www.heartandgraft.co.uk",
       "twitter": "@HeartandGraft",
-      "instagram": "heartandgraft"
+      "instagram": "heartandgraft",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -2261,7 +2427,8 @@
       "location": "Drummond Street, Comrie, Perthshire, PH6 2DW",
       "twitter": "@HighlandCoffees",
       "handle": "highland-coffees",
-      "url": "www.highlandcoffees.co.uk"
+      "url": "http://www.highlandcoffees.co.uk",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -2273,8 +2440,9 @@
       "location": "Lyleston West Lodge, Cardross, Argyll and Bute, Scotland, G82 5HF",
       "name": "Home Ground Coffee",
       "updated_at": "2020-06-28 02:59:22 UTC",
-      "url": "www.homegroundcoffee.co.uk",
-      "twitter": "@The_coffee_guy"
+      "url": "https://www.homegroundcoffee.co.uk/",
+      "twitter": "@The_coffee_guy",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -2286,8 +2454,9 @@
       "location": "Fittleworth, Pulborough, West Sussex",
       "name": "Honeybee Coffee",
       "updated_at": "2020-06-16 04:29:18 UTC",
-      "url": "thehoneybeecoffeeroastery.co.uk",
-      "twitter": "@HoneybeeCoffee1"
+      "url": "https://thehoneybeecoffeeroastery.co.uk/",
+      "twitter": "@HoneybeeCoffee1",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -2301,7 +2470,8 @@
       "location": "North Lincolnshire, UK",
       "twitter": "@HopeandGloryUK",
       "handle": "hope-and-glory-coffee",
-      "url": "www.hopeandglorycoffee.co.uk"
+      "url": "http://www.hopeandglorycoffee.co.uk",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -2316,7 +2486,8 @@
       "location": "Unit 12 Highlands Farm, Wallingford, Oxfordshire, OX10 0QX",
       "twitter": "@Horseboxcoffee",
       "facebook": "horseboxcoffeeco",
-      "instagram": "@horseboxcoffeeco"
+      "instagram": "@horseboxcoffeeco",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -2329,7 +2500,8 @@
       "name": "Horsham Coffee Roaster",
       "updated_at": "2020-06-15 09:31:33 UTC",
       "url": "https://www.horshamcoffeeroaster.co.uk",
-      "twitter": "@horshamcoffee"
+      "twitter": "@horshamcoffee",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -2341,8 +2513,9 @@
       "location": "Gwydir St, Cambridge, CB1 2LJ",
       "name": "Hot Numbers Coffee",
       "updated_at": "2020-06-28 02:37:17 UTC",
-      "url": "https://www.hotnumberscoffee.co.uk",
-      "twitter": "@hotnumbers"
+      "url": "https://hotnumberscoffee.co.uk/",
+      "twitter": "@hotnumbers",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -2354,8 +2527,9 @@
       "location": "Duke Street, Mayfair, London, W1",
       "name": "HR Higgins Ltd",
       "updated_at": "2020-06-28 02:35:12 UTC",
-      "url": "www.hrhiggins.co.uk",
-      "twitter": "@Higginscoffee"
+      "url": "https://www.hrhiggins.co.uk/",
+      "twitter": "@Higginscoffee",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -2370,7 +2544,8 @@
       "url": "https://hundredhousecoffee.com",
       "twitter": "@HundredHouseCo",
       "facebook": "hundredhousecoffee",
-      "instagram": "hundredhousecoffee.com"
+      "instagram": "hundredhousecoffee.com",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -2380,11 +2555,12 @@
     "type": "Feature",
     "properties": {
       "name": "Imbibe Coffee",
-      "url": "imbibe.ie",
+      "url": "https://imbibe.ie/",
       "location": "Dublin, Ireland",
       "profile_image_url": "imbibe.ie/wp-content/uploads/2013/09/imbibe-coffee.png",
       "updated_at": "06-May-2015 15:57",
-      "twitter": "@garyimbibe"
+      "twitter": "@garyimbibe",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -2394,10 +2570,11 @@
     "type": "Feature",
     "properties": {
       "name": "Inverness Coffee Roasting",
-      "url": "invernesscoffeeroasting.co.uk",
+      "url": "https://invernesscoffeeroasting.co.uk/",
       "location": "15 Chapel Street, Inverness, Scotland, IV1 1NA",
       "profile_image_url": "invernesscoffeeroasting.co.uk/wp-content/uploads/Logo-150x150.gif",
-      "updated_at": "06-May-2015 15:55"
+      "updated_at": "06-May-2015 15:55",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -2410,7 +2587,8 @@
       "name": "Iron & Fire Speciality Coffee Roasters",
       "updated_at": "2020-06-28 00:09:10 UTC",
       "url": "https://ironandfire.co.uk",
-      "twitter": "@IronFireCoffee"
+      "twitter": "@IronFireCoffee",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -2420,11 +2598,12 @@
     "type": "Feature",
     "properties": {
       "name": "Isle of Skye roastery",
-      "url": "www.facebook.com/skyeroastery",
+      "url": "https://facebook.com/skyeroastery",
       "location": "The Red Door, The Old Filling Station, Near the Roundabout by the Skye Bridge, Kyleakin side! , Isle of Skye, Scotland, IV41 8PQ",
       "profile_image_url": "https://pbs.twimg.com/profile_images/2316016043/facebook_roastery_profile_pic_400x400.jpg",
       "updated_at": "16-Jul-2018 09:42",
-      "twitter": "@skyecoffee"
+      "twitter": "@skyecoffee",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -2438,7 +2617,8 @@
       "location": "95-97 Mount Pleasant Road, Tunbridge Wells, Kent, TN1 1QG",
       "twitter": "@IsmailCoffeeTea",
       "handle": "ismail-coffee-and-tea",
-      "url": "www.ismail.co.uk/"
+      "url": "http://ismail.co.uk/",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -2448,11 +2628,12 @@
     "type": "Feature",
     "properties": {
       "name": "J. Atkinson and Co.",
-      "url": "www.thecoffeehopper.com",
+      "url": "https://thecoffeehopper.com/",
       "location": "China Street, Lancaster, Lancashire, LA1 1EX",
       "profile_image_url": "cdn.shopify.com/s/files/1/0181/3537/files/atkinsons-logo.jpg",
       "updated_at": "03-Jun-2015 14:18",
-      "twitter": "@coffeehopper"
+      "twitter": "@coffeehopper",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -2464,8 +2645,9 @@
       "location": "Unit 7, Cropper Row, Haigh Ind. Est., Ross-on-Wye, Herefordshire, HR9 5LA",
       "name": "James Gourmet Coffee",
       "updated_at": "2020-06-10 10:38:28 UTC",
-      "url": "https://www.jamesgourmetcoffee.com",
-      "twitter": "@GourmetPJ"
+      "url": "https://jamesgourmetcoffee.com",
+      "twitter": "@GourmetPJ",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -2477,8 +2659,9 @@
       "location": "Yarcroft, Yarbridge, Brading, Isle of Wight, PO36 0BP",
       "name": "Jasper's Coffee",
       "updated_at": "2020-06-28 04:34:19 UTC",
-      "url": "jasperscoffee.co.uk",
-      "twitter": "@JaspersCoffee"
+      "url": "http://www.jasperscoffee.co.uk/",
+      "twitter": "@JaspersCoffee",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -2493,7 +2676,8 @@
       "location": "Chester, UK",
       "twitter": "@jaunty_goat",
       "facebook": "jauntygoat",
-      "instagram": "@jaunty_goat"
+      "instagram": "@jaunty_goat",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -2506,7 +2690,8 @@
       "name": "Java Republic Roasting Company",
       "profile_image_url": "https://www.javarepublic.com/wp-content/uploads/2017/11/Unknown.png",
       "updated_at": "2019-11-17 14:34:13 UTC",
-      "url": "www.javarepublic.com"
+      "url": "https://www.javarepublic.com/",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -2518,9 +2703,10 @@
       "location": "17d Hall Farm Business Park, Martham Road, Rollesby, Great Yarmouth, Norfolk, NR29 5DR",
       "name": "Javabean",
       "updated_at": "2020-06-12 04:49:32 UTC",
-      "url": "https://javabean.co.uk",
+      "url": "https://www.javabean.co.uk/",
       "twitter": "@JavabeanLimited",
-      "instagram": "javabeanlimited"
+      "instagram": "javabeanlimited",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -2530,11 +2716,12 @@
     "type": "Feature",
     "properties": {
       "name": "JerichoCoffeeTraders",
-      "url": "www.jerichocoffeetraders.com",
+      "url": "https://www.jerichocoffeetraders.com/",
       "location": "3 King Edward Street, Oxford, Oxfordshire",
       "profile_image_url": "pbs.twimg.com/profile_images/583566655650828288/-6mPKmMG_400x400.jpg",
       "updated_at": "02-Aug-2015 20:45",
-      "twitter": "@JeriCoffTraders"
+      "twitter": "@JeriCoffTraders",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -2544,10 +2731,11 @@
     "type": "Feature",
     "properties": {
       "name": "Jesters Coffee",
-      "url": "jesterscoffee.co.uk",
+      "url": "http://jesterscoffee.co.uk",
       "location": "4 Hawthorn Way, St Ives, Cambridgeshire, PE27 3YP",
       "profile_image_url": "cdn.shopify.com/s/files/1/0181/3537/files/jesters.gif",
-      "updated_at": "06-May-2015 15:45"
+      "updated_at": "06-May-2015 15:45",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -2557,11 +2745,12 @@
     "type": "Feature",
     "properties": {
       "name": "Joe Black Coffee",
-      "url": "www.joeblackcoffeeandtea.co.uk",
+      "url": "https://www.joeblackcoffeeandtea.co.uk/",
       "location": "Millers Bridge Industrial Estate, Seymour Street, Liverpool, Merseyside, L20 1EE",
       "profile_image_url": "pbs.twimg.com/profile_images/3559403663/0f55bb5b776b12058851af5efd69f6e6_400x400.png",
       "updated_at": "06-May-2015 15:43",
-      "twitter": "@JoeBlackCoffee"
+      "twitter": "@JoeBlackCoffee",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -2573,8 +2762,9 @@
       "location": "11 Bank St, Carlisle, Cumbria, CA3 8HG",
       "name": "John Watt And Sons",
       "updated_at": "2020-06-28 01:00:12 UTC",
-      "url": "www.johnwattandson.co.uk",
-      "twitter": "@johnwatt_son"
+      "url": "https://www.johnwatt.co.uk",
+      "twitter": "@johnwatt_son",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -2588,7 +2778,8 @@
       "location": "East London",
       "twitter": "@jonestowncoffee",
       "handle": "jonestown-coffee",
-      "url": "jonestowncoffee.co.uk"
+      "url": "http://jonestowncoffee.co.uk",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -2598,11 +2789,12 @@
     "type": "Feature",
     "properties": {
       "name": "Julius Meinl UK",
-      "url": "www.meinlcoffee.com/uk/uk/julius-meinl.html",
+      "url": "http://meinlcoffee.com/uk/uk/julius-meinl.html",
       "location": "Unit 3, Ground Floor, Lafone House, Leathermarket, 11 \u2013 13 Weston Street, London, SE1 3ER",
       "profile_image_url": "www.meinlcoffee.com/fileadmin/templates/meinl/img/logo-red.png",
       "updated_at": "06-May-2015 15:52",
-      "twitter": "@MeinlCoffeeUK"
+      "twitter": "@MeinlCoffeeUK",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -2612,11 +2804,12 @@
     "type": "Feature",
     "properties": {
       "name": "Just Bean Roasted",
-      "url": "www.justbeanroasted.co.uk",
+      "url": "http://justbeanroasted.co.uk",
       "location": "Leeds, West Yorkshire",
       "profile_image_url": "https://pbs.twimg.com/profile_images/378800000674581263/a0a4591877c7ebad2b0f5f7f8ef2df32_400x400.png",
       "updated_at": "16-Jul-2018 09:42",
-      "twitter": "@justbeanroasted"
+      "twitter": "@justbeanroasted",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -2628,8 +2821,9 @@
       "location": "Chiswick, London",
       "name": "Kimbo UK",
       "updated_at": "2020-06-28 02:36:56 UTC",
-      "url": "www.kimbo.co.uk",
-      "twitter": "@KimbointheUK"
+      "url": "https://kimbo.co.uk/",
+      "twitter": "@KimbointheUK",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -2641,7 +2835,8 @@
       "location": "Flurry Bridge Business Park, Lower Foughill Rd, Jonesborough, Newry, Northern Ireland, BT35 8SQ",
       "name": "Koffy",
       "updated_at": "2020-11-09 06:23:18 UTC",
-      "url": "https://koffy.ie"
+      "url": "https://koffy.ie",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -2654,7 +2849,8 @@
       "name": "Limini Coffee",
       "updated_at": "2019-12-19 17:54:57 UTC",
       "url": "https://www.liminicoffee.co.uk",
-      "twitter": "@liminicoffee"
+      "twitter": "@liminicoffee",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -2664,10 +2860,11 @@
     "type": "Feature",
     "properties": {
       "name": "Lincoln & York",
-      "url": "www.lincolnandyork.com",
+      "url": "https://www.lincolnandyork.com/",
       "location": "Kahawa House, Elsham Wold Industrial Estate, Nr. Brigg, North Lincolnshire, DN20 0SP",
       "profile_image_url": "cdn.shopify.com/s/files/1/0181/3537/files/lincoln-york-logo.jpg",
-      "updated_at": "18-May-2015 10:44"
+      "updated_at": "18-May-2015 10:44",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -2679,8 +2876,9 @@
       "location": "North Hykeham, Lincoln",
       "name": "Lincoln Tea & Coffee",
       "updated_at": "2020-06-28 01:48:32 UTC",
-      "url": "thelincolnteaandcoffeecompany.co.uk",
-      "twitter": "@LincolnTeaCoffe"
+      "url": "https://thelincolnteaandcoffeecompany.co.uk/",
+      "twitter": "@LincolnTeaCoffe",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -2693,7 +2891,8 @@
       "name": "Little and Long",
       "updated_at": "2020-06-28 01:50:08 UTC",
       "url": "http://littleandlong.com",
-      "twitter": "@LittleandLongCC"
+      "twitter": "@LittleandLongCC",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -2703,11 +2902,12 @@
     "type": "Feature",
     "properties": {
       "name": "Littlestone Coffee",
-      "url": "www.littlestonecoffee.co.uk",
+      "url": "https://littlestonecoffee.co.uk/",
       "location": "17 Norman Court, Budlake Road, Exeter, EX2 8PY",
       "profile_image_url": "littlestonecoffee.co.uk/wp-content/themes/littlestone/assets/img/logo.png",
       "updated_at": "17-Sep-2017 16:46",
-      "twitter": "@Lstonecoffee"
+      "twitter": "@Lstonecoffee",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -2721,7 +2921,8 @@
       "location": "426 Long Drive, London UB6 8UH",
       "twitter": "@lespresso",
       "handle": "londinium-espresso",
-      "url": "LondiniumEspresso.com"
+      "url": "https://londiniumespresso.com/",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -2735,7 +2936,8 @@
       "updated_at": "2020-06-10 10:39:58 UTC",
       "url": "https://lostbarncoffee.co.uk",
       "facebook": "lostbarncoffee",
-      "instagram": "lostbarncoffee"
+      "instagram": "lostbarncoffee",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -2748,7 +2950,8 @@
       "name": "Lost Sheep Coffee",
       "updated_at": "2020-06-16 04:33:29 UTC",
       "url": "https://www.lostsheepcoffee.com",
-      "twitter": "@SheepCoffee"
+      "twitter": "@SheepCoffee",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -2758,11 +2961,12 @@
     "type": "Feature",
     "properties": {
       "name": "Luckie Beans",
-      "url": "luckiebeans.co.uk",
+      "url": "https://www.luckiebeans.co.uk/",
       "location": "Love Lane, Berwick Upon Tweed, Northumberland, TD15 1AR",
       "profile_image_url": "pbs.twimg.com/profile_images/593402567314538498/WEYpvzgA_400x400.jpg",
       "updated_at": "20-Aug-2015 18:24",
-      "twitter": "@luckiebeans"
+      "twitter": "@luckiebeans",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -2775,7 +2979,8 @@
       "updated_at": "2020-06-16 04:00:35 UTC",
       "url": "https://www.luckiebeans.co.uk",
       "location": "Love Lane, Berwick Upon Tweed, TD15 1AR",
-      "twitter": "@luckie_beans"
+      "twitter": "@luckie_beans",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -2789,7 +2994,8 @@
       "location": "73 High Street, Ware, Herts, SG12 9AD",
       "twitter": "@lulucoffeeco",
       "handle": "lulu-coffee-company",
-      "url": "www.lulucoffee.co.uk"
+      "url": "http://lulucoffee.co.uk",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -2799,11 +3005,12 @@
     "type": "Feature",
     "properties": {
       "name": "MacBeans Coffee",
-      "url": "www.macbeans.com",
+      "url": "https://www.macbeans.com/",
       "location": "2 Little Bemont Street, Aberdeen, Scotland, AB10 1JG",
       "profile_image_url": "pbs.twimg.com/profile_images/674961154461073408/edeKnEbk.jpg",
       "updated_at": "09-Mar-2016 16:02",
-      "twitter": "@macbeanscoffee"
+      "twitter": "@macbeanscoffee",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -2816,7 +3023,8 @@
       "description": "Makushi is a micro roaster on Steep Hill, Lincoln. They only roast sustainably sourced, traceable, high quality, single origin coffee. The green coffees they buy are typically priced a premium above the cost of production has been paid to the farmers, who are often in regions that need it most. They are part of a coffee chain that delivers the best possible coffee while sustainably supporting everyone in that chain, from the farmer, to exporter, roaster, barista and ultimately the consumer.",
       "location": "12 Steep Hill, Lincoln, Lincolnshire, LN2 1LT",
       "handle": "makushi-coffee-roasters",
-      "url": "makushi.bigcartel.com"
+      "url": "http://makushi.bigcartel.com",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -2826,11 +3034,12 @@
     "type": "Feature",
     "properties": {
       "name": "ManCoCo",
-      "url": "www.mancoco.co.uk",
+      "url": "https://mancoco.co.uk/",
       "location": "84 Hewitt St, Manchester, M15 4GB",
       "profile_image_url": "https://pbs.twimg.com/profile_images/582474089350242304/bK9PO5gd_400x400.jpg",
       "updated_at": "11-Jun-2017 18:11",
-      "twitter": "@ManCoCoLtd"
+      "twitter": "@ManCoCoLtd",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -2840,10 +3049,11 @@
     "type": "Feature",
     "properties": {
       "name": "Manx Tea And Coffee",
-      "url": "www.manxteaandcoffee.com",
+      "url": "http://www.manxteaandcoffee.com",
       "location": "Unit 4, Rear Wilson & Collins, Balthane Industrial Estate, Ballsalla, Isle of Man, IM9 2AJ",
       "profile_image_url": "manxteaandcoffee.com/image/data/logo.png",
-      "updated_at": "06-May-2015 15:45"
+      "updated_at": "06-May-2015 15:45",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -2853,11 +3063,12 @@
     "type": "Feature",
     "properties": {
       "name": "Mariners Coffee",
-      "url": "www.marinerscoffeemerchants.co.uk",
+      "url": "http://www.marinerscoffeemerchants.co.uk",
       "location": "Unit 55, The Raylor Centre James Street, York, YO10 3DW",
       "profile_image_url": "cdn.shopify.com/s/files/1/0181/3537/files/mariners-coffee-logo.png",
       "updated_at": "03-Jun-2015 13:59",
-      "twitter": "@MarinersCoffee"
+      "twitter": "@MarinersCoffee",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -2867,11 +3078,12 @@
     "type": "Feature",
     "properties": {
       "name": "Markus Coffee",
-      "url": "www.markuscoffee.com",
+      "url": "https://www.markuscoffee.com/",
       "location": "13 Connaught Street, London",
       "profile_image_url": "pbs.twimg.com/profile_images/1543220214/MarkusCC_800pixel_72dpi_RGB_400x400.jpg",
       "updated_at": "06-May-2015 15:32",
-      "twitter": "@Markus__Coffee"
+      "twitter": "@Markus__Coffee",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -2881,10 +3093,11 @@
     "type": "Feature",
     "properties": {
       "name": "Masteroast Coffee Co Ltd",
-      "url": "www.masteroast.co.uk",
+      "url": "https://www.masteroast.co.uk/",
       "location": "Plantation House, Newark Road, Peterborough, Cambridgeshire, PE1 5UA",
       "profile_image_url": "cdn.shopify.com/s/files/1/0181/3537/files/masteroast-logo.jpg",
-      "updated_at": "18-May-2015 10:52"
+      "updated_at": "18-May-2015 10:52",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -2896,8 +3109,9 @@
       "location": "16 Lawmoor Road, Glasgow, Scotland, G5 0UL",
       "name": "Matthew Algie",
       "updated_at": "2020-06-28 02:35:18 UTC",
-      "url": "www.matthewalgie.com",
-      "twitter": "@Matthew_Algie"
+      "url": "https://www.matthewalgie.com/",
+      "twitter": "@Matthew_Algie",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -2909,8 +3123,9 @@
       "location": "83, 82 Railway St, Leeds, West Yorkshire, LS9 8HB",
       "name": "Maude Coffee",
       "updated_at": "2020-04-27 00:44:49 UTC",
-      "url": "www.maudecoffee.co.uk",
-      "twitter": "@maudecoffee"
+      "url": "https://www.maudecoffee.co.uk/",
+      "twitter": "@maudecoffee",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -2923,7 +3138,8 @@
       "name": "Merchant and Miller Cheshire Coffee",
       "updated_at": "2020-05-21 07:27:46 UTC",
       "url": "https://www.merchantandmiller.co.uk/?utm_source=thecoffeeroasters&utm_medium=profilelink",
-      "twitter": "@MerchantMiller_"
+      "twitter": "@MerchantMiller_",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -2933,11 +3149,12 @@
     "type": "Feature",
     "properties": {
       "name": "Method Roastery",
-      "url": "methodroastery.com",
+      "url": "https://methodroastery.com/",
       "location": "Unit 7, Hop Pocket Craft Centre, Bishops Frome, Herefordshire, WR6 5BT",
       "profile_image_url": "methodroastery.com/wp-content/uploads/2014/10/method-logo-black.png",
       "updated_at": "03-Jun-2015 13:50",
-      "twitter": "@MethodRoastery"
+      "twitter": "@MethodRoastery",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -2947,11 +3164,12 @@
     "type": "Feature",
     "properties": {
       "name": "Microroastery",
-      "url": "microroastery.co.uk",
+      "url": "https://microroastery.co.uk/",
       "location": "4 St.Margarets Street, Canterbury, Kent, CT1 2TP",
       "profile_image_url": "pbs.twimg.com/profile_images/577412933040381952/xbNzeGPR_400x400.jpeg",
       "updated_at": "06-May-2015 15:30",
-      "twitter": "@microroastery"
+      "twitter": "@microroastery",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -2965,7 +3183,8 @@
       "location": "Hawick, Scottish Borders, TD9 9NS",
       "twitter": "@MillysCoffeeCo",
       "handle": "milly's-coffee-co",
-      "url": "millyscoffeecompany.com"
+      "url": "http://millyscoffeecompany.com",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -2975,11 +3194,12 @@
     "type": "Feature",
     "properties": {
       "name": "MissionCoffeeWorks",
-      "url": "www.missioncoffeeworks.com",
+      "url": "https://www.missioncoffeeworks.com/",
       "location": "4 Grosvenor Way, London, E5 9ND",
       "profile_image_url": "https://pbs.twimg.com/profile_images/668458259586662402/eT0rO2Jc.jpg",
       "updated_at": "11-Jun-2017 18:11",
-      "twitter": "@MissionCoffeeW"
+      "twitter": "@MissionCoffeeW",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -2990,9 +3210,10 @@
     "properties": {
       "location": "Unit 6 Capstan Centre, Tilbury, Essex, RM18 7HH",
       "name": "Modern Standard Coffee",
-      "url": "https://www.modernstandardcoffee.com",
+      "url": "https://modernstandardcoffee.co.uk/",
       "updated_at": "2020-06-28 04:08:10 UTC",
-      "twitter": "@MSCroasters"
+      "twitter": "@MSCroasters",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -3002,11 +3223,12 @@
     "type": "Feature",
     "properties": {
       "name": "Mokarabia Coffee",
-      "url": "www.mokarabia.co.uk",
+      "url": "http://www.mokarabia.co.uk",
       "location": "London",
       "profile_image_url": "https://pbs.twimg.com/profile_images/3503326027/99c7fa48c1891e70f4c629e27b4e8463_400x400.png",
       "updated_at": "11-Jun-2017 18:11",
-      "twitter": "@MokarabiaUK"
+      "twitter": "@MokarabiaUK",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -3019,7 +3241,8 @@
       "name": "Monmouth Coffee",
       "updated_at": "2020-06-28 03:04:15 UTC",
       "url": "https://www.monmouthcoffee.co.uk/",
-      "twitter": "@monmouthcoffee"
+      "twitter": "@monmouthcoffee",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -3031,8 +3254,9 @@
       "location": "The Roastery, The Studio Alscot Park, Atherstone on Stour, Stratford upon Avon, Warwickshire, CV37 8BL",
       "name": "Monsoon Estates",
       "updated_at": "2020-06-29 05:36:36 UTC",
-      "url": "https://www.monsoonestatescoffee.co.uk",
-      "twitter": "@MonsoonEstates"
+      "url": "https://monsoonestates.co.uk/",
+      "twitter": "@MonsoonEstates",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -3045,7 +3269,8 @@
       "name": "Moonroast Coffee",
       "updated_at": "2020-06-28 04:36:29 UTC",
       "url": "https://www.moonroast.co.uk",
-      "twitter": "@MoonRoast"
+      "twitter": "@MoonRoast",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -3055,11 +3280,12 @@
     "type": "Feature",
     "properties": {
       "name": "mr_eion",
-      "url": "facebook.com/mreionltd",
+      "url": "https://facebook.com/mreionltd",
       "location": "9 DPS, Stockbridge, Edinburgh, Scotland",
       "profile_image_url": "pbs.twimg.com/profile_images/378800000766854701/ecb4e5eabd94c16bdcf7db7e982b05bc_400x400.jpeg",
       "updated_at": "06-May-2015 15:42",
-      "twitter": "@mr_eion"
+      "twitter": "@mr_eion",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -3069,11 +3295,12 @@
     "type": "Feature",
     "properties": {
       "name": "mug run roasting",
-      "url": "www.mug-run.co.uk",
+      "url": "http://mug-run.co.uk",
       "location": "Unit E3, Morfa Clwyd, Marsh Road, Rhyl, Wales, LL18 2AF",
       "profile_image_url": "cdn.shopify.com/s/files/1/0181/3537/files/mug-run-logo.jpg",
       "updated_at": "13-Nov-2017 11:19",
-      "twitter": "@mug_run"
+      "twitter": "@mug_run",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -3086,7 +3313,8 @@
       "description": "As devoted seekers of singularity and true to the concepts of origin and direct trade, we are a pleased to offer you a selection of dedicatedly sourced and hand roasted. Colombian speciality coffee to be brewed whit equal care. We are keen at hunting for unique micro lots and varietals throughout Colombia and establishing bonds with farmers and ethnic communities alike in order to bring to you the best quality coffee of the season\u2019s harvest.",
       "location": "Gallows Green, Dunmow, Essex, CM6",
       "handle": "my-daily-coffee",
-      "url": "mydailycoffee.co.uk"
+      "url": "http://mydailycoffee.co.uk",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -3100,7 +3328,8 @@
       "location": "Dorset, UK",
       "twitter": "@NaturesRoast",
       "handle": "natures-roast",
-      "url": "www.naturesroast.co.uk"
+      "url": "http://www.naturesroast.co.uk",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -3110,11 +3339,12 @@
     "type": "Feature",
     "properties": {
       "name": "Neighbourhood Coffee",
-      "url": "www.neighbourhoodcoffee.co.uk",
+      "url": "https://www.www.neighbourhoodcoffee.co.uk/",
       "location": "Liverpool, Merseyside",
       "profile_image_url": "www.neighbourhoodcoffee.co.uk/wp-content/uploads/2014/10/logowhite2.png",
       "updated_at": "06-May-2015 15:53",
-      "twitter": "@NhoodCoffee"
+      "twitter": "@NhoodCoffee",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -3125,10 +3355,11 @@
     "properties": {
       "name": "New Ground Coffee",
       "updated_at": "2020-05-21 08:58:57 UTC",
-      "url": "https://newgroundcoffee.com",
+      "url": "https://www.newgroundcoffee.com/",
       "location": "Workshop, r/o Simon House, 2 Windmill Road, Oxford, OX3 7BU",
       "facebook": "newgroundcoffeesocial",
-      "instagram": "@newgroundcoffee"
+      "instagram": "@newgroundcoffee",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -3138,11 +3369,12 @@
     "type": "Feature",
     "properties": {
       "name": "New Town Coffee",
-      "url": "www.newtowncoffee.com",
+      "url": "http://www.newtowncoffee.com",
       "location": "21 York Place, Edinburgh, Scotland, EH1 3EN",
       "profile_image_url": "https://pbs.twimg.com/profile_images/2802960198/8ff44627788a5b8c3ea80b444be2027e_400x400.jpeg",
       "updated_at": "16-Jul-2018 08:05",
-      "twitter": "@NewTownCoffee"
+      "twitter": "@NewTownCoffee",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -3152,11 +3384,12 @@
     "type": "Feature",
     "properties": {
       "name": "New Wave Coffee",
-      "url": "newwavecoffee.co.uk",
+      "url": "http://newwavecoffee.co.uk",
       "location": "Hemel Hempstead, Hertfordshire",
       "profile_image_url": "pbs.twimg.com/profile_images/543052340182257664/Klrl910o.jpeg",
       "updated_at": "17-Sep-2015 09:32",
-      "twitter": "@newwavecoffeeuk"
+      "twitter": "@newwavecoffeeuk",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -3167,8 +3400,9 @@
     "properties": {
       "name": "Newbeans Coffee",
       "updated_at": "2020-06-28 03:06:46 UTC",
-      "url": "www.newbeans.co.uk",
-      "twitter": "@newbeanscoffee"
+      "url": "https://www.newbeans.co.uk/",
+      "twitter": "@newbeanscoffee",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -3180,9 +3414,10 @@
       "location": "Unit 27, Penraevon Industrial Est., Jackson Road, Meanwood Road, Leeds, West Yorkshire, LS7 2AP",
       "name": "North Star Roast",
       "updated_at": "2020-06-28 01:49:20 UTC",
-      "url": "https://northstarroast.com/",
+      "url": "https://www.northstarroast.com/",
       "twitter": "@NorthStarRoast",
-      "instagram": "northstarcoffeeshop"
+      "instagram": "northstarcoffeeshop",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -3194,8 +3429,9 @@
       "location": "Unit 5, Meantime Workshops, North Greenwich Road, Spittal, Berwick-Upon-Tweed, Fife, TD15 1RG",
       "name": "Northern Edge Coffee",
       "updated_at": "2020-06-28 04:09:02 UTC",
-      "url": "www.northernedgecoffee.co.uk",
-      "twitter": "@NorthernEdge_"
+      "url": "https://www.northernedgecoffee.co.uk/",
+      "twitter": "@NorthernEdge_",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -3207,7 +3443,8 @@
       "location": "Crown House, 193 Chatsworth Road, Chesterfield, Derbyshire, S40 2BA",
       "name": "Northern Tea",
       "updated_at": "2020-04-08 01:58:53 UTC",
-      "url": "https://www.northern-tea.com"
+      "url": "https://www.northern-tea.com",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -3220,7 +3457,8 @@
       "name": "Notes Roastery",
       "updated_at": "2020-06-28 02:30:59 UTC",
       "url": "https://notescoffee.com",
-      "twitter": "@NotesRoastery"
+      "twitter": "@NotesRoastery",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -3232,8 +3470,9 @@
       "location": "26 Hanbury St, London, E1 6QR",
       "name": "Nude Coffee Roasters",
       "updated_at": "2020-06-28 03:08:17 UTC",
-      "url": "www.nudeespresso.com",
-      "twitter": "@NudeEspresso"
+      "url": "https://www.nudeespresso.com/",
+      "twitter": "@NudeEspresso",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -3243,11 +3482,12 @@
     "type": "Feature",
     "properties": {
       "name": "Old Leodensian",
-      "url": "www.homeroastcoffee.co.uk",
+      "url": "http://homeroastcoffee.co.uk",
       "location": "Kippax, Leeds, West Yorkshire, LS25",
       "profile_image_url": "thecoffeeroasters.x10.mx/images/old-leodensian-logo.jpg",
       "updated_at": "01-Aug-2016 12:33",
-      "twitter": "@HomeRoastCoffee"
+      "twitter": "@HomeRoastCoffee",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -3259,8 +3499,9 @@
       "location": "54 Peckham Rye, London, SE15 4JR",
       "name": "OLD SPIKE ROASTERY",
       "updated_at": "2020-06-11 03:51:12 UTC",
-      "url": "http://www.oldspikeroastery.com",
-      "twitter": "@OldSpikeRoast"
+      "url": "https://oldspikeroastery.com/",
+      "twitter": "@OldSpikeRoast",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -3274,7 +3515,8 @@
       "profile_image_url": "https://cdn.shopify.com/s/files/1/0831/6631/t/16/assets/logo.png",
       "updated_at": "2019-07-04 08:20:24 UTC",
       "url": "https://www.olfactorycoffee.co.uk",
-      "twitter": "@olfactorycoffee"
+      "twitter": "@olfactorycoffee",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -3287,7 +3529,8 @@
       "name": "Origin Coffee",
       "updated_at": "2020-06-10 10:41:00 UTC",
       "url": "https://www.origincoffee.co.uk",
-      "twitter": "@origincoffee"
+      "twitter": "@origincoffee",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -3299,8 +3542,9 @@
       "location": "Foundry Lane Studios, Foundry Lane, Newcastle-Upon-Tyne, NE6 1LH",
       "name": "Ouseburn Coffee Co.",
       "updated_at": "2020-06-28 02:33:50 UTC",
-      "url": "www.ouseburncoffee.co.uk",
-      "twitter": "@OuseburnCoffee"
+      "url": "https://www.ouseburncoffee.co.uk/",
+      "twitter": "@OuseburnCoffee",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -3310,11 +3554,12 @@
     "type": "Feature",
     "properties": {
       "name": "Outpost Coffee Roasters",
-      "url": "www.outpostcoffeeroasters.co.uk",
+      "url": "https://www.outpost.coffee/",
       "location": "4 Stoney St, Nottingham, NG1 1LG",
       "profile_image_url": "https://cdn.shopify.com/s/files/1/0181/3537/files/outpost-coffee.jpg",
       "updated_at": "18-Jun-2019 12:01",
-      "twitter": "@OutpostRoasters"
+      "twitter": "@OutpostRoasters",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -3327,7 +3572,8 @@
       "name": "Ovenbird Coffee Roasters",
       "updated_at": "2020-06-10 10:44:12 UTC",
       "url": "https://ovenbird.co.uk",
-      "twitter": "@ovenbird_coffee"
+      "twitter": "@ovenbird_coffee",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -3337,11 +3583,12 @@
     "type": "Feature",
     "properties": {
       "name": "Owens Coffee",
-      "url": "www.owenscoffee.com",
+      "url": "https://owenscoffee.com/",
       "location": "New Mills Industrial Estate, Modbury, Ivybridge, Devon, PL21 0TP",
       "profile_image_url": "pbs.twimg.com/profile_images/435424578144190464/SdHrRO6L_400x400.jpeg",
       "updated_at": "06-May-2015 15:34",
-      "twitter": "@OwensCoffee"
+      "twitter": "@OwensCoffee",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -3351,11 +3598,12 @@
     "type": "Feature",
     "properties": {
       "name": "Oxenham&Leigh Coffee",
-      "url": "www.oxenhamleighcoffee.co.uk",
+      "url": "http://www.oxenhamleighcoffee.co.uk",
       "location": "Buckland Brewer, North Devon, EX39 5LU",
       "profile_image_url": "https://pbs.twimg.com/profile_images/2766234313/efba74f19a55cb9ef179d12c78c268f6_400x400.jpeg",
       "updated_at": "16-Jul-2018 07:59",
-      "twitter": "@OxenhamLeigh"
+      "twitter": "@OxenhamLeigh",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -3369,7 +3617,8 @@
       "location": "11 Leonard Street, London EC2A 4AQ",
       "twitter": "@OzoneCoffeeuk",
       "handle": "ozone-coffee-roasters",
-      "url": "www.ozonecoffee.co.uk"
+      "url": "http://ozonecoffee.co.uk",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -3383,7 +3632,8 @@
       "location": "The Mint Building, The Biscuit Factory, 100 Clement's Road, Bermondsey, SE16 4DG",
       "twitter": "@pactcoffee",
       "handle": "pact-coffee",
-      "url": "www.pactcoffee.com"
+      "url": "https://www.pactcoffee.com/",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -3393,11 +3643,12 @@
     "type": "Feature",
     "properties": {
       "name": "Papercup Coffee",
-      "url": "papercupcoffeecompany.bigcartel.com",
+      "url": "https://papercupcoffeecompany.bigcartel.com/",
       "location": "603 Great Western Road, Glasgow, Scotland, G12 8HX",
       "profile_image_url": "https://pbs.twimg.com/profile_images/3607564988/84b2b2927c1bd294cebc39153d6d224f_400x400.jpeg",
       "updated_at": "16-Jul-2018 09:42",
-      "twitter": "@pccoffeeuk"
+      "twitter": "@pccoffeeuk",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -3407,11 +3658,12 @@
     "type": "Feature",
     "properties": {
       "name": "Passion Fruit Coffee",
-      "url": "www.passionfruitcoffee.co.uk",
+      "url": "https://passionfruitcoffee.co.uk/",
       "location": "209 Kings Rd, Chorlton, Manchester, M21 0XY",
       "profile_image_url": "http://static.squarespace.com/static/53450a71e4b0081b9666e73f/t/53c0753ee4b00a2450791a54/1414188633473",
       "updated_at": "11-Jun-2017 18:11",
-      "twitter": "@PassionFruitMCR"
+      "twitter": "@PassionFruitMCR",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -3424,7 +3676,8 @@
       "name": "Peaberry Coffee",
       "updated_at": "2020-06-11 03:47:44 UTC",
       "url": "https://peaberrycoffee.co.uk",
-      "twitter": "@peaberry_roast"
+      "twitter": "@peaberry_roast",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -3437,7 +3690,8 @@
       "name": "Pebble & Pine Coffee",
       "updated_at": "2020-06-27 06:20:36 UTC",
       "url": "https://pebbleandpine.co.uk",
-      "twitter": "@PebblePine"
+      "twitter": "@PebblePine",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -3449,8 +3703,9 @@
       "location": "28 Sydney street, Brighton, BN1 4EP",
       "name": "Pelicano House",
       "updated_at": "2020-06-28 01:03:49 UTC",
-      "url": "pelicanohouse.com",
-      "twitter": "@Pelicanocoffee"
+      "url": "https://www.pelicanocoffee.com/",
+      "twitter": "@Pelicanocoffee",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -3462,8 +3717,9 @@
       "location": "10 Acacia Business Centre, Howard Rd, Leytonstone, London, E11 3PJ",
       "name": "Perky Blenders Coffee Roasters",
       "updated_at": "2020-06-27 06:25:35 UTC",
-      "url": "http://www.perkyblenders.com",
-      "twitter": "@perkyblenders"
+      "url": "https://perkyblenders.com/",
+      "twitter": "@perkyblenders",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -3473,11 +3729,12 @@
     "type": "Feature",
     "properties": {
       "name": "Pharmacie Coffee Roasters",
-      "url": "www.pharmacie.coffee",
+      "url": "https://pharmacie.coffee/",
       "location": "18 Cambridge Grove, Brighton and Hove, BN3 3ED",
       "profile_image_url": "thecoffeeroasters.x10.mx/images/pharmacie_roasters_logo.jpg",
       "updated_at": "05-Apr-2016 10:53",
-      "twitter": "@pharmaciecoffee"
+      "twitter": "@pharmaciecoffee",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -3489,8 +3746,9 @@
       "location": "Marygate, Holy Island, Northumberland, TD15 2SJ",
       "name": "Pilgrims Coffee",
       "updated_at": "2020-06-16 04:25:50 UTC",
-      "url": "www.pilgrimscoffee.com",
-      "twitter": "@PilgrimsCoffee"
+      "url": "https://www.pilgrimscoffee.com/",
+      "twitter": "@PilgrimsCoffee",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -3500,11 +3758,12 @@
     "type": "Feature",
     "properties": {
       "name": "Pollards Shop",
-      "url": "www.pollardscoffee.co.uk",
+      "url": "http://pollardscoffee.co.uk",
       "location": "627 Ecclesall Rd, Sheffield, South Yorkshire, S11 8PT",
       "profile_image_url": "https://cdn.shopify.com/s/files/1/0181/3537/files/pollards-logo.jpg",
       "updated_at": "03-Feb-2019 12:02",
-      "twitter": "@PollardsShopUK"
+      "twitter": "@PollardsShopUK",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -3516,8 +3775,9 @@
       "location": "Units A, B & C Tinsley Industrial Estate, Shepcote Lane, Sheffield, South Yorkshire, S9 1DR",
       "name": "Pollards Wholesale Coffee",
       "updated_at": "2020-05-21 08:58:37 UTC",
-      "url": "http://pollards.com/wholesale",
-      "twitter": "@PollardsUK"
+      "url": "http://pollards.com/wholesale/",
+      "twitter": "@PollardsUK",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -3529,8 +3789,9 @@
       "location": "Unit 3 Kilcohan Industrial Complex, Kilcohan, Waterford, Ireland",
       "name": "Ponticelli Espresso",
       "updated_at": "2020-06-28 04:41:32 UTC",
-      "url": "http://www.ponticelli.ie",
-      "twitter": "@PonticelliE"
+      "url": "http://www.ponticelli.ie/",
+      "twitter": "@PonticelliE",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -3544,7 +3805,8 @@
       "location": "36 Mossgate Park Heysham LA3 2WN",
       "twitter": "@Getporters",
       "handle": "porters-coffee",
-      "url": "getporters.com"
+      "url": "http://getporters.com",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -3554,11 +3816,12 @@
     "type": "Feature",
     "properties": {
       "name": "Preseli Coffee",
-      "url": "www.preselicoffee.com",
+      "url": "http://preselicoffee.com",
       "location": "2 Lettards Court, Letterston, Pembrokeshire, Wales, SA62 5SR",
       "profile_image_url": "https://pbs.twimg.com/profile_images/2555447770/iqlkzq03838ilsttzq9f_400x400.jpeg",
       "updated_at": "16-Jul-2018 08:06",
-      "twitter": "@PreseliCoffee"
+      "twitter": "@PreseliCoffee",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -3568,11 +3831,12 @@
     "type": "Feature",
     "properties": {
       "name": "Pump n Grind",
-      "url": "pumpngrind.co.uk",
+      "url": "http://pumpngrind.co.uk",
       "location": "Leeds, UK",
       "profile_image_url": "pbs.twimg.com/profile_images/689073941839740928/zbHH4M3K.jpg",
       "updated_at": "27-Oct-2016 22:21",
-      "twitter": "@pumpngrind"
+      "twitter": "@pumpngrind",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -3582,11 +3846,12 @@
     "type": "Feature",
     "properties": {
       "name": "Pumphrey's Coffee",
-      "url": "www.pumphreys-coffee.co.uk",
+      "url": "https://www.pumphreys-coffee.co.uk/",
       "location": "Bridge Street, Blaydon, Tyne and Wear, NE21 4JH",
       "profile_image_url": "cdn6.bigcommerce.com/s-nbc124/product_images/black_logo_header_1413552990__33838.jpg",
       "updated_at": "06-May-2015 15:42",
-      "twitter": "@PumphreysBE"
+      "twitter": "@PumphreysBE",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -3600,7 +3865,8 @@
       "location": "Dublin Ireland",
       "twitter": "@PuroGustoCoffee",
       "handle": "puro-gusto-coffee",
-      "url": "facebook.com/purogustocoffee"
+      "url": "https://facebook.com/purogustocoffee",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -3612,7 +3878,8 @@
       "location": "Annacotty Business Park, Annacotty, Limerick, Ireland",
       "name": "P\u00f3naire Irish Handcrafted Coffee",
       "updated_at": "2020-06-28 04:43:48 UTC",
-      "url": "www.ponaire.ie"
+      "url": "https://www.ponaire.ie/",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -3622,11 +3889,12 @@
     "type": "Feature",
     "properties": {
       "name": "Quarter Horse Coffee",
-      "url": "quarterhorsecoffee.com",
+      "url": "https://quarterhorsecoffee.com/",
       "location": "88-90 Bristol street, Birmingham, B5 7AH",
       "profile_image_url": "https://cdn.shopify.com/s/files/1/0744/8895/files/QH_Logo_0219-02_WEB_400x200.jpg",
       "updated_at": "01-May-2019 08:17",
-      "twitter": "@QtrHorseCoffee"
+      "twitter": "@QtrHorseCoffee",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -3639,8 +3907,9 @@
       "name": "Rave Coffee",
       "profile_image_url": "cdn.shopify.com/s/files/1/0390/4361/t/2/assets/logo.png",
       "updated_at": "2019-07-04 17:01:12 UTC",
-      "url": "www.ravecoffee.co.uk",
-      "twitter": "@RaveCoffee"
+      "url": "https://ravecoffee.co.uk/",
+      "twitter": "@RaveCoffee",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -3652,7 +3921,8 @@
       "location": "LIMEKILN FARM, SHERBORNE, DORSET, DT9 6PS",
       "name": "Reads Coffee",
       "updated_at": "2020-06-28 03:47:47 UTC",
-      "url": "www.readscoffee.co.uk/"
+      "url": "http://readscoffee.co.uk/",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -3666,7 +3936,8 @@
       "updated_at": "2020-06-28 03:59:12 UTC",
       "url": "https://www.realdealroasters.co.uk",
       "twitter": "@realdealroaster",
-      "facebook": "realdealroasters"
+      "facebook": "realdealroasters",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -3679,7 +3950,8 @@
       "name": "Red Bank Coffee Roasters",
       "updated_at": "2020-04-27 00:52:22 UTC",
       "url": "https://redbankcoffee.com",
-      "twitter": "@redbankroasters"
+      "twitter": "@redbankroasters",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -3689,11 +3961,12 @@
     "type": "Feature",
     "properties": {
       "name": "Red Cherry coffee",
-      "url": "www.redcherrycoffee.co.uk",
+      "url": "https://redcherrycoffee.co.uk/",
       "location": "Whitstable, Kent",
       "profile_image_url": "pbs.twimg.com/profile_images/835523708/red_cherry_logo3_400x400.jpg",
       "updated_at": "06-May-2015 15:38",
-      "twitter": "@redcherrycoffee"
+      "twitter": "@redcherrycoffee",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -3703,10 +3976,11 @@
     "type": "Feature",
     "properties": {
       "name": "Red Monkey Coffee UK",
-      "url": "www.redmonkeycoffee.co.uk",
+      "url": "http://www.redmonkeycoffee.co.uk",
       "location": "Bache Farm, Westhope, Near Ludlow, Shropshire, SY7 9LG",
       "profile_image_url": "www.redmonkeycoffee.co.uk/rmcsplash_r1_c1.gif",
-      "updated_at": "06-May-2015 15:45"
+      "updated_at": "06-May-2015 15:45",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -3716,11 +3990,12 @@
     "type": "Feature",
     "properties": {
       "name": "Red Roaster",
-      "url": "redroaster.co.uk",
+      "url": "https://www.redroaster.co.uk/",
       "location": "1d St James's St, Brighton, BN2 1RE",
       "profile_image_url": "pbs.twimg.com/profile_images/112755555/1428829670_fb21155c78_400x400.jpg",
       "updated_at": "06-May-2015 15:41",
-      "twitter": "@theredroaster"
+      "twitter": "@theredroaster",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -3730,11 +4005,12 @@
     "type": "Feature",
     "properties": {
       "name": "Redber",
-      "url": "www.redber.co.uk",
+      "url": "https://www.redber.co.uk/",
       "location": "Unit 2, Merrow Depot Merrow Lane, Guildford, Surrey, GU4 7BQ",
       "profile_image_url": "https://cdn.shopify.com/s/files/1/0181/3537/files/redber-logo.png",
       "updated_at": "11-Jun-2017 18:11",
-      "twitter": "@RedberCoffee"
+      "twitter": "@RedberCoffee",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -3746,7 +4022,8 @@
       "location": "Suite 3, Maybank Business Centre, 208 Maybank Road, London, E18 1ET",
       "name": "Regal Coffee Ltd.",
       "updated_at": "2020-06-27 06:46:30 UTC",
-      "url": "http://regalcoffeeroasters.co.uk"
+      "url": "https://www.regalcoffeeroasters.co.uk/",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -3759,7 +4036,8 @@
       "name": "Rinaldo's Coffee",
       "updated_at": "2019-12-21 17:45:31 UTC",
       "url": "https://rinscoffee.com",
-      "twitter": "@RinsCoffee"
+      "twitter": "@RinsCoffee",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -3769,11 +4047,12 @@
     "type": "Feature",
     "properties": {
       "name": "Ristretto Coffee",
-      "url": "www.ristrettocoffee.com",
+      "url": "https://ristrettocoffee.com/",
       "location": "Unit 49, Banbridge Enterprise Centre, Scarva Road Industrial Estate, Banbridge, County Down, Ireland, BT32 3QD",
       "profile_image_url": "cdn.shopify.com/s/files/1/0181/3537/files/ristretto_logo_footer.jpg",
       "updated_at": "06-May-2015 15:42",
-      "twitter": "@ristrettocoffee"
+      "twitter": "@ristrettocoffee",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -3787,7 +4066,8 @@
       "url": "https://ritualcoffee.org",
       "location": "Cheltenham, Gloucestershire",
       "facebook": "RitualCoffeeCompany",
-      "instagram": "ritualcoffeecompany"
+      "instagram": "ritualcoffeecompany",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -3797,11 +4077,12 @@
     "type": "Feature",
     "properties": {
       "name": "Roast Batch",
-      "url": "roastbatch.com",
+      "url": "http://roastbatch.com",
       "location": "Newcastle-upon-Tyne",
       "profile_image_url": "s3.amazonaws.com/cratejoy_vendor_images/2331705d33074c248336506588290cfa.png",
       "updated_at": "01-Aug-2016 12:20",
-      "twitter": "@RoastBatch"
+      "twitter": "@RoastBatch",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -3815,7 +4096,8 @@
       "location": "Falkirk",
       "twitter": "@RoastFiend",
       "handle": "roast-central",
-      "url": "www.roastcentral.co.uk"
+      "url": "http://www.roastcentral.co.uk",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -3830,7 +4112,8 @@
       "linked_in_handle": "roastlabcoffeeroasters",
       "location": "Langtons Meadow, Farnham Common, Buckinghamshire, SL2 3NS",
       "facebook": "roastlabcoffeeroasters",
-      "instagram": "roastlabcoffeeroasters"
+      "instagram": "roastlabcoffeeroasters",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -3843,8 +4126,9 @@
       "name": "Roasted Rituals",
       "profile_image_url": "https://pbs.twimg.com/profile_images/595612956328665089/WFfW8uhk_400x400.jpg",
       "updated_at": "2019-11-17 18:16:50 UTC",
-      "url": "www.roastedritualscoffee.com",
-      "twitter": "@RoastedRituals"
+      "url": "https://roastedritualscoffee.com/",
+      "twitter": "@RoastedRituals",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -3858,7 +4142,8 @@
       "location": "Windsor, United Kingdom",
       "twitter": "@roasterbcoffee",
       "handle": "roasterb-coffee-co-windsor",
-      "url": "www.roasterb.com"
+      "url": "http://www.roasterb.com",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -3871,7 +4156,8 @@
       "name": "Roasters Artisan",
       "updated_at": "2020-02-24 22:59:51 UTC",
       "url": "https://www.roasterscoffee.com",
-      "twitter": "@roastersartisan"
+      "twitter": "@roastersartisan",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -3884,8 +4170,9 @@
       "name": "Roastworks Coffee Co",
       "profile_image_url": "https://pbs.twimg.com/profile_images/1022151487991033857/Xcl9JEGr_400x400.jpg",
       "updated_at": "2019-07-04 08:43:48 UTC",
-      "url": "https://www.roastworks.co.uk",
-      "twitter": "@RoastworksDevon"
+      "url": "https://roastworks.co.uk",
+      "twitter": "@RoastworksDevon",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -3895,10 +4182,11 @@
     "type": "Feature",
     "properties": {
       "name": "Roberts & Co.",
-      "url": "www.e-coffee.co.uk",
+      "url": "http://www.e-coffee.co.uk",
       "location": "The Coffee Roastery, Cedar Farm, Back Lane, Mawdesley, Ormskirk, Lancashire, L40 3SY",
       "profile_image_url": "www.e-coffee.co.uk/skins/roberts/media/logo.png",
-      "updated_at": "06-May-2015 15:46"
+      "updated_at": "06-May-2015 15:46",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -3908,11 +4196,12 @@
     "type": "Feature",
     "properties": {
       "name": "Roost",
-      "url": "www.roostcoffee.co.uk",
+      "url": "https://www.roostcoffee.co.uk/",
       "location": "Malton, North Yorkshire",
       "profile_image_url": "www.roostcoffee.co.uk/wp-content/uploads/2015/11/Roost-Coffee-Logo3.png",
       "updated_at": "12-May-2016 09:36",
-      "twitter": "@Roost_Coffee"
+      "twitter": "@Roost_Coffee",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -3925,7 +4214,8 @@
       "name": "Round Hill Roastery",
       "updated_at": "2020-06-28 01:45:44 UTC",
       "url": "https://roundhillroastery.com",
-      "twitter": "@roundhillcoffee"
+      "twitter": "@roundhillcoffee",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -3939,7 +4229,8 @@
       "location": "Above Su Casa Coffee House, Unit 4, Lorne Arcade, 115 High St, Ayr KA7 1QL",
       "twitter": "@RoundsquareAyr",
       "handle": "roundsquare-roastery",
-      "url": "www.roundsquareroastery.co.uk"
+      "url": "http://www.roundsquareroastery.co.uk",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -3951,8 +4242,9 @@
       "location": "The Granary, East Rounton, Northallerton, North Yorkshire, DL6 2LG",
       "name": "Rounton Coffee Roasters",
       "updated_at": "2019-12-22 11:02:47 UTC",
-      "url": "www.rountoncoffee.co.uk",
-      "twitter": "@RountonCoffee"
+      "url": "https://www.rountoncoffee.co.uk/",
+      "twitter": "@RountonCoffee",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -3962,11 +4254,12 @@
     "type": "Feature",
     "properties": {
       "name": "Sacred Grounds Coffee Company",
-      "url": "sacredgroundscoffeecompany.co.uk",
+      "url": "https://sacred-grounds.coffee/",
       "location": "Arbroath, Scotland",
       "profile_image_url": "pbs.twimg.com/profile_images/581091553042665472/6ccuusvu_400x400.jpg",
       "updated_at": "01-Aug-2016 12:35",
-      "twitter": "@SacredGrounds14"
+      "twitter": "@SacredGrounds14",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -3976,11 +4269,12 @@
     "type": "Feature",
     "properties": {
       "name": "Sasha House Petite",
-      "url": "shpetite.ie",
+      "url": "http://shpetite.ie",
       "location": "Drury Street Carpark, Drury Street, Dublin, Ireland",
       "profile_image_url": "shpetite.ie/images/logo.gif",
       "updated_at": "06-May-2015 15:49",
-      "twitter": "@SashaHouseDub"
+      "twitter": "@SashaHouseDub",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -3990,11 +4284,12 @@
     "type": "Feature",
     "properties": {
       "name": "Second City Coffee",
-      "url": "secondcitycoffee.co.uk",
+      "url": "https://www.secondcitycoffee.co.uk/",
       "location": "Manchester",
       "profile_image_url": "secondcitycoffee.co.uk/wp-content/uploads/2014/10/2ND-CITY-LOGO-HOLDING-PAGE1.png",
       "updated_at": "06-May-2015 15:58",
-      "twitter": "@secondctycoffee"
+      "twitter": "@secondctycoffee",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -4004,10 +4299,11 @@
     "type": "Feature",
     "properties": {
       "name": "Sidewalk Coffee Co",
-      "url": "www.sidewalkcoffee.co.uk",
+      "url": "https://www.sidewalkcoffee.co.uk/",
       "location": "Unit 1, School Court, Furlong Way, Highfields Caldecote, Cambridge, CB23 7AA",
       "profile_image_url": "pbs.twimg.com/profile_images/756920402832687104/pdtO0l2I.jpg",
-      "updated_at": "17-Feb-2017 22:05"
+      "updated_at": "17-Feb-2017 22:05",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -4019,8 +4315,9 @@
       "location": "The Lodge, English Drove, Thorney, Peterborough, Cambridgeshire, PE6 0TL",
       "name": "Silver Oak Coffee",
       "updated_at": "2020-06-10 10:47:45 UTC",
-      "url": "silveroakcoffee.co.uk",
-      "twitter": "@SilverOakCoffee"
+      "url": "https://silveroakcoffee.co.uk/",
+      "twitter": "@SilverOakCoffee",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -4032,8 +4329,9 @@
       "location": "Unit 13 Blackwater Road, Dublin Industrial Estate, Dublin, Ireland , 11",
       "name": "Silverskin Coffee",
       "updated_at": "2020-06-28 01:09:59 UTC",
-      "url": "www.silverskincoffee.ie",
-      "twitter": "@Silverskin_"
+      "url": "https://silverskincoffee.ie/",
+      "twitter": "@Silverskin_",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -4045,7 +4343,8 @@
       "location": "Antrim, Northern Ireland",
       "name": "Slumberjack Coffee",
       "updated_at": "2020-11-11 03:16:58 UTC",
-      "url": "https://www.slumberjackcoffee.com"
+      "url": "https://www.slumberjackcoffee.com",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -4057,8 +4356,9 @@
       "location": "68 Goldstone Villas, Hove, Brighton and Hove, BN3 3RU",
       "name": "Small Batch Coffee",
       "updated_at": "2020-06-28 03:10:42 UTC",
-      "url": "www.smallbatchcoffee.co.uk",
-      "twitter": "@SmallBatchCR"
+      "url": "https://www.smallbatchcoffee.co.uk/",
+      "twitter": "@SmallBatchCR",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -4070,8 +4370,9 @@
       "location": "49 St Joseph's Road, Handsworth , Sheffield, South Yorkshire, S13 9AU",
       "name": "Smith Street Coffee",
       "updated_at": "2020-06-28 05:07:18 UTC",
-      "url": "smithstreetcoffeeroasters.co.uk",
-      "twitter": "@SmithStCoffee"
+      "url": "https://www.smithstreetcoffeeroasters.co.uk/",
+      "twitter": "@SmithStCoffee",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -4085,7 +4386,8 @@
       "location": "Arabica House, Ebberns Road, Apsley, Hemel Hempstead, Herts HP3 9RD",
       "twitter": "none",
       "handle": "smiths-coffee-company",
-      "url": "www.smithscoffee.co.uk"
+      "url": "https://www.smithscoffee.co.uk/",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -4097,8 +4399,9 @@
       "location": "2 Earnshaw Court, Norwich, Norfolk, NR7 0BJ",
       "name": "Smokey Barn Coffee",
       "updated_at": "2020-06-28 03:13:41 UTC",
-      "url": "www.smokeybarn.co.uk",
-      "twitter": "@SmokeyBarn"
+      "url": "https://www.smokeybarn.co.uk/",
+      "twitter": "@SmokeyBarn",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -4110,7 +4413,8 @@
       "location": "Southampton",
       "name": "SOroast",
       "updated_at": "2020-06-28 01:03:41 UTC",
-      "url": "www.soroastcoffee.co.uk"
+      "url": "https://www.soroastcoffee.co.uk/",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -4123,7 +4427,8 @@
       "name": "Specialty Coffee Co",
       "updated_at": "2020-06-28 03:15:44 UTC",
       "url": "https://www.thespecialtycoffeecompany.com",
-      "twitter": "@SpecialtyCofCo"
+      "twitter": "@SpecialtyCofCo",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -4133,11 +4438,12 @@
     "type": "Feature",
     "properties": {
       "name": "Spectrum Coffee",
-      "url": "www.spectrumcoffeeroasters.co.uk",
+      "url": "http://www.spectrumcoffeeroasters.co.uk",
       "location": "20J Evans Business Park, Marston Moor Business Park, Rudgate, Tockwith, North Yorkshire, YO26 7QF",
       "profile_image_url": "cdn.shopify.com/s/files/1/1017/9983/t/3/assets/logo.png",
       "updated_at": "19-Dec-2015 09:52",
-      "twitter": "@spectrum_york"
+      "twitter": "@spectrum_york",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -4147,11 +4453,12 @@
     "type": "Feature",
     "properties": {
       "name": "Spiller & Tait",
-      "url": "spillerandtait.co.uk",
+      "url": "https://www.spillerandtait.co.uk/",
       "location": "Units 1&2, South Farm Court, South Farm Road,  Budleigh Salterton, Devon, EX9 7AZ",
       "profile_image_url": "www.spillerandtait.co.uk/uploads/3/4/4/8/3448017/1394779503.png",
       "updated_at": "06-May-2015 15:59",
-      "twitter": "@SpillerandTait"
+      "twitter": "@SpillerandTait",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -4161,11 +4468,12 @@
     "type": "Feature",
     "properties": {
       "name": "Square Mile Coffee",
-      "url": "www.squaremilecoffee.com",
+      "url": "https://shop.squaremilecoffee.com/",
       "location": "8 Pritchards Rd, London, E2 9AP",
       "profile_image_url": "https://pbs.twimg.com/profile_images/875669568085262336/6wKNlhXc_400x400.jpg",
       "updated_at": "02-May-2019 20:31",
-      "twitter": "@squaremile"
+      "twitter": "@squaremile",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -4177,8 +4485,9 @@
       "location": "12 Station Yard, Edington, Wiltshire, BA13 4NT",
       "name": "Square root Coffee",
       "updated_at": "2020-06-28 05:02:22 UTC",
-      "url": "www.squarerootcoffee.com",
-      "twitter": "@sqrootcoffee"
+      "url": "https://www.squarerootcoffee.com/",
+      "twitter": "@sqrootcoffee",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -4191,10 +4500,11 @@
       "name": "Steampunk Coffee Roasters",
       "profile_image_url": "https://cdn.shopify.com/s/files/1/1488/1242/files/croppedtotextlogo-01_copy_400x200.png?v=1489677269",
       "updated_at": "2019-06-20 17:08:57 UTC",
-      "url": "http://www.steampunkcoffee.co.uk",
+      "url": "https://www.steampunkcoffee.co.uk/",
       "twitter": "@SteampunkCoffee",
       "facebook": "steampunkcoffee",
-      "instagram": "steampunkcoffee"
+      "instagram": "steampunkcoffee",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -4208,7 +4518,8 @@
       "location": "116 Holbrook Rd, Stratford, London, E15",
       "twitter": "@Steencup",
       "handle": "steencup-coffee",
-      "url": "www.steencup.com"
+      "url": "http://www.steencup.com",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -4221,7 +4532,8 @@
       "name": "Stewarts Coffees",
       "updated_at": "2020-06-28 01:50:23 UTC",
       "url": "https://www.stewartscoffees.co.uk/",
-      "twitter": "@Stewartscoffees"
+      "twitter": "@Stewartscoffees",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -4233,10 +4545,11 @@
       "location": "Suite 1, The Lawn, Union Road, Lincoln, LN1 3BU",
       "name": "Stokes Tea and Coffee",
       "updated_at": "2020-06-30 09:12:56 UTC",
-      "url": "https://www.stokescoffee.com",
+      "url": "https://stokescoffee.com/",
       "twitter": "@StokesCoffee",
       "facebook": "stokescoffee",
-      "instagram": "stokescoffee"
+      "instagram": "stokescoffee",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -4248,8 +4561,9 @@
       "location": "Norwich, NR2 1DE",
       "name": "Strangers Coffee",
       "updated_at": "2020-06-27 06:22:59 UTC",
-      "url": "http://www.strangerscoffee.com",
-      "twitter": "@StrangersCoffee"
+      "url": "https://strangerscoffee.com/",
+      "twitter": "@StrangersCoffee",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -4259,11 +4573,12 @@
     "type": "Feature",
     "properties": {
       "name": "Stubbs Coffee",
-      "url": "www.facebook.com/stubbscoffees",
+      "url": "https://facebook.com/stubbscoffees",
       "location": "London",
       "profile_image_url": "https://pbs.twimg.com/profile_images/613646706757009408/tHOvBtBv_400x400.png",
       "updated_at": "11-Jun-2017 18:11",
-      "twitter": "@stubbscoffee"
+      "twitter": "@stubbscoffee",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -4277,7 +4592,8 @@
       "location": "Unit B, Brewery Yard, Welbeck, Worksop, Nottinghamshire, S80 3LT",
       "twitter": "@sundlaugcoffee",
       "handle": "sundlaug-coffee-co",
-      "url": "www.sundlaugcoffee.co.uk"
+      "url": "http://sundlaugcoffee.co.uk/",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -4287,11 +4603,12 @@
     "type": "Feature",
     "properties": {
       "name": "Sydney Road Coffee",
-      "url": "SydneyRoadCoffee.co.uk",
+      "url": "http://SydneyRoadCoffee.co.uk",
       "location": "Unit 26, Space Business Centre, Olympus Park, Quedgeley, Gloucester, GL2 4AL",
       "profile_image_url": "pbs.twimg.com/profile_images/624525589878341632/RzM1CVyM_400x400.jpg",
       "updated_at": "21-Sep-2015 16:52",
-      "twitter": "@SydRdCoffee"
+      "twitter": "@SydRdCoffee",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -4301,11 +4618,12 @@
     "type": "Feature",
     "properties": {
       "name": "T-A-P",
-      "url": "www.tapcoffee.co.uk",
+      "url": "http://tapcoffee.co.uk",
       "location": "193 Wardour Street, London, W1F 8ZF",
       "profile_image_url": "https://instagram.fmxp1-1.fna.fbcdn.net/vp/89ac938eb303b1ccaf5df3f58dc99542/5D65FD49/t51.2885-19/s320x320/45272561_1918529388263517_8789073267529875456_n.jpg?_nc_ht=instagram.fmxp1-1.fna.fbcdn.net",
       "updated_at": "02-May-2019 20:57",
-      "twitter": "@tapcoffee"
+      "twitter": "@tapcoffee",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -4319,7 +4637,8 @@
       "location": "The Oracle shopping Centre, Reading, RG1 2AG",
       "twitter": "@TampCulture",
       "handle": "tamp-culture-coffee",
-      "url": "tampculture.co.uk"
+      "url": "http://tampculture.co.uk",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -4331,8 +4650,9 @@
       "location": "53 Church Street, Leigh, Greater Manchester, WN7 1AY",
       "name": "Tank Coffee",
       "updated_at": "2020-06-10 10:49:51 UTC",
-      "url": "https://tankcoffee.com",
-      "twitter": "@TankCoffee"
+      "url": "https://www.tankcoffee.com/",
+      "twitter": "@TankCoffee",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -4342,11 +4662,12 @@
     "type": "Feature",
     "properties": {
       "name": "Tapa Organic Glasgow",
-      "url": "www.tapaorganic.com",
+      "url": "https://www.digitalgabbar.com/",
       "location": "721 Pollokshaws Rd, Strathbungo, Glasgow, Scotland, G41 2AA",
       "profile_image_url": "pbs.twimg.com/profile_images/378800000370291822/e503fc068909d2168bbe94350c65ea77_400x400.jpeg",
       "updated_at": "06-May-2015 15:43",
-      "twitter": "@tapaorganic"
+      "twitter": "@tapaorganic",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -4356,11 +4677,12 @@
     "type": "Feature",
     "properties": {
       "name": "Tate",
-      "url": "www.tate.org.uk/visit/coffee-by-tate",
+      "url": "http://tate.org.uk/visit/coffee-by-tate",
       "location": "Herne Hill, London",
       "profile_image_url": "https://storage.googleapis.com/tate-digital/ui/3.3.1-compressed/static/images/tate-logo.png",
       "updated_at": "02-May-2019 20:47",
-      "twitter": "@benjaminpres"
+      "twitter": "@benjaminpres",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -4372,8 +4694,9 @@
       "location": "3 Creekside, Deptford, London, SE8 4SA",
       "name": "Taylor St Baristas",
       "updated_at": "2020-05-21 08:58:35 UTC",
-      "url": "https://www.taylor-st.com",
-      "twitter": "@Taylor_St"
+      "url": "https://taylorstcoffee.myshopify.com/",
+      "twitter": "@Taylor_St",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -4383,11 +4706,12 @@
     "type": "Feature",
     "properties": {
       "name": "Taylors of Harrogate",
-      "url": "www.taylorscoffee.co.uk",
+      "url": "https://www.taylorsofharrogate.com/",
       "location": "1 Parliament Street, Harrogate, North Yorkshire, HG1 2QU",
       "profile_image_url": "pbs.twimg.com/profile_images/595502185674334208/vrED3L7N_400x400.jpg",
       "updated_at": "03-Jun-2015 14:03",
-      "twitter": "@TaylorsCoffee"
+      "twitter": "@TaylorsCoffee",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -4401,7 +4725,8 @@
       "updated_at": "2020-06-28 02:34:22 UTC",
       "url": "https://www.terrone.co.uk",
       "twitter": "@Terrone",
-      "facebook": "TerroneUK"
+      "facebook": "TerroneUK",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -4413,8 +4738,9 @@
       "location": "67 George St, Perth, Perthshire, Scotland, PH1 5LB",
       "name": "The Bean Shop",
       "updated_at": "2020-06-28 03:32:11 UTC",
-      "url": "www.thebeanshop.com",
-      "twitter": "@TheBeanShopUK"
+      "url": "http://www.thebeanshop.com",
+      "twitter": "@TheBeanShopUK",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -4426,8 +4752,9 @@
       "location": "Humber St Market, Hull and 22 Unit Factory Estate, Boulevard, Hull, Kingston upon Hull, HU3 4AY",
       "name": "The Blending Room",
       "updated_at": "2020-06-28 03:16:41 UTC",
-      "url": "www.theblendingroom.co.uk",
-      "twitter": "@TheBlendingRoom"
+      "url": "https://www.theblendingroom.co.uk/",
+      "twitter": "@TheBlendingRoom",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -4437,11 +4764,12 @@
     "type": "Feature",
     "properties": {
       "name": "The Blue Bean Coffee Co.",
-      "url": "www.thebluebeancoffee.co.uk",
+      "url": "https://www.thebluebeancoffee.co.uk/",
       "location": "Kent",
       "profile_image_url": "pbs.twimg.com/profile_images/550704918919909376/qdE_gMlW_400x400.jpeg",
       "updated_at": "01-Aug-2016 10:25",
-      "twitter": "@TheBlueBeanCo"
+      "twitter": "@TheBlueBeanCo",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -4451,11 +4779,12 @@
     "type": "Feature",
     "properties": {
       "name": "The Coffee Bean - Van & Roaster",
-      "url": "www.thecoffeebean-vanandroaster.co.uk/",
+      "url": "https://www.thecoffeebean-vanandroaster.co.uk/",
       "location": "Aberdare, South Wales",
       "profile_image_url": "pbs.twimg.com/profile_images/528205464387862530/9XBU2VUn_400x400.png",
       "updated_at": "06-May-2015 15:46",
-      "twitter": "@CoffeebeanThe"
+      "twitter": "@CoffeebeanThe",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -4469,7 +4798,8 @@
       "location": "Manchester",
       "twitter": "@CoffeeCircle",
       "handle": "james-guard",
-      "url": "www.thecoffeecircle.co.uk"
+      "url": "http://www.thecoffeecircle.co.uk",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -4479,10 +4809,11 @@
     "type": "Feature",
     "properties": {
       "name": "The Coffee Company - Torquay",
-      "url": "www.coffeecompanytorquay.com",
+      "url": "https://www.coffeecompanytorquay.com/",
       "location": "70A Windsor Road, Torquay, Devon, TQ1 1SZ",
       "profile_image_url": "",
-      "updated_at": "06-May-2015 15:46"
+      "updated_at": "06-May-2015 15:46",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -4495,7 +4826,8 @@
       "name": "The Coffee Officina",
       "updated_at": "2020-06-10 10:50:59 UTC",
       "url": "https://thecoffeeofficina.com/",
-      "twitter": "@coffeeofficina"
+      "twitter": "@coffeeofficina",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -4507,9 +4839,10 @@
       "location": "Festival House, Jessop Avenue, Cheltenham, Gloustershire, GL50 3SH",
       "name": "The Coffee Pod",
       "updated_at": "2020-06-04 02:59:58 UTC",
-      "url": "https://www.facebook.com/ScandinavianCoffeePod",
+      "url": "https://facebook.com/ScandinavianCoffeePod",
       "twitter": "@PodCoffee",
-      "facebook": "ScandinavianCoffeePod"
+      "facebook": "ScandinavianCoffeePod",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -4523,7 +4856,8 @@
       "location": "Nightingale House, Gloucester Rd, Bath, BA1 8BJ",
       "twitter": "@CoffeeRoastUK",
       "handle": "the-coffee-roasters",
-      "url": "thecoffeeroasters.co.uk"
+      "url": "https://thecoffeeroasters.co.uk/",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -4535,8 +4869,9 @@
       "location": "Unit C, Duck Farm Workshop, Puddletown, Dorchester, Dorset, DT2 8QL",
       "name": "The Dorset Coffee Company",
       "updated_at": "2020-06-28 05:00:36 UTC",
-      "url": "https://www.dorsetcoffee.co.uk",
-      "twitter": "@dorsetcoffee"
+      "url": "https://dorsetcoffee.co.uk",
+      "twitter": "@dorsetcoffee",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -4551,7 +4886,8 @@
       "url": "https://www.drurycoffee.com",
       "twitter": "@DruryUK",
       "facebook": "DruryUK",
-      "instagram": "drury_uk"
+      "instagram": "drury_uk",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -4561,11 +4897,12 @@
     "type": "Feature",
     "properties": {
       "name": "The Ethiopian Coffee Co",
-      "url": "www.theethiopiancoffeecompany.co.uk",
+      "url": "https://www.theethiopiancoffeecompany.co.uk/",
       "location": "61 Amwell Street, Islington, London, EC1R 1UR",
       "profile_image_url": "pbs.twimg.com/profile_images/414259197/to_go_400x400.jpg",
       "updated_at": "06-May-2015 15:39",
-      "twitter": "@EthiopianCoffee"
+      "twitter": "@EthiopianCoffee",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -4577,8 +4914,9 @@
       "location": "Reigate, Surrey",
       "name": "The Fresh Coffee Co",
       "updated_at": "2020-06-28 01:48:46 UTC",
-      "url": "www.thefreshcoffeecompany.com",
-      "twitter": "@FreshCoffeeCo"
+      "url": "https://www.thefreshcoffeecompany.com/",
+      "twitter": "@FreshCoffeeCo",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -4588,11 +4926,12 @@
     "type": "Feature",
     "properties": {
       "name": "The Galway Roast",
-      "url": "www.thegalwayroast.com",
+      "url": "http://thegalwayroast.com",
       "location": "Vicar Street, Tuam, Co. Galway, Ireland",
       "profile_image_url": "pbs.twimg.com/profile_images/1498269508/galway-roast-logo_400x400.jpg",
       "updated_at": "06-May-2015 15:58",
-      "twitter": "@galwayroast"
+      "twitter": "@galwayroast",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -4602,11 +4941,12 @@
     "type": "Feature",
     "properties": {
       "name": "The Golden Bean",
-      "url": "www.facebook.com/thegoldenbeancork",
+      "url": "https://facebook.com/thegoldenbeancork",
       "location": "Ballymaloe House, Shanagarry, Co. Cork, Ireland",
       "profile_image_url": "https://scontent-bru.xx.fbcdn.net/hphotos-xfp1/v/t1.0-9/1794589_588912094531962_18220085_n.jpg?oh=c47d484e57665e967a4b4010cd135cd7&oe=554EE9FA",
       "updated_at": "11-Jun-2017 18:11",
-      "twitter": "@thegoldenbean"
+      "twitter": "@thegoldenbean",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -4618,8 +4958,9 @@
       "location": "3 Peacock Parade, Lake Street, Leighton Buzzard, Bedfordshire, LU7 1JH",
       "name": "The House of Coffee",
       "updated_at": "2020-06-28 02:31:44 UTC",
-      "url": "thehouseofcoffee.co.uk",
-      "twitter": "@HouseofCoffee1"
+      "url": "http://thehouseofcoffee.co.uk",
+      "twitter": "@HouseofCoffee1",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -4629,11 +4970,12 @@
     "type": "Feature",
     "properties": {
       "name": "The Isle of Wight Espresso Company",
-      "url": "www.iow-espresso.co.uk",
+      "url": "http://iow-espresso.co.uk",
       "location": "Spring Tides, 37 Spring Hill, Ventnor, Isle Of Wight, PO38 1PF",
       "profile_image_url": "pbs.twimg.com/profile_images/454013291367383040/E8qPI-QP_400x400.jpeg",
       "updated_at": "06-May-2015 15:46",
-      "twitter": "@island_roasted"
+      "twitter": "@island_roasted",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -4645,8 +4987,9 @@
       "location": "1 Newtec Place, Magdalen Road, Oxford, Oxfordshire, OX4 1RE",
       "name": "The Missing Bean",
       "updated_at": "2020-06-28 04:50:57 UTC",
-      "url": "www.themissingbean.co.uk",
-      "twitter": "@TheMissingBean"
+      "url": "https://www.themissingbean.co.uk/",
+      "twitter": "@TheMissingBean",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -4658,8 +5001,9 @@
       "location": "71 Carron Place, Kelvin Industrial Estate, East Kilbride, Glasgow, Scotland, G75 0YL",
       "name": "The Roast Den",
       "updated_at": "2020-06-28 04:49:46 UTC",
-      "url": "www.roast-den.com",
-      "twitter": "@RoastdenUK"
+      "url": "http://roast-den.com",
+      "twitter": "@RoastdenUK",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -4671,7 +5015,8 @@
       "location": "Brighton",
       "name": "The Roasted Bean Co.",
       "updated_at": "2020-06-28 01:30:38 UTC",
-      "url": "www.roastedbean.co.uk"
+      "url": "https://www.roastedbean.co.uk/",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -4684,7 +5029,8 @@
       "name": "The Roasting Party",
       "updated_at": "2020-06-28 01:49:58 UTC",
       "url": "https://theroastingparty.co.uk",
-      "twitter": "@RoastingParty"
+      "twitter": "@RoastingParty",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -4697,7 +5043,8 @@
       "name": "The Roasting Shed",
       "updated_at": "2020-06-28 03:26:12 UTC",
       "url": "https://www.theroastingshed.com/",
-      "twitter": "@theroastingshed"
+      "twitter": "@theroastingshed",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -4709,8 +5056,9 @@
       "location": "55 Main Road, Ogmore By Sea, The Vale of Glamorgan, South Wales, CF32 0PL",
       "name": "The Welsh Coffee Co",
       "updated_at": "2020-06-28 02:34:44 UTC",
-      "url": "www.welshcoffee.com",
-      "twitter": "@welshcoffeeco"
+      "url": "http://welshcoffee.com",
+      "twitter": "@welshcoffeeco",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -4720,11 +5068,12 @@
     "type": "Feature",
     "properties": {
       "name": "TheRoastHouseTralee",
-      "url": "theroasthouse.ie",
+      "url": "http://www.theroasthouse.ie/",
       "location": "3 Denny Street, Tralee, Co. Kerry, Ireland",
       "profile_image_url": "pbs.twimg.com/profile_images/3124737762/3dbd4db45f1101000a0dab57ecf47ea7_400x400.jpeg",
       "updated_at": "03-Jun-2015 13:45",
-      "twitter": "@Roast_House"
+      "twitter": "@Roast_House",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -4738,7 +5087,8 @@
       "location": "Thistledown Cottage, 5 The Street, Brome Eye, Suffolk, IP23 8AE",
       "twitter": "@Freshly_Roasted",
       "handle": "thistledown-cottage-coffee",
-      "url": "www.thistledowncottagecoffee.co.uk"
+      "url": "http://www.thistledowncottagecoffee.co.uk",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -4748,11 +5098,12 @@
     "type": "Feature",
     "properties": {
       "name": "Thomsons Coffee",
-      "url": "www.thomsonscoffee.com",
+      "url": "https://www.thomsonscoffee.com/",
       "location": "Burnfield Ave, Glasgow, Scotland, G46 7TL",
       "profile_image_url": "pbs.twimg.com/profile_images/564360169186803712/YqpP4Gie_400x400.jpeg",
       "updated_at": "06-May-2015 15:37",
-      "twitter": "@thomsonscoffee"
+      "twitter": "@thomsonscoffee",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -4765,7 +5116,8 @@
       "name": "Three Hills Coffee",
       "updated_at": "2020-05-27 05:00:10 UTC",
       "url": "https://www.threehillscoffee.com",
-      "twitter": "@3HillsCoffee"
+      "twitter": "@3HillsCoffee",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -4778,7 +5130,8 @@
       "name": "ThreeSixty\u02da Coffee",
       "updated_at": "2020-06-11 03:59:51 UTC",
       "url": "http://www.ThreeSixtyCoffee.co.uk",
-      "twitter": "@360_Coffee"
+      "twitter": "@360_Coffee",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -4791,7 +5144,8 @@
       "name": "TripleCoRoast",
       "updated_at": "2020-06-27 06:50:51 UTC",
       "url": "https://www.triplecoroast.com",
-      "twitter": "@TripleCoRoast"
+      "twitter": "@TripleCoRoast",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -4804,7 +5158,8 @@
       "name": "Tropic Coffee Ltd",
       "updated_at": "2020-06-28 04:48:20 UTC",
       "url": "https://www.tropiccoffee.co.uk",
-      "twitter": "@TropicCoffeeLtd"
+      "twitter": "@TropicCoffeeLtd",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -4814,11 +5169,12 @@
     "type": "Feature",
     "properties": {
       "name": "Twin Cafe",
-      "url": "www.twincafe.org/",
+      "url": "https://www.twincafe.org/",
       "location": "Sheffield, South Yorkshire",
       "profile_image_url": "pbs.twimg.com/profile_images/566598210240532480/egI6jga_.png",
       "updated_at": "06-May-2015 15:59",
-      "twitter": "@twincafe12"
+      "twitter": "@twincafe12",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -4832,7 +5188,8 @@
       "location": "Castletown, Drumcliffe, Sligo, Ireland",
       "twitter": "@twinroasters",
       "handle": "twin-roasters",
-      "url": "www.twinroasters.com"
+      "url": "http://www.twinroasters.com",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -4842,11 +5199,12 @@
     "type": "Feature",
     "properties": {
       "name": "Two Day Coffee",
-      "url": "twodaycoffee.co.uk/",
+      "url": "https://twodaycoffee.co.uk/",
       "location": "135 St Michael's Hill, Bristol, BS2 8BS",
       "profile_image_url": "pbs.twimg.com/profile_images/1165547554/Logo_400x400.jpg",
       "updated_at": "19-May-2015 19:42",
-      "twitter": "@TwoDayCoffee"
+      "twitter": "@TwoDayCoffee",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -4860,7 +5218,8 @@
       "url": "https://www.twodogscoffeecompany.com",
       "location": "Treorchy, Wales, CF42 6RS",
       "facebook": "twodogsroasting",
-      "instagram": "@twodogscoffee"
+      "instagram": "@twodogscoffee",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -4872,8 +5231,9 @@
       "location": "Unit Q16, Greenogue Business Park, Rathcoole, Dublin, Ireland",
       "name": "Two Spots Coffee",
       "updated_at": "2020-06-28 01:50:58 UTC",
-      "url": "twospotscoffee.ie",
-      "twitter": "@twospots_ie"
+      "url": "http://twospotscoffee.ie",
+      "twitter": "@twospots_ie",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -4885,8 +5245,9 @@
       "location": "Tynemouth, Newcastle upon Tyne, Tyne & Wear",
       "name": "Tynemouth Coffee Co.",
       "updated_at": "2020-06-28 04:08:54 UTC",
-      "url": "tynemouthcoffee.com",
-      "twitter": "@TynemouthCoffee"
+      "url": "http://tynemouthcoffee.com",
+      "twitter": "@TynemouthCoffee",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -4898,8 +5259,9 @@
       "location": "11a Windrush Industrial. Park, Linkwood Road, Witney, Oxfordshire",
       "name": "Ue Coffee Roasters",
       "updated_at": "2019-12-22 11:02:56 UTC",
-      "url": "www.uecoffeeroasters.com",
-      "twitter": "@uecoffee"
+      "url": "https://uecoffeeroasters.com/",
+      "twitter": "@uecoffee",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -4911,8 +5273,9 @@
       "location": "7a South Crescent, London, E16 4TL",
       "name": "Union Hand Roasted",
       "updated_at": "2019-12-22 11:01:07 UTC",
-      "url": "www.unionroasted.com/",
-      "twitter": "@Unionroasted"
+      "url": "https://unionroasted.com/",
+      "twitter": "@Unionroasted",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -4926,7 +5289,8 @@
       "location": "2 Bradbourne Drive Tilbrook Milton Keynes MK7 8AT",
       "twitter": "none",
       "handle": "united-coffee",
-      "url": "www.unitedcoffeeuk.com"
+      "url": "http://www.unitedcoffeeuk.com",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -4939,7 +5303,8 @@
       "name": "Unorthodox Roasters",
       "updated_at": "2020-05-21 08:58:33 UTC",
       "url": "https://www.unorthodoxroasters.co.uk",
-      "twitter": "@unorthodoxroast"
+      "twitter": "@unorthodoxroast",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -4952,7 +5317,8 @@
       "description": "Upperlands Coffee Company is a small family business run by Julie and John Henderson. They can be found every Saturday in St Georges speciality food market in Belfast and on the first Sunday of every month (through the summer) at Farmleigh Farmers Market in Phoenix Park Dublin",
       "location": "12 East Bridge Street St, George's Market, Belfast BT7",
       "handle": "upperlands-coffee-company",
-      "url": "www.upperlandscoffeecompany.com"
+      "url": "http://www.upperlandscoffeecompany.com",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -4964,8 +5330,9 @@
       "location": "Unit 14, Chart House Business Park, Richmond Road, Fairview, Dublin 3, Ireland",
       "name": "Upside Coffee",
       "updated_at": "2020-06-28 01:03:12 UTC",
-      "url": "www.upsidecoffee.com",
-      "twitter": "@upside_coffee"
+      "url": "https://www.upsidecoffee.com/",
+      "twitter": "@upside_coffee",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -4975,11 +5342,12 @@
     "type": "Feature",
     "properties": {
       "name": "Urban Coffee Company",
-      "url": "www.urbancoffee.co.uk",
+      "url": "http://www.urbancoffee.co.uk",
       "location": "30 Church Street, Colmore Business District, Birmingham, West Midlands, B3 2NP",
       "profile_image_url": "pbs.twimg.com/profile_images/378800000581569996/5fcfa791f7a4e5775cf5683c1f79c9bc_400x400.png",
       "updated_at": "06-May-2015 15:41",
-      "twitter": "@urbancoffeeco"
+      "twitter": "@urbancoffeeco",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -4993,7 +5361,8 @@
       "location": "West Midlands",
       "twitter": "@urban_roast",
       "handle": "urban-roast",
-      "url": "urbanroastcoffee.co.uk"
+      "url": "http://urbanroastcoffee.co.uk",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -5003,11 +5372,12 @@
     "type": "Feature",
     "properties": {
       "name": "Utopia coffee",
-      "url": "utopiacoffee.co.uk",
+      "url": "http://utopiacoffee.co.uk",
       "location": "The Royals,  Southend-on-Sea, Essex, SS1 1DQ",
       "profile_image_url": "https://pbs.twimg.com/profile_images/3016352795/2518308d1cc0c3540937210a9697f1da_400x400.jpeg",
       "updated_at": "17-Jul-2018 13:56",
-      "twitter": "@Gr8Coffee"
+      "twitter": "@Gr8Coffee",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -5017,11 +5387,12 @@
     "type": "Feature",
     "properties": {
       "name": "Vagabond Coffee",
-      "url": "vagabondcoffeeroasters.com",
+      "url": "https://vagabondcoffeeroasters.com/",
       "location": "London, N7",
       "profile_image_url": "pbs.twimg.com/profile_images/572380921949462528/uSg4fAq9_400x400.jpeg",
       "updated_at": "15-Apr-2016 14:33",
-      "twitter": "@Vagabondcoffeer"
+      "twitter": "@Vagabondcoffeer",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -5034,7 +5405,8 @@
       "name": "Volcano Coffee Works",
       "updated_at": "2020-06-28 02:36:10 UTC",
       "url": "https://volcanocoffeeworks.com",
-      "twitter": "@Volcano_Coffee"
+      "twitter": "@Volcano_Coffee",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -5044,10 +5416,11 @@
     "type": "Feature",
     "properties": {
       "name": "W. Martyn",
-      "url": "www.wmartyn.co.uk/",
+      "url": "https://www.wmartyn.co.uk/",
       "location": "135 Muswell Hill Broadway,  London, N10 3RS",
       "profile_image_url": "www.wmartyn.co.uk/wp-content/uploads/2012/12/Logo2a-300x104.jpg",
-      "updated_at": "06-May-2015 15:46"
+      "updated_at": "06-May-2015 15:46",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -5060,7 +5433,8 @@
       "name": "Weanie Beans",
       "updated_at": "2020-04-26 06:00:01 UTC",
       "url": "https://www.weaniebeans.com",
-      "twitter": "@WeanieBeans"
+      "twitter": "@WeanieBeans",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -5072,8 +5446,9 @@
       "location": "Unit 23 Eckland Lodge Business Park, Desborough Road, Market Harborough, Leicestershire, LE16 8HB",
       "name": "Well Roasted Coffee",
       "updated_at": "2020-06-28 00:07:19 UTC",
-      "url": "www.wellroastedcoffee.com",
-      "twitter": "@well_roasted"
+      "url": "https://www.wellroastedcoffee.com/",
+      "twitter": "@well_roasted",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -5085,8 +5460,9 @@
       "location": "Bournemouth, Dorset",
       "name": "Wellington Coffee",
       "updated_at": "2020-06-11 04:41:32 UTC",
-      "url": "wellingtoncoffee.co.uk",
-      "twitter": "@WellingtonCoffe"
+      "url": "https://wellingtoncoffee.co.uk/",
+      "twitter": "@WellingtonCoffe",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -5099,7 +5475,8 @@
       "name": "White Rose Coffee Roasters",
       "updated_at": "2020-05-21 08:58:45 UTC",
       "url": "https://whiterosecoffeeroasters.co.uk",
-      "twitter": "@WRRoasters"
+      "twitter": "@WRRoasters",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -5109,11 +5486,12 @@
     "type": "Feature",
     "properties": {
       "name": "Wholey Bean",
-      "url": "wholeybean.com",
+      "url": "http://wholeybean.com",
       "location": "London",
       "profile_image_url": "pbs.twimg.com/profile_images/558060819838038016/4dh6jPjp_400x400.jpeg",
       "updated_at": "06-May-2015 15:58",
-      "twitter": "@wholeybean"
+      "twitter": "@wholeybean",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -5123,10 +5501,11 @@
     "type": "Feature",
     "properties": {
       "name": "Wilkinson's of Norwich",
-      "url": "wilkinsonsofnorwich.com",
+      "url": "https://www.wilkinsonsofnorwich.com/",
       "location": "5 Lobster Lane, Norwich, Norfolk, NR2 1DQ",
       "profile_image_url": "cdn.shopify.com/s/files/1/0181/3537/files/wilkinsons-of-norwich.jpg",
-      "updated_at": "06-May-2015 15:56"
+      "updated_at": "06-May-2015 15:56",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -5138,8 +5517,9 @@
       "location": "17 Church Green Close, Kings Worthy, Winchester, Hampshire, SO23 7TT",
       "name": "Winchester Coffee",
       "updated_at": "2020-06-11 02:59:33 UTC",
-      "url": "www.winchestercoffeeschool.co.uk",
-      "twitter": "@wincoffeeschool"
+      "url": "https://www.winchestercoffeeschool.co.uk/",
+      "twitter": "@wincoffeeschool",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -5149,11 +5529,12 @@
     "type": "Feature",
     "properties": {
       "name": "Wogan Coffee",
-      "url": "www.wogancoffee.co.uk",
+      "url": "http://www.wogancoffee.co.uk",
       "location": "2 Clement Street, Bristol, BS2 9EQ",
       "profile_image_url": "https://wogancoffee.com/wp-content/uploads/2018/01/wogan-coffee-logo-4-2.jpg",
       "updated_at": "01-May-2019 08:18",
-      "twitter": "@WoganCoffee"
+      "twitter": "@WoganCoffee",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -5165,8 +5546,9 @@
       "location": "Ampthill, Bedfordshire",
       "name": "Wooden Hill Coffee",
       "updated_at": "2020-06-28 01:12:38 UTC",
-      "url": "www.woodenhillcoffee.com",
-      "twitter": "@WoodenHcoffee"
+      "url": "https://woodenhillcoffee.co.uk/",
+      "twitter": "@WoodenHcoffee",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -5176,11 +5558,12 @@
     "type": "Feature",
     "properties": {
       "name": "Workhouse Coffee &Co",
-      "url": "workhousecoffee.co.uk",
+      "url": "http://workhousecoffee.co.uk",
       "location": "335 Oxford Rd, Reading, Berkshire, RG30 1AY",
       "profile_image_url": "workhousecoffee.co.uk/headerimg.png",
       "updated_at": "06-May-2015 15:37",
-      "twitter": "@WorkhouseCoffee"
+      "twitter": "@WorkhouseCoffee",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -5190,11 +5573,12 @@
     "type": "Feature",
     "properties": {
       "name": "Workshop Coffee Co.",
-      "url": "www.workshopcoffee.com",
+      "url": "https://workshopcoffee.com/",
       "location": "27 Clerkenwell Road, Clerkenwell, London, EC1M 5RN",
       "profile_image_url": "pbs.twimg.com/profile_images/438325872685109248/FR5ow5UD_400x400.jpeg",
       "updated_at": "06-May-2015 15:31",
-      "twitter": "@WorkshopEC1"
+      "twitter": "@WorkshopEC1",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -5204,10 +5588,11 @@
     "type": "Feature",
     "properties": {
       "name": "World Coffees Ltd",
-      "url": "worldcoffees.co.uk",
+      "url": "http://worldcoffees.co.uk",
       "location": "The Old Forge,  Denmans Lane, Lindfield, West Sussex, RH16 2LB",
       "profile_image_url": "cdn.shopify.com/s/files/1/0240/2767/t/16/assets/logo.png",
-      "updated_at": "06-May-2015 15:56"
+      "updated_at": "06-May-2015 15:56",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -5220,8 +5605,9 @@
       "name": "YallahCoffee",
       "profile_image_url": "pbs.twimg.com/profile_images/2931178569/6a5bdd5e84ed2e6e415550c6d8f9140b_400x400.jpeg",
       "updated_at": "2019-07-04 08:10:50 UTC",
-      "url": "www.yallahcoffee.co.uk",
-      "twitter": "@YallahCoffee"
+      "url": "https://yallahcoffee.co.uk/",
+      "twitter": "@YallahCoffee",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -5233,8 +5619,9 @@
       "location": "Unit 8, London Ebor Business Park, Millfield Lane, Nether Poppleton, York, YO26 6QY",
       "name": "York Coffee Emporium",
       "updated_at": "2019-12-23 16:18:54 UTC",
-      "url": "www.yorkcoffeeemporium.co.uk",
-      "twitter": "@york_coffee"
+      "url": "https://yorkemporium.co.uk/",
+      "twitter": "@york_coffee",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -5244,11 +5631,12 @@
     "type": "Feature",
     "properties": {
       "name": "ZeEspresso Coffee",
-      "url": "zeespresso.com",
+      "url": "http://zeespresso.com",
       "location": "Edinburgh, Scotland",
       "profile_image_url": "pbs.twimg.com/profile_images/656859545382297601/AE1bV_Ym.jpg",
       "updated_at": "09-Mar-2016 16:10",
-      "twitter": "@zeespresso"
+      "twitter": "@zeespresso",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -5261,7 +5649,8 @@
       "description": "We source our green coffee through the most respected merchants in the trade whose ethos is to ensure a fair return for the grower, that coffee is produced in a sustainable way and where workers are properly compensated. We use high quality, traceable beans sourced in small lots, primarily from South America and East Africa, each batch being carefully selected to display the characteristics of the region. These are then hand roasted at our premises. The Zen ethos is to help people step aside the hurly burly of modern life and allow themselves a moment to connect with their own energy. Coffee doesn\u2019t just stimulate the mind and tastebuds, its an antioxidant too. So in small amounts its good for both your mind and your health. More than that it provides a simple excuse to relax, be that be at the end of a meal or as a brief interlude, either alone or in company. So please make the most of Zen and in so doing we hope to help you make a small step in your journey to make the most of you!",
       "location": "Mile Oak Industrial Estate, Maesbury Rd, Oswestry, SY10 8GA",
       "handle": "zen-coffee-roasters",
-      "url": "https://www.zencoffee.co.uk"
+      "url": "https://www.zencoffee.co.uk",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",
@@ -5274,7 +5663,8 @@
       "url": "http://zombiecoffeeco.co.uk",
       "location": "Clitheroe, Lankshire, BB7",
       "profile_image_url": "https://cdn.shopify.com/s/files/1/0181/3537/files/zombie-coffee-logo.jpg",
-      "updated_at": "16-Jul-2018 08:44"
+      "updated_at": "16-Jul-2018 08:44",
+      "marker-symbol": "cafe-11"
     },
     "geometry": {
       "type": "Point",

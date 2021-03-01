@@ -1,7 +1,4 @@
-![](img/logo.png)
-
-# Absolute Roasters
-
+# ![Absolute Roasters](img/logo.png)
 
 **A data set of UK Coffee Roasters**
 

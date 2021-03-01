@@ -314,9 +314,9 @@
       "location": "92 English Row, Celbridge, Co Kildare, Ireland",
       "name": "Baobab Coffee Roasters",
       "updated_at": "2020-06-28 04:12:32 UTC",
-      "url": "http://www.baobab.ie",
+      "url": "http://baobab.ie",
       "twitter": "@BaobabRoasters",
-      "marker-symbol": "cafe"
+      "marker-symbol": "cafe"      
     },
     "geometry": {
       "type": "Point",
@@ -478,7 +478,9 @@
       "updated_at": "2019-11-17 18:01:57 UTC",
       "url": "http:///collections/beanzz-coffee-eastbourne",
       "twitter": "@BeanzzCoffee",
-      "marker-symbol": "cafe"
+      "marker-symbol": "danger",
+      "marker-color": "#ff8647",
+      "status": "unknown"
     },
     "geometry": {
       "type": "Point",
@@ -566,7 +568,9 @@
       "twitter": "@BlackChapelYard",
       "handle": "black-chapel",
       "url": "http://blackchapel.london/index.php/black-chapel",
-      "marker-symbol": "cafe"
+      "marker-symbol": "danger",
+      "marker-color": "#ff8647",
+      "status": "unknown"
     },
     "geometry": {
       "type": "Point",
@@ -626,7 +630,9 @@
       "profile_image_url": "https://pbs.twimg.com/profile_images/2796470223/00b1ac4b3db71cad9fad418ada57a2f6_400x400.png",
       "updated_at": "16-Jul-2018 09:42",
       "twitter": "@BlkStarCoffee",
-      "marker-symbol": "cafe"
+      "marker-symbol": "danger",
+      "marker-color": "#ff8647",
+      "status": "unknown"
     },
     "geometry": {
       "type": "Point",
@@ -728,7 +734,9 @@
       "updated_at": "2020-06-11 04:02:34 UTC",
       "url": "http://brownbottlecoffee.com",
       "twitter": "@BrownBottleCo",
-      "marker-symbol": "cafe"
+      "marker-symbol": "danger",
+      "marker-color": "#ff8647",
+      "status": "unknown"
     },
     "geometry": {
       "type": "Point",
@@ -773,7 +781,9 @@
       "profile_image_url": "cdn.shopify.com/s/files/1/0181/3537/files/bullet-coffee-logo.jpg",
       "updated_at": "06-May-2015 15:51",
       "twitter": "@bulletcoffee",
-      "marker-symbol": "cafe"
+      "marker-symbol": "danger",
+      "marker-color": "#ff8647",
+      "status": "unknown"
     },
     "geometry": {
       "type": "Point",
@@ -802,7 +812,9 @@
       "profile_image_url": "cdn.shopify.com/s/files/1/0181/3537/files/cafe-boutique-logo.jpg",
       "updated_at": "06-May-2015 15:38",
       "twitter": "@CafeBoutique",
-      "marker-symbol": "cafe"
+      "marker-symbol": "danger",
+      "marker-color": "#ff8647",
+      "status": "unknown"
     },
     "geometry": {
       "type": "Point",
@@ -832,7 +844,9 @@
       "twitter": "@Biscardi1903",
       "handle": "caffe-biscardi-1903",
       "url": "http://www.caffebiscardi1903.com",
-      "marker-symbol": "cafe"
+      "marker-symbol": "danger",
+      "marker-color": "#ff8647",
+      "status": "unknown"
     },
     "geometry": {
       "type": "Point",
@@ -1035,7 +1049,9 @@
       "twitter": "@cmcoffeeroaster",
       "handle": "charlie-mills-coffee",
       "url": "http://www.charliemillscoffee.com",
-      "marker-symbol": "cafe"
+      "marker-symbol": "danger",
+      "marker-color": "#ff8647",
+      "status": "unknown"
     },
     "geometry": {
       "type": "Point",
@@ -1150,7 +1166,9 @@
       "twitter": "@Coastal_Roaster",
       "handle": "coastal-roaster",
       "url": "http://coastalroaster.co.uk",
-      "marker-symbol": "cafe"
+      "marker-symbol": "danger",
+      "marker-color": "#ff8647",
+      "status": "unknown"
     },
     "geometry": {
       "type": "Point",
@@ -1485,7 +1503,9 @@
       "profile_image_url": "https://cdn.shopify.com/s/files/1/0181/3537/collections/craftedcoffee_logo_medium.jpg",
       "updated_at": "16-Jul-2018 07:57",
       "twitter": "@Crafted_Coffee",
-      "marker-symbol": "cafe"
+      "marker-symbol": "danger",
+      "marker-color": "#e32400",
+      "status": "unknown"
     },
     "geometry": {
       "type": "Point",
@@ -1734,7 +1754,9 @@
       "location": "Hampshire",
       "facebook": "dripcoffeebeans",
       "instagram": "dripcoffeebeans",
-      "marker-symbol": "cafe"
+      "marker-symbol": "danger",
+      "marker-color": "#e32400",
+      "status": "unknown"
     },
     "geometry": {
       "type": "Point",
@@ -1981,7 +2003,9 @@
       "updated_at": "2020-06-28 03:36:39 UTC",
       "url": "http://www.flamingbean.co.uk",
       "twitter": "@flamingbean",
-      "marker-symbol": "cafe"
+      "marker-symbol": "danger",
+      "marker-color": "#ff8647",
+      "status": "unknown"
     },
     "geometry": {
       "type": "Point",
@@ -2055,7 +2079,9 @@
       "twitter": "@freshbagcoffee",
       "handle": "fresh-bag-of-coffee",
       "url": "http://afreshbagofcoffee.co.uk",
-      "marker-symbol": "cafe"
+      "marker-symbol": "danger",
+      "marker-color": "#ff8647",
+      "status": "unknown"
     },
     "geometry": {
       "type": "Point",
@@ -2269,7 +2295,9 @@
       "profile_image_url": "static1.squarespace.com/static/53ce9752e4b09ce5b33ae23f/t/56c47fcd2b8dde24de9b08b8/1459031788588/?format=400w",
       "updated_at": "15-Apr-2016 14:28",
       "twitter": "@GrindCoffeeBar",
-      "marker-symbol": "cafe"
+      "marker-symbol": "danger",
+      "marker-color": "#e32400",
+      "status": "unknown"
     },
     "geometry": {
       "type": "Point",
@@ -2284,7 +2312,9 @@
       "twitter": "@GroundedBoys",
       "handle": "grounded-coffee",
       "url": "http://ground-n-out.co.uk",
-      "marker-symbol": "cafe"
+      "marker-symbol": "danger",
+      "marker-color": "#ff8647",
+      "status": "unknown"
     },
     "geometry": {
       "type": "Point",
@@ -2312,7 +2342,9 @@
       "updated_at": "2020-06-28 01:51:04 UTC",
       "url": "http://gyre.coffeevagabond.co.uk",
       "twitter": "@mrgyre_mrgimble",
-      "marker-symbol": "cafe"
+      "marker-symbol": "danger",
+      "marker-color": "#ff8647",
+      "status": "unknown"
     },
     "geometry": {
       "type": "Point",
@@ -2326,7 +2358,9 @@
       "updated_at": "2020-06-16 22:39:51 UTC",
       "url": "https://hampshirecoffee.co/",
       "twitter": "@hantscoffeeco",
-      "marker-symbol": "cafe"
+      "marker-symbol": "danger",
+      "marker-color": "#ff8647",
+      "status": "unknown"
     },
     "geometry": {
       "type": "Point",
@@ -2471,7 +2505,9 @@
       "twitter": "@HopeandGloryUK",
       "handle": "hope-and-glory-coffee",
       "url": "http://www.hopeandglorycoffee.co.uk",
-      "marker-symbol": "cafe"
+      "marker-symbol": "danger",
+      "marker-color": "#e32400",
+      "status": "unknown"
     },
     "geometry": {
       "type": "Point",
@@ -2735,7 +2771,9 @@
       "location": "4 Hawthorn Way, St Ives, Cambridgeshire, PE27 3YP",
       "profile_image_url": "cdn.shopify.com/s/files/1/0181/3537/files/jesters.gif",
       "updated_at": "06-May-2015 15:45",
-      "marker-symbol": "cafe"
+      "marker-symbol": "danger",
+      "marker-color": "#ff8647",
+      "status": "unknown"
     },
     "geometry": {
       "type": "Point",
@@ -2779,7 +2817,9 @@
       "twitter": "@jonestowncoffee",
       "handle": "jonestown-coffee",
       "url": "http://jonestowncoffee.co.uk",
-      "marker-symbol": "cafe"
+      "marker-symbol": "danger",
+      "marker-color": "#ff8647",
+      "status": "unknown"
     },
     "geometry": {
       "type": "Point",
@@ -3024,7 +3064,9 @@
       "location": "12 Steep Hill, Lincoln, Lincolnshire, LN2 1LT",
       "handle": "makushi-coffee-roasters",
       "url": "http://makushi.bigcartel.com",
-      "marker-symbol": "cafe"
+      "marker-symbol": "danger",
+      "marker-color": "#e32400",
+      "status": "unknown"
     },
     "geometry": {
       "type": "Point",
@@ -3068,7 +3110,9 @@
       "profile_image_url": "cdn.shopify.com/s/files/1/0181/3537/files/mariners-coffee-logo.png",
       "updated_at": "03-Jun-2015 13:59",
       "twitter": "@MarinersCoffee",
-      "marker-symbol": "cafe"
+      "marker-symbol": "danger",
+      "marker-color": "#ff8647",
+      "status": "unknown"
     },
     "geometry": {
       "type": "Point",
@@ -3184,7 +3228,9 @@
       "twitter": "@MillysCoffeeCo",
       "handle": "milly's-coffee-co",
       "url": "http://millyscoffeecompany.com",
-      "marker-symbol": "cafe"
+      "marker-symbol": "danger",
+      "marker-color": "#ff8647",
+      "status": "unknown"
     },
     "geometry": {
       "type": "Point",
@@ -3314,7 +3360,9 @@
       "location": "Gallows Green, Dunmow, Essex, CM6",
       "handle": "my-daily-coffee",
       "url": "http://mydailycoffee.co.uk",
-      "marker-symbol": "cafe"
+      "marker-symbol": "danger",
+      "marker-color": "#ff8647",
+      "status": "unknown"
     },
     "geometry": {
       "type": "Point",
@@ -3329,7 +3377,9 @@
       "twitter": "@NaturesRoast",
       "handle": "natures-roast",
       "url": "http://www.naturesroast.co.uk",
-      "marker-symbol": "cafe"
+      "marker-symbol": "danger",
+      "marker-color": "#ff8647",
+      "status": "unknown"
     },
     "geometry": {
       "type": "Point",
@@ -3344,7 +3394,9 @@
       "profile_image_url": "www.neighbourhoodcoffee.co.uk/wp-content/uploads/2014/10/logowhite2.png",
       "updated_at": "06-May-2015 15:53",
       "twitter": "@NhoodCoffee",
-      "marker-symbol": "cafe"
+      "marker-symbol": "danger",
+      "marker-color": "#ff8647",
+      "status": "unknown"
     },
     "geometry": {
       "type": "Point",
@@ -3603,7 +3655,9 @@
       "profile_image_url": "https://pbs.twimg.com/profile_images/2766234313/efba74f19a55cb9ef179d12c78c268f6_400x400.jpeg",
       "updated_at": "16-Jul-2018 07:59",
       "twitter": "@OxenhamLeigh",
-      "marker-symbol": "cafe"
+      "marker-symbol": "danger",
+      "marker-color": "#ff8647",
+      "status": "unknown"
     },
     "geometry": {
       "type": "Point",
@@ -3836,7 +3890,9 @@
       "profile_image_url": "pbs.twimg.com/profile_images/689073941839740928/zbHH4M3K.jpg",
       "updated_at": "27-Oct-2016 22:21",
       "twitter": "@pumpngrind",
-      "marker-symbol": "cafe"
+      "marker-symbol": "danger",
+      "marker-color": "#ff8647",
+      "status": "unknown"
     },
     "geometry": {
       "type": "Point",
@@ -4097,7 +4153,9 @@
       "twitter": "@RoastFiend",
       "handle": "roast-central",
       "url": "http://www.roastcentral.co.uk",
-      "marker-symbol": "cafe"
+      "marker-symbol": "danger",
+      "marker-color": "#ff8647",
+      "status": "unknown"
     },
     "geometry": {
       "type": "Point",
@@ -4128,7 +4186,9 @@
       "updated_at": "2019-11-17 18:16:50 UTC",
       "url": "https://roastedritualscoffee.com/",
       "twitter": "@RoastedRituals",
-      "marker-symbol": "cafe"
+      "marker-symbol": "danger",
+      "marker-color": "#ff8647",
+      "status": "unknown"
     },
     "geometry": {
       "type": "Point",
@@ -4143,7 +4203,9 @@
       "twitter": "@roasterbcoffee",
       "handle": "roasterb-coffee-co-windsor",
       "url": "http://www.roasterb.com",
-      "marker-symbol": "cafe"
+      "marker-symbol": "danger",
+      "marker-color": "#ff8647",
+      "status": "unknown"
     },
     "geometry": {
       "type": "Point",
@@ -4230,7 +4292,9 @@
       "twitter": "@RoundsquareAyr",
       "handle": "roundsquare-roastery",
       "url": "http://www.roundsquareroastery.co.uk",
-      "marker-symbol": "cafe"
+      "marker-symbol": "danger",
+      "marker-color": "#e32400",
+      "status": "unknown"
     },
     "geometry": {
       "type": "Point",
@@ -4274,7 +4338,9 @@
       "profile_image_url": "shpetite.ie/images/logo.gif",
       "updated_at": "06-May-2015 15:49",
       "twitter": "@SashaHouseDub",
-      "marker-symbol": "cafe"
+      "marker-symbol": "danger",
+      "marker-color": "#ff8647",
+      "status": "unknown"
     },
     "geometry": {
       "type": "Point",
@@ -4443,7 +4509,9 @@
       "profile_image_url": "cdn.shopify.com/s/files/1/1017/9983/t/3/assets/logo.png",
       "updated_at": "19-Dec-2015 09:52",
       "twitter": "@spectrum_york",
-      "marker-symbol": "cafe"
+      "marker-symbol": "danger",
+      "marker-color": "#ff8647",
+      "status": "unknown"
     },
     "geometry": {
       "type": "Point",
@@ -4519,7 +4587,9 @@
       "twitter": "@Steencup",
       "handle": "steencup-coffee",
       "url": "http://www.steencup.com",
-      "marker-symbol": "cafe"
+      "marker-symbol": "danger",
+      "marker-color": "#ff8647",
+      "status": "unknown"
     },
     "geometry": {
       "type": "Point",
@@ -4608,7 +4678,9 @@
       "profile_image_url": "pbs.twimg.com/profile_images/624525589878341632/RzM1CVyM_400x400.jpg",
       "updated_at": "21-Sep-2015 16:52",
       "twitter": "@SydRdCoffee",
-      "marker-symbol": "cafe"
+      "marker-symbol": "danger",
+      "marker-color": "#ff8647",
+      "status": "unknown"
     },
     "geometry": {
       "type": "Point",
@@ -4638,7 +4710,9 @@
       "twitter": "@TampCulture",
       "handle": "tamp-culture-coffee",
       "url": "http://tampculture.co.uk",
-      "marker-symbol": "cafe"
+      "marker-symbol": "danger",
+      "marker-color": "#ff8647",
+      "status": "unknown"
     },
     "geometry": {
       "type": "Point",
@@ -4740,7 +4814,9 @@
       "updated_at": "2020-06-28 03:32:11 UTC",
       "url": "http://www.thebeanshop.com",
       "twitter": "@TheBeanShopUK",
-      "marker-symbol": "cafe"
+      "marker-symbol": "danger",
+      "marker-color": "#ff8647",
+      "status": "unknown"
     },
     "geometry": {
       "type": "Point",
@@ -5088,7 +5164,9 @@
       "twitter": "@Freshly_Roasted",
       "handle": "thistledown-cottage-coffee",
       "url": "http://www.thistledowncottagecoffee.co.uk",
-      "marker-symbol": "cafe"
+      "marker-symbol": "danger",
+      "marker-color": "#ff8647",
+      "status": "unknown"
     },
     "geometry": {
       "type": "Point",
@@ -5189,7 +5267,9 @@
       "twitter": "@twinroasters",
       "handle": "twin-roasters",
       "url": "http://www.twinroasters.com",
-      "marker-symbol": "cafe"
+      "marker-symbol": "danger",
+      "marker-color": "#ff8647",
+      "status": "unknown"
     },
     "geometry": {
       "type": "Point",
@@ -5233,7 +5313,9 @@
       "updated_at": "2020-06-28 01:50:58 UTC",
       "url": "http://twospotscoffee.ie",
       "twitter": "@twospots_ie",
-      "marker-symbol": "cafe"
+      "marker-symbol": "danger",
+      "marker-color": "#ff8647",
+      "status": "unknown"
     },
     "geometry": {
       "type": "Point",
@@ -5290,7 +5372,9 @@
       "twitter": "none",
       "handle": "united-coffee",
       "url": "http://www.unitedcoffeeuk.com",
-      "marker-symbol": "cafe"
+      "marker-symbol": "danger",
+      "marker-color": "#ff8647",
+      "status": "unknown"
     },
     "geometry": {
       "type": "Point",
@@ -5318,7 +5402,9 @@
       "location": "12 East Bridge Street St, George's Market, Belfast BT7",
       "handle": "upperlands-coffee-company",
       "url": "http://www.upperlandscoffeecompany.com",
-      "marker-symbol": "cafe"
+      "marker-symbol": "danger",
+      "marker-color": "#ff8647",
+      "status": "unknown"
     },
     "geometry": {
       "type": "Point",
@@ -5347,7 +5433,9 @@
       "profile_image_url": "pbs.twimg.com/profile_images/378800000581569996/5fcfa791f7a4e5775cf5683c1f79c9bc_400x400.png",
       "updated_at": "06-May-2015 15:41",
       "twitter": "@urbancoffeeco",
-      "marker-symbol": "cafe"
+      "marker-symbol": "danger",
+      "marker-color": "#ff8647",
+      "status": "unknown"
     },
     "geometry": {
       "type": "Point",
@@ -5491,7 +5579,9 @@
       "profile_image_url": "pbs.twimg.com/profile_images/558060819838038016/4dh6jPjp_400x400.jpeg",
       "updated_at": "06-May-2015 15:58",
       "twitter": "@wholeybean",
-      "marker-symbol": "cafe"
+      "marker-symbol": "danger",
+      "marker-color": "#ff8647",
+      "status": "unknown"
     },
     "geometry": {
       "type": "Point",
@@ -5534,7 +5624,9 @@
       "profile_image_url": "https://wogancoffee.com/wp-content/uploads/2018/01/wogan-coffee-logo-4-2.jpg",
       "updated_at": "01-May-2019 08:18",
       "twitter": "@WoganCoffee",
-      "marker-symbol": "cafe"
+      "marker-symbol": "danger",
+      "marker-color": "#ff8647",
+      "status": "unknown"
     },
     "geometry": {
       "type": "Point",
@@ -5592,7 +5684,9 @@
       "location": "The Old Forge,  Denmans Lane, Lindfield, West Sussex, RH16 2LB",
       "profile_image_url": "cdn.shopify.com/s/files/1/0240/2767/t/16/assets/logo.png",
       "updated_at": "06-May-2015 15:56",
-      "marker-symbol": "cafe"
+      "marker-symbol": "danger",
+      "marker-color": "#e32400",
+      "status": "unknown"
     },
     "geometry": {
       "type": "Point",
@@ -5636,7 +5730,9 @@
       "profile_image_url": "pbs.twimg.com/profile_images/656859545382297601/AE1bV_Ym.jpg",
       "updated_at": "09-Mar-2016 16:10",
       "twitter": "@zeespresso",
-      "marker-symbol": "cafe"
+      "marker-symbol": "danger",
+      "marker-color": "#ff8647",
+      "status": "unknown"
     },
     "geometry": {
       "type": "Point",
@@ -5650,7 +5746,9 @@
       "location": "Mile Oak Industrial Estate, Maesbury Rd, Oswestry, SY10 8GA",
       "handle": "zen-coffee-roasters",
       "url": "https://www.zencoffee.co.uk",
-      "marker-symbol": "cafe"
+      "marker-symbol": "danger",
+      "marker-color": "#ff8647",
+      "status": "unknown"
     },
     "geometry": {
       "type": "Point",

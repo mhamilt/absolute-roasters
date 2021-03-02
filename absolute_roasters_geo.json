@@ -316,7 +316,7 @@
       "updated_at": "2020-06-28 04:12:32 UTC",
       "url": "http://baobab.ie",
       "twitter": "@BaobabRoasters",
-      "marker-symbol": "cafe"      
+      "marker-symbol": "cafe"
     },
     "geometry": {
       "type": "Point",
@@ -5724,19 +5724,17 @@
   }, {
     "type": "Feature",
     "properties": {
-      "name": "ZeEspresso Coffee",
-      "url": "http://zeespresso.com",
-      "location": "Edinburgh, Scotland",
-      "profile_image_url": "pbs.twimg.com/profile_images/656859545382297601/AE1bV_Ym.jpg",
+      "name": "Forth Coffee Roasters",
+      "url": "https://www.forthcoffee.com",
+      "location": "Forth Coffee Roasters, Unit 3-4 Flexspace, Harvest Road, Newbridge, EH28 8LW, Scotland",
+      "profile_image_url": "https://cdn.shopify.com/s/files/1/1747/9553/files/Front_Main_logo_130x@2x.png",
       "updated_at": "09-Mar-2016 16:10",
-      "twitter": "@zeespresso",
-      "marker-symbol": "danger",
-      "marker-color": "#ff8647",
-      "status": "unknown"
+      "twitter": "@ForthRoasters",
+      "marker-symbol": "cafe"
     },
     "geometry": {
       "type": "Point",
-      "coordinates": [-3.1883, 55.9533]
+      "coordinates": [-3.3998, 55.9352]
     }
   }, {
     "type": "Feature",

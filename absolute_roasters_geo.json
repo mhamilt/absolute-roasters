@@ -4812,11 +4812,9 @@
       "location": "67 George St, Perth, Perthshire, Scotland, PH1 5LB",
       "name": "The Bean Shop",
       "updated_at": "2020-06-28 03:32:11 UTC",
-      "url": "http://www.thebeanshop.com",
+      "url": "https://www.thebeanshop.co.uk",
       "twitter": "@TheBeanShopUK",
-      "marker-symbol": "danger",
-      "marker-color": "#ff8647",
-      "status": "unknown"
+      "marker-symbol": "cafe"      
     },
     "geometry": {
       "type": "Point",

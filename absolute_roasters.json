@@ -2634,7 +2634,13 @@
   "updated_at": "2020-06-28 01:03:41 UTC",
   "url": "https://www.soroastcoffee.co.uk/",
   "coord": [50.9097, -1.4044]
-}, {
+},{
+    "location": "4 Spittal St, Edinburgh EH3 9DX",
+    "name": "The Source",
+    "updated_at": "2024-10-01 08:57:49 BST",
+    "url": "https://www.thesourcecoffee.co.uk/",
+    "coord": [-3.20320, 55.9459]    
+  },{
   "location": "138 Valley Drive, Harrogate, HG2 0JS",
   "name": "Source Climate Coffee",
   "updated_at": "2020-06-16 04:41:07 UTC",

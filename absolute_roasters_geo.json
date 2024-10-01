@@ -4473,7 +4473,21 @@
       "type": "Point",
       "coordinates": [1.3366, 52.6272]
     }
-  }, {
+  },{
+    "type": "Feature",
+    "properties": {
+      "location": "4 Spittal St, Edinburgh EH3 9DX",
+      "name": "The Source",
+      "updated_at": "2024-10-01 08:57:49 BST",
+      "url": "https://www.thesourcecoffee.co.uk/",
+      "marker-symbol": "cafe"
+    },
+    "geometry": {
+      "type": "Point",
+      
+      "coordinates": [-3.20320, 55.9459]
+    }
+  },{
     "type": "Feature",
     "properties": {
       "location": "Southampton",

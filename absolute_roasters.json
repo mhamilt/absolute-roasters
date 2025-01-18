@@ -1402,6 +1402,15 @@
   "twitter": "@happydonkeyltd",
   "coord": [51.4496, -0.9665]
 }, {
+  "name": "Hard Lines",
+  "location": "Unit 13, FAIRFIELD INDUSTRIAL ESTATE, Gwaelod-y-garth, Cardiff CF15 8LA",
+  "established":null,
+  "closed":null,
+  "open": true,
+  "url": "https://hard-lines.co.uk/",
+  "social": {"instagram":"@hardlinescoffee"},
+  "coord": [51.53792, 3.26314]
+}, {
   "name": "Hasbean",
   "url": "https://www.hasbean.co.uk/",
   "location": "Unit 16, Ladford Covert, Ladfordfields Industrial Estate, Seighford, Stafford, ST18 9QL",
@@ -2328,6 +2337,15 @@
   "updated_at": "01-May-2019 08:17",
   "twitter": "@QtrHorseCoffee",
   "coord": [52.4716, -1.8993]
+}, {
+  "name": "Radical Roasters",
+  "location": "60-62 St.Mark's Road, Easton, Bristol, BS5 0LR",
+  "established":null,
+  "closed":null,
+  "open": true,
+  "url": "https://radicalroasters.bigcartel.com/",
+  "social": {"instagram":"@radicalroastersuk"},
+  "coord": [51.46653, 2.56593]
 }, {
   "location": "Unit 7, Stirling Works, Love Lane, Cirencester, Gloucestershire, GL7 1YG",
   "name": "Rave Coffee",

@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+
+<head>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+        integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+        integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+    <style>
+        html,
+        body {
+            margin: 0;
+            /* remove default body margin */
+            padding: 0;
+            height: 100%;
+            /* ensure body fills viewport */
+            font-family: sans-serif;
+            padding: 20px;
+        }
+
+        #dateLabel {
+            font-weight: bold;
+            margin-top: 10px;
+            width: auto;
+            display: block;
+        }
+
+        #dateSlider {
+            width: 100%;
+            height: 30px;
+            box-sizing: border-box;
+        }
+
+        #map {
+            height: 100vw;
+        }
+
+        .main {
+            width: 75%;
+            height: 100vh;
+            box-sizing: border-box;
+            overflow: hidden;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        .labels {
+            display: flex;
+            justify-content: space-between;
+            margin-bottom: 5px;
+            font-weight: bold;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="main">
+        <h1>Coffee Businesses in the UK</h1>
+        <div id="map"></div>
+        <input type="range" id="dateSlider" />
+
+        <div class="labels">
+            <span id="dateLabel">Today's Date</span>
+            <span id="counter">Businesses</span>
+        </div>
+
+    </div>
+
+    <script>
+        const startDate = new Date("2012-07-03");
+        const today = new Date();
+        let incCompDate = new Date("2012-07-03");
+        let disCompDate = new Date("2012-07-03");
+        const oneDay = 1000 * 60 * 60 * 24; // ms in one day 
+        const totalDays = Math.round((today - startDate) / oneDay);
+
+        const slider = document.getElementById("dateSlider");
+        slider.min = 0;
+        slider.max = totalDays;
+        slider.step = 1;
+        slider.value = 0;
+
+        const duration = 10000; // total duration in ms (5 seconds)
+        const min = parseFloat(slider.min);
+        const max = parseFloat(slider.max);
+        const step = parseFloat(slider.step);
+        const totalSteps = (max - min) / step;
+        const intervalTime = duration / totalSteps;
+
+        let currentValue = min;
+
+        let map = L.map('map').setView([55.03, -4.04], 6);
+
+        L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
+            maxZoom: 19,
+            attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
+        }).addTo(map);
+
+        let geomarkers = [];
+
+        fetch('src/companies_house.geojson')
+            .then(response => response.json())
+            .then(geojson => {
+
+                geomarkers = geojson['features'].map(feature => {
+                    feature.marker = L.marker(feature.geometry.coordinates.reverse(), { interactive: false })
+                    return feature;
+                })
+
+                updateLabel()
+
+                   let animateSlider = setInterval(() => {
+                        currentValue += step;
+                        if (currentValue > max) {
+                            currentValue = max;
+                            clearInterval(animateSlider); // stop at max
+                        }
+                        slider.value = currentValue;                    
+                        updateLabel()
+
+                    }, intervalTime);
+            })
+            .catch(err => console.error(err));
+
+
+
+        const label = document.getElementById("dateLabel");
+        const businesses = document.getElementById("counter");
+
+        label.textContent = startDate.toISOString().slice(0, 10); // YYYY-MM-DD
+
+        function updateLabel() {
+            const daysOffset = parseInt(slider.value, 10);
+            const currentDate = new Date(startDate.getTime() + daysOffset * oneDay);
+            label.textContent = currentDate.toISOString().slice(0, 10); // YYYY-MM-DD
+            let counter = 0;
+
+            geomarkers.forEach(feature => {
+                incCompDate.setFullYear(...feature.properties.incorporated.split("-"))
+                disCompDate.setFullYear(...feature.properties.dissolved.split("-"))               
+                if (
+                    (feature.properties.status === "Active" && incCompDate < currentDate) ||
+                    (incCompDate < currentDate && disCompDate > currentDate)
+                ) {
+                    feature.marker.addTo(map);                    
+                    counter++;
+                }
+                else {
+                    feature.marker.remove()
+                }
+            })
+            businesses.textContent = `${counter} Businesses`;
+        }
+
+        slider.addEventListener("input", updateLabel);
+
+    </script>
+</body>
